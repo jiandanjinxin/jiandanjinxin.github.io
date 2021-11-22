@@ -1,6 +1,6 @@
 ## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Countdown timers to keep track of a bunch of CV/ML/SP/DM/MIC/SI/AC conference deadlines.
 
 ## Contributing
 
@@ -32,6 +32,8 @@ To add or update a deadline:
 - [netdeadlines.com][12] by @albertgranalcoz
 - [ad-deadlines.com][13] by @daniel-bogdoll
 - [ai-challenge-deadlines][15] by @dieg0as
+- [在github上建立自己的网站][16] by @夏冬青
+- [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南][17] by @
 
 ## License
 
@@ -51,3 +53,5 @@ To add or update a deadline:
 [13]: https://ad-deadlines.com/
 [14]: https://github.com/m3dv/ai-deadlines
 [15]: https://github.com/dieg0as/ai-challenge-deadlines
+[16]: https://www.cnblogs.com/xiadongqing/p/6164060.html
+[17]: https://blog.csdn.net/suburbiax79/article/details/50987974
