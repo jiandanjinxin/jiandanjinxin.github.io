@@ -1,12 +1,12 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Jiandanjinxin AI Conference Deadlines
+description: Countdowns to top CV/ML/SP/DM/MIC/SI/AC/AI conference deadlines
+author: jiandanjinxin
 
-domain: "aideadlin.es"
+domain: "jiandanjinxin.github.io"
 baseurl: ""
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
+github_username: jiandanjinxin
 github_repo: ai-deadlines
 
 markdown: kramdown
