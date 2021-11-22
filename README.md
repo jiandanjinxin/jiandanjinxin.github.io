@@ -25,6 +25,7 @@ To add or update a deadline:
 - [neuro-deadlines][4] by @tbryn
 - [ai-challenge-deadlines][5] by @dieg0as
 - [CV-oriented ai-deadlines (with an emphasis on medical images)][8] by @duducheng
+- [medical images][14] by @Medical 3D Vision
 - [es-deadlines (Embedded Systems, Computer Architecture, and Cyber-physical Systems)][9] by @AlexVonB and @k0nze
 - [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
 - [ccf-deadlines][11] by @ccfddl
@@ -47,3 +48,4 @@ To add or update a deadline:
 [11]: https://ccfddl.github.io/
 [12]: https://netdeadlines.com/
 [13]: https://ad-deadlines.com/
+[14]: https://github.com/m3dv/ai-deadlines
