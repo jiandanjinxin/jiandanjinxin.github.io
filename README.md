@@ -31,6 +31,7 @@ To add or update a deadline:
 - [ccf-deadlines][11] by @ccfddl
 - [netdeadlines.com][12] by @albertgranalcoz
 - [ad-deadlines.com][13] by @daniel-bogdoll
+- [ai-challenge-deadlines][15] by @dieg0as
 
 ## License
 
@@ -49,3 +50,4 @@ To add or update a deadline:
 [12]: https://netdeadlines.com/
 [13]: https://ad-deadlines.com/
 [14]: https://github.com/m3dv/ai-deadlines
+[15]: https://github.com/dieg0as/ai-challenge-deadlines
