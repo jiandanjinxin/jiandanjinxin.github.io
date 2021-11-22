@@ -11,3 +11,9 @@
   sub: SP
 - name: Data Mining
   sub: DM
+- name: Medical Image Computing
+  sub: MIC
+- name: Special Issues
+  sub: SI
+- name: AI Challenge 
+  sub: AC
