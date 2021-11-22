@@ -33,7 +33,8 @@ To add or update a deadline:
 - [ad-deadlines.com][13] by @daniel-bogdoll
 - [ai-challenge-deadlines][15] by @dieg0as
 - [在github上建立自己的网站][16] by @夏冬青
-- [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南][17] by @
+- [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南][17] by @chaosinmotion
+
 
 ## License
 
