@@ -13,16 +13,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
 
-- title: ACL
-  hindex: 157
-  year: 2022
-  id: acl22
-  link: https://2022.aclweb.org/
-  deadline: '2021-11-15 23:59:59'
-  timezone: UTC-12
-  date: May 22-27, 2022
-  place: Dublin, Ireland
-  sub: NLP
 
 - title: CVPR
   hindex: 299
@@ -58,16 +48,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 10, 2021. More info <a href=''http://icaps22.icaps-conference.org/''>here</a>.'
 
-- title: LREC
-  hindex: 38
-  year: 2022
-  id: lrec22
-  link: http://elra.info/en/lrec/lrec-2022/
-  deadline: '2022-01-10 23:59:59'
-  timezone: Europe/Paris
-  date: June 20-25, 2022
-  place: Marseille, France
-  sub: NLP
 
 - title: IJCAI
   hindex: 105
@@ -81,16 +61,7 @@
   place: Vienna, Austria
   sub: ML
 
-- title: NAACL
-  hindex: 105
-  year: 2022
-  id: naacl22
-  link: https://2022.naacl.org/
-  deadline: '2022-01-15 23:59:00'
-  timezone: UTC-12
-  date: July 10-15, 2022
-  place: Seattle, Washington, USA
-  sub: NLP
+
 
 - title: ALT
   hindex: 15
@@ -104,17 +75,7 @@
   sub: ML
   paperslink: http://algorithmiclearningtheory.org/alt2020/accepted-papers/
 
-- title: HRI
-  hindex: 40
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
-  sub: RO
-  paperslink: https://dl.acm.org/doi/proceedings/10.1145/3319502
+
 
 - title: ICMR
   hindex: 33
@@ -164,45 +125,6 @@
   sub: ML
   paperslink: http://computationalcreativity.net/iccc20/papers/ICCC20_Proceedings.pdf
 
-- title: ISMIR
-  hindex: 32
-  year: 2020
-  id: ismir20
-  link: https://ismir.github.io/ISMIR2020/
-  deadline: '2020-04-17 23:59:59'
-  abstract_deadline: '2020-04-10 23:59:59'
-  timezone: UTC-12
-  date: October 12-15, 2020
-  place: Montreal, Canada
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
-  paperslink: https://program.ismir2020.net/papers.html?filter=keywords
-
-- title: AACL-IJCNLP
-  hindex: -1
-  year: 2020
-  id: aacl20
-  link: http://aacl2020.org
-  deadline: '2020-06-26 23:59:00'
-  timezone: UTC-12
-  date: December 4-7, 2020
-  place: Suzhou, China
-  sub: NLP
-  pwclink: https://paperswithcode.com/conference/asian-chapter-of-the-association-for
-  paperslink: https://aclanthology.org/events/aacl-2020/
-
-- title: COLING
-  hindex: 41
-  year: 2020
-  id: coling20
-  link: https://coling2020.org/
-  deadline: '2020-07-01 23:59:59'
-  timezone: UTC-12
-  date: December 8-13, 2020
-  place: Barcelona, Spain
-  sub: NLP
-  paperslink: https://aclanthology.org/volumes/2020.coling-main/
-
 - title: ACCV
   hindex: 38
   year: 2020
@@ -227,18 +149,6 @@
   sub: ML
   paperslink: https://www.micc.unifi.it/icpr2020/index.php/papers-and-authors/
 
-- title: CoNLL
-  hindex: 34
-  year: 2020
-  id: conll2020
-  link: http://www.conll.org/2020
-  deadline: '2020-07-17 23:59:59'
-  timezone: UTC-12
-  date: November 19-20, 2020
-  place: Online
-  sub: NLP
-  paperslink: https://aclanthology.org/events/conll-2020/
-
 - title: 3DV
   hindex: 29
   year: 2020
@@ -251,30 +161,6 @@
   sub: CV
   paperslink: http://3dv2020.dgcv.nii.ac.jp/conferenceprogram.html
 
-- title: WMT
-  hindex: 27
-  year: 2020
-  id: wmt20
-  link: http://www.statmt.org/wmt20/
-  deadline: '2020-08-15 23:59:00'
-  timezone: UTC-12
-  date: November 19-20, 2020
-  place: Online
-  sub: NLP
-  paperslink: http://www.statmt.org/wmt20/papers.html
-
-- title: EACL
-  hindex: 36
-  year: 2021
-  id: eacl21
-  link: https://2021.eacl.org/
-  deadline: '2020-10-07 23:59:00'
-  timezone: UTC-12
-  date: April 21-23, 2021
-  place: Online (Kyiv, Ukraine)
-  sub: NLP
-  pwclink: https://paperswithcode.com/conference/eacl-2021-2
-  paperslink: https://aclanthology.org/events/eacl-2021/#2021-eacl-main
 
 - title: AAMAS
   hindex: 25
@@ -418,28 +304,6 @@
   sub: ML
   paperslink: https://www.auai.org/uai2021/accepted_papers
 
-- title: IROS
-  hindex: 58
-  year: 2021
-  id: iros21
-  link: https://www.iros2021.org/important-dates
-  deadline: '2021-03-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: Sep 27-Oct 1, 2021
-  place: Prague, Czech Republic
-  sub: RO
-
-- title: RSS
-  hindex: 47
-  year: 2021
-  id: rss21
-  link: https://roboticsconference.org/
-  deadline: '2021-03-01 23:59:59'
-  timezone: UTC-12
-  date: Jul 12-16, 2021
-  place: Online
-  sub: RO
-  paperslink: https://roboticsconference.org/program/papers/
 
 - title: MICCAI
   hindex: 46
@@ -481,18 +345,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 26, 2021. More info <a href=''https://2021.ecmlpkdd.org/?page_id=1599/''>here</a>.'
   paperslink: https://2021.ecmlpkdd.org/?page_id=1811
 
-- title: InterSpeech
-  hindex: 81
-  year: 2021
-  id: interspeech21
-  link: http://www.interspeech2021.org/
-  deadline: '2021-04-02 23:59:59'
-  timezone: UTC-12
-  date: August 30 - September 3, 2021
-  place: Brno, Czechia
-  sub: SP
-  abstract_deadline: '2021-03-26 23:59:59'
-  paperslink: https://www.isca-speech.org/archive/interspeech_2021/index.html
 
 - title: FG
   hindex: -1
@@ -533,17 +385,7 @@
     href=''https://recsys.acm.org/recsys21/dates/''>here</a>.'
   paperslink: https://recsys.acm.org/recsys21/accepted-contributions/#content-tab-1-0-tab
 
-- title: EMNLP
-  hindex: 112
-  year: 2021
-  id: emnlp21
-  link: https://2021.emnlp.org/
-  deadline: '2021-05-17 23:59:00'
-  timezone: UTC-12
-  date: November 7-11, 2021
-  place: Punta Cana, Dominican Republic
-  abstract_deadline: '2021-05-10 23:59:00'
-  sub: NLP
+
 
 - title: ICMI
   hindex: -1
@@ -606,26 +448,9 @@
   place: Auckland, New Zealand
   sub: DM
 
-- title: CoRL
-  year: 2021
-  id: corl21
-  link: http://www.robot-learning.org
-  deadline: '2021-06-18 23:59:00'
-  timezone: UTC-7
-  date: November 8-11, 2021
-  place: London, UK, and virtual
-  sub: RO
 
-- title: AKBC
-  year: 2021
-  id: akbc21
-  link: https://www.akbc.ws/2021/
-  deadline: '2021-06-21 23:59:59'
-  timezone: UTC-12
-  date: October 4-7, 2021
-  place: Irvine, United States
-  sub: NLP
-  paperslink: https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions
+
+
 
 - title: BMVC
   hindex: 57
@@ -675,16 +500,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
 
-- title: ICRA
-  hindex: 94
-  year: 2022
-  id: icra22
-  link: https://icra2022.org/
-  deadline: '2021-09-14 23:59:59'
-  timezone: America/Los_Angeles
-  date: May 23-27, 2022
-  place: Philadelphia (PA), USA
-  sub: RO
 
 - title: ICLR
   hindex: 203
