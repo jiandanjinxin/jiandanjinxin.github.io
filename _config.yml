@@ -7,7 +7,7 @@ baseurl: ""
 
 twitter_hashtag: machinelearning
 github_username: jiandanjinxin
-github_repo: ai-deadlines
+github_repo: jiandanjinxin
 
 markdown: kramdown
 ga_id:
