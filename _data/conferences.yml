@@ -471,19 +471,6 @@
   note: '<b>NOTE</b>: Abstract deadline on Feb 10, 2021. More info <a href=''https://2021.midl.io/dates.html''>here</a>.'
   paperslink: https://2021.midl.io/program.html
 
-  
-
-
-- title: L4DC
-  year: 2022
-  id: l4dc22
-  link: https://l4dc.stanford.edu/
-  deadline: '2021-12-07 17:00:00'
-  timezone: UTC-5
-  date: June 23-24, 2022
-  place: Stanford University, CA, USA
-  sub: ML
-
 - title: ICAPS
   hindex: 27
   year: 2022
