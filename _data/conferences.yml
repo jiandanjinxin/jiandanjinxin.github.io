@@ -1,6 +1,6 @@
 ---
 
-- name: CVPR abstract
+- title:: CVPR abstract
   year: 2021
   id: cvpr21-abstract
   link: http://cvpr2021.thecvf.com
@@ -23,7 +23,7 @@
   place: New Orleans, Louisiana, USA
   sub: CV
  
-- name: ICCV abstract
+- title: ICCV abstract
   year: 2021
   id: iccv21-abstract
   link: http://iccv2021.thecvf.com/
@@ -48,7 +48,7 @@
 
 
 
- - title: ECCV
+- title: ECCV
   hindex: 135
   year: 2020
   id: eccv20
@@ -84,7 +84,7 @@
   sub: CV
   paperslink: https://accv2020.github.io/programs/papers/index.html
 
-- name: ACCV review
+- title: ACCV review
   year: 2020
   id: accv2020-review
   link: http://accv2020.kyoto/
@@ -94,7 +94,7 @@
   place: Kyoto, Japan
   sub: CV
 
-- name: BMVC
+- title: BMVC
   year: 2018
   id: bmvc2018
   link: http://bmvc2018.org/
@@ -105,7 +105,7 @@
   sub: CV
 
 
-- name: BMVC review
+- title: BMVC review
   year: 2020
   id: bmvc2020-review
   link: https://bmvc2020.github.io/
@@ -115,7 +115,7 @@
   place: TBD
   sub: ML
 
-- name: WACV
+- title: WACV
   year: 2020
   id: wacv20
   link: http://wacv20.wacv.net/
@@ -126,7 +126,7 @@
   sub: CV
   note: "<b>NOTE</b>: First round submission deadline."
 
-- name: WACV review
+- title: WACV review
   year: 2021
   id: wacv2021-review
   link: http://wacv2021.thecvf.com/
@@ -168,7 +168,7 @@
   paperslink: https://www.micc.unifi.it/icpr2020/index.php/papers-and-authors/
 
 
-- name: IJCAI abstract
+- title: IJCAI abstract
   year: 2021
   id: ijcai21-abstract
   link: https://ijcai-21.org/
@@ -194,7 +194,7 @@
   sub: ML
 
 
-- name: ICML abstract
+- title: ICML abstract
   year: 2021
   id: icml21-abstract
   link: https://icml.cc/Conferences/2021
@@ -217,7 +217,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
 
-- name: ICML review
+- title: ICML review
   year: 2021
   id: icml2020-review
   link: https://icml.cc/
@@ -227,7 +227,7 @@
   place: Virtual
   sub: ML
 
-- name: AAAI abstract
+- title: AAAI abstract
   year: 2022
   id: aaai22-abstract
   link: https://aaai.org/Conferences/AAAI-22/
@@ -237,7 +237,7 @@
   place: Vancouver, British Columbia, Canada
   sub: ML
 
-- name: AAAI
+- title: AAAI
   year: 2019
   id: aaai19
   link: https://aaai.org/Conferences/AAAI-19/
@@ -247,7 +247,7 @@
   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
   sub: ML   
 
-- name: NeurIPS abstract
+- title: NeurIPS abstract
   year: 2021
   id: neurips21-abs
   link: https://neurips.cc/Conferences/2021/
@@ -259,7 +259,7 @@
   note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
 
 
-- name: NeurIPS
+- title: NeurIPS
   year: 2019
   id: neurips2019
   link: https://nips.cc/Conferences/2019
@@ -271,7 +271,7 @@
   note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
 
 
-- name: NeurIPS review
+- title: NeurIPS review
   year: 2020
   id: neurips2020-review
   link: https://nips.cc/
@@ -281,7 +281,7 @@
   place: Vancouver Convention Center, Vancouver CANADA
   sub: ML
   
-- name: NeurIPS rebuttal
+- title: NeurIPS rebuttal
   year: 2020
   id: neurips2020-rebuttal
   link: https://nips.cc/
@@ -291,7 +291,7 @@
   place: Vancouver Convention Center, Vancouver CANADA
   sub: ML
 
-- name: ICLR abstract
+- title: ICLR abstract
   year: 2022
   id: iclr22-abstract
   link: https://iclr.cc/Conferences/2022
@@ -326,7 +326,7 @@
   place: Singapore
   sub: SP
 
-- name: UAI
+- title: UAI
   year: 2018
   id: uai18
   link: http://auai.org/uai2018/index.php
@@ -336,7 +336,7 @@
   place: Monterey, California, USA
   sub: ML
 
-- name: T-PAMI Call for RGB-D
+- title: T-PAMI Call for RGB-D
   year: 2019
   id: pamirgbd
   link: http://yulanguo.me/pami.html
@@ -347,7 +347,7 @@
   sub: SI
   note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 9.455)
   
-- name: Deep Learning in Ultrasound Imaging
+- title: Deep Learning in Ultrasound Imaging
   year: 2019
   id: ebmdlui
   link: https://jbhi.embs.org/special-issues/deep-learning-in-ultrasound-imaging/
@@ -358,7 +358,7 @@
   sub: SI
   note: IEEE Journal of Biomedical and Health Informatics (IF - 3.85)
 
-- name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
+- title: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
   year: 2021
   id: jbhi-mm
   link: https://www.embs.org/jbhi/j-bhi-special-issue-on-multi-modal-computing-for-biomedical-intelligence-systems/
@@ -370,7 +370,7 @@
   note: IEEE Journal of Biomedical and Health Informatics (IF - 5.223)
 
   
-- name: IPMI
+- title: IPMI
   year: 2019
   id: ipmi19
   link: https://ipmi2019.cse.ust.hk/
@@ -438,7 +438,7 @@
   place: Singapore
   sub: MIC
 
-- name: RSNA abstract (TBD)
+- title: RSNA abstract (TBD)
   year: 2020
   id: rsna2020
   link: https://www.rsna.org/annual-meeting/abstract-submission
@@ -448,7 +448,7 @@
   place: McCormick Place, Chicago, Illinois
   sub: MIC
  
-- name: ISBI
+- title: ISBI
   year: 2020
   id: isbi20
   link: http://2020.biomedicalimaging.org/
@@ -498,10 +498,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 10, 2021. More info <a href=''http://icaps22.icaps-conference.org/''>here</a>.'
 
-
-
-
-
 - title: ALT
   hindex: 15
   year: 2020
@@ -513,8 +509,7 @@
   place: San Diego, CA, United States
   sub: ML
   paperslink: http://algorithmiclearningtheory.org/alt2020/accepted-papers/
-
-
+ 
 
 - title: ICMR
   hindex: 33
@@ -540,9 +535,6 @@
   sub: ML
   paperslink: http://proceedings.mlr.press/v125/
 
-
-
-
 - title: 3DV
   hindex: 29
   year: 2020
@@ -554,7 +546,6 @@
   place: Fukuoka, Japan
   sub: CV
   paperslink: http://3dv2020.dgcv.nii.ac.jp/conferenceprogram.html
-
 
 - title: AAMAS
   hindex: 25
@@ -672,7 +663,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on January 24, 2022. More info <a href=''https://sigir.org/sigir2022/call-for-papers/''>here</a>.'
   sub: DM
 
-
 - title: UAI
   hindex: 33
   year: 2021
@@ -684,9 +674,6 @@
   place: TBD
   sub: ML
   paperslink: https://www.auai.org/uai2021/accepted_papers
-
-
-
 
 - title: ECML-PKDD
   hindex: 30
@@ -701,7 +688,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 26, 2021. More info <a href=''https://2021.ecmlpkdd.org/?page_id=1599/''>here</a>.'
   paperslink: https://2021.ecmlpkdd.org/?page_id=1811
-
 
 - title: FG
   hindex: -1
@@ -742,8 +728,6 @@
     href=''https://recsys.acm.org/recsys21/dates/''>here</a>.'
   paperslink: https://recsys.acm.org/recsys21/accepted-contributions/#content-tab-1-0-tab
 
-
-
 - title: ICMI
   hindex: -1
   year: 2021
@@ -768,9 +752,6 @@
   place: Gold Coast, Queensland, Australia
   sub: DM
 
-
-
-
 - title: ICDM
   hindex: -1
   year: 2021
@@ -781,11 +762,6 @@
   date: December 7-10, 2021
   place: Auckland, New Zealand
   sub: DM
-
-
-
-
-
 
 - title: ACML
   hindex: 17
@@ -822,9 +798,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
 
-
-
-
 - title: AISTATS
   hindex: 57
   year: 2022
@@ -836,4 +809,3 @@
   place: Valencia, Spain
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2021. More info <a href=''http://www.aistats.org/aistats2022/cfp.html''>here</a>.'
-
