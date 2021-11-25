@@ -64,4 +64,4 @@ To add or update a deadline:
 [19]: http://www.miccai.org/events/conference-history/
 [20]: https://jackietseng.github.io/conference_call_for_paper/conferences.html
 [21]: https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
-[22]: https://www.ccf.org.cn/c/2016-12-27/569124.shtml
+[22]: https://www.ccf.org.cn/Focus/2019-04-25/663625.shtml
