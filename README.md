@@ -36,6 +36,7 @@ To add or update a deadline:
 - [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南][17] by @chaosinmotion
 - [MICCAI Upcoming Conferences][18] 
 - [MICCAI Past conferences][19]
+- [International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics][20]
 
 ## License
 
@@ -59,3 +60,4 @@ To add or update a deadline:
 [17]: https://blog.csdn.net/suburbiax79/article/details/50987974
 [18]: http://www.miccai.org/events/upcoming-conferences/
 [19]: http://www.miccai.org/events/conference-history/
+[20]: https://jackietseng.github.io/conference_call_for_paper/conferences.html
