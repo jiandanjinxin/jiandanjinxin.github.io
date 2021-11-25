@@ -327,14 +327,16 @@
   sub: SP
 
 - title: UAI
-  year: 2018
-  id: uai18
-  link: http://auai.org/uai2018/index.php
-  deadline: "2018-03-09 23:59:59"
+  year: 2022
+  id: uai22
+  link: http://www.wikicfp.com/cfp/program?id=2888
+  deadline: "2022-02-09 23:59:59"
   timezone: Etc/GMT+11
-  date: August 06-10, 2018
-  place: Monterey, California, USA
+  date: August 06-10, 2022
+  place: TBD
   sub: ML
+  note: '<b>NOTE</b>: UAI: Uncertainty in Artificial Intelligence. More info <a href='' http://www.wikicfp.com/cfp/program?id=2888''>here</a>.'
+ 
 
 - title: T-PAMI Call for RGB-D
   year: 2019
