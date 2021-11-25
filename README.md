@@ -39,6 +39,7 @@ To add or update a deadline:
 - [International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics][20]
 - [Conference Page(with CCF). China Computer Federation Recommended Ranking][21]
 - [中国计算机学会推荐国际学术会议和期刊目录][22]
+- [中国计算机学会][23]
 
 ## License
 
@@ -65,3 +66,4 @@ To add or update a deadline:
 [20]: https://jackietseng.github.io/conference_call_for_paper/conferences.html
 [21]: https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
 [22]: https://www.ccf.org.cn/Focus/2019-04-25/663625.shtml
+[23]: https://www.ccf.org.cn/
