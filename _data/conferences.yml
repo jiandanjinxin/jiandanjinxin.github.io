@@ -180,6 +180,8 @@
   sub: ML
 
 - title: IJCAI
+  description: International Joint Conference on Artificial Intelligence
+  rank: A
   hindex: 105
   year: 2022
   id: ijcai22
@@ -187,7 +189,7 @@
   deadline: '2022-01-14 23:59:59'
   abstract_deadline: '2022-01-07 23:59:59'
   timezone: UTC-12
-  date: TBD
+  date: July 23-29, 2022
   place: Vienna, Austria
   sub: ML
 
