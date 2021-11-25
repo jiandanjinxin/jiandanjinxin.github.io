@@ -38,6 +38,7 @@ To add or update a deadline:
 - [MICCAI Past conferences][19]
 - [International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics][20]
 - [Conference Page(with CCF). China Computer Federation Recommended Ranking][21]
+- [中国计算机学会推荐国际学术会议和期刊目录][22]
 
 ## License
 
@@ -63,3 +64,4 @@ To add or update a deadline:
 [19]: http://www.miccai.org/events/conference-history/
 [20]: https://jackietseng.github.io/conference_call_for_paper/conferences.html
 [21]: https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
+[22]: https://www.ccf.org.cn/c/2016-12-27/569124.shtml
