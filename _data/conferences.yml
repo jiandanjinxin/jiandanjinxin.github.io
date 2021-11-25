@@ -136,9 +136,6 @@
   place: Hawaii
   sub: CV
   
-
-
-
 - title: WWW
   hindex: 70
   year: 2022
@@ -151,9 +148,6 @@
   place: Lyon, France
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
-
-
-
 
 - title: ICPR
   hindex: 38
@@ -373,15 +367,16 @@
 
   
 - title: IPMI
-  year: 2019
-  id: ipmi19
-  link: https://ipmi2019.cse.ust.hk/
-  deadline: "2018-12-13 23:59:00"
+  year: 2023
+  id: ipmi23
+  link: https://http://ipmi2023.org/
+  deadline: "2022-12-1 23:59:00"
   timezone: US/Pacific
-  date: June 2-7, 2019
-  place: HKUST, Hong Kong
+  date: TBD
+  place: TBD
   sub: MIC
-  note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 6, 2018. "
+  note: '<b>NOTE</b>: Past IPMI. More info <a href=''http://ipmi2021.org/past-ipmis/''>here</a>.'
+  
 
 - title: MICCAI abstract
   hindex: 46
