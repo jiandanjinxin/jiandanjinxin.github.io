@@ -40,6 +40,8 @@ To add or update a deadline:
 - [Conference Page(with CCF). China Computer Federation Recommended Ranking][21]
 - [中国计算机学会推荐国际学术会议和期刊目录][22]
 - [中国计算机学会][23]
+- [ISBI Past conferences][24]
+- [IPMI Past conferences][25]
 
 ## License
 
@@ -67,3 +69,5 @@ To add or update a deadline:
 [21]: https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
 [22]: https://www.ccf.org.cn/Focus/2019-04-25/663625.shtml
 [23]: https://www.ccf.org.cn/
+[24]: https://biomedicalimaging.org/2022/past-isbis/
+[25]: http://ipmi2021.org/past-ipmis/
