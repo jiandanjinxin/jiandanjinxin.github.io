@@ -380,16 +380,6 @@
   place: HKUST, Hong Kong
   sub: MIC
   note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 6, 2018. "
- 
-- title: MICCAI Challenge rebuttal
-  year: 2022
-  id: miccai2022c-rebuttal
-  link: https://www.biomedical-challenges.org/miccai2020/
-  deadline: "2022-02-14 23:59:00"
-  timezone: UTC-12
-  date: Oct 4-8, 2020
-  place: San Miguel, Lima, Peru
-  sub: MIC
 
 - title: MICCAI abstract
   hindex: 46
@@ -403,7 +393,6 @@
   sub: MIC
   note: "<b>NOTE</b>: Abstract submission deadline: 2022-02-15 23:59:00."
   
-
 - title: MICCAI
   hindex: 46
   year: 2022
@@ -416,6 +405,16 @@
   sub: MIC
   note: '<b>NOTE</b>: Intent to submit deadline on March 1, 2022. More info <a href=''http://www.miccai.org/events/upcoming-conferences/''>here</a>.'
   paperslink: https://conferences.miccai.org/2022/en/default.asp
+
+- title: MICCAI Challenge rebuttal
+  year: 2022
+  id: miccai2022c-rebuttal
+  link: https://www.biomedical-challenges.org/miccai2020/
+  deadline: "2022-02-14 23:59:00"
+  timezone: UTC-12
+  date: Oct 4-8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
 
 - title: MICCAI review
   year: 2022
