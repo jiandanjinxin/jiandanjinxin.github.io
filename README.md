@@ -42,6 +42,11 @@ To add or update a deadline:
 - [中国计算机学会][23]
 - [ISBI Past conferences][24]
 - [IPMI Past conferences][25]
+- [Research: Top Conferences & Journals][26]
+- [Special Issues][27]
+- [Grand Challenge][28]
+- [MICCAI Challenge][29]
+- [Upcoming Events][30]
 
 ## License
 
@@ -71,3 +76,8 @@ To add or update a deadline:
 [23]: https://www.ccf.org.cn/
 [24]: https://biomedicalimaging.org/2022/past-isbis/
 [25]: http://ipmi2021.org/past-ipmis/
+[26]: https://research.com/
+[27]: https://research.com/special-issues/computer-science
+[28]: https://grand-challenge.org/
+[29]: http://www.miccai.org/special-interest-groups/challenges/
+[30]: http://www.miccai.org/events/endorsed-and-sponsored-events/
