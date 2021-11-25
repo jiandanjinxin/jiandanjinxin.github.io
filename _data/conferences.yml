@@ -625,19 +625,6 @@
   sub: DM
   paperslink: https://kdd.org/kdd2021/accepted-papers/toc
 
-- title: SIGIR
-  hindex: 66
-  year: 2022
-  id: sigir22
-  link: https://sigir.org/sigir2022/
-  deadline: '2022-01-31 23:59:00'
-  timezone: UTC-12
-  date: July 11-15, 2022
-  place: Madrid, Spain
-  abstract_deadline: '2022-01-24 23:59:00'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on January 24, 2022. More info <a href=''https://sigir.org/sigir2022/call-for-papers/''>here</a>.'
-  sub: DM
-
 - title: UAI
   hindex: 33
   year: 2021
