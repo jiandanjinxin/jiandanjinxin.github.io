@@ -20,7 +20,7 @@ To add or update a deadline:
 - Send a pull request
 
 
-To add/update a challenge: Fork the repository, Update README.md and Send a pull request.
+## To add/update a challenge.
 
 > ###### [Computer Vision](#computer-vision) | [Language](#language) | [Machine Learning](#machine-learning) | [Speaker](#speaker) | [Speech](#speech) | [Robotics](#robotics)
 ---
