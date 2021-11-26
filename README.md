@@ -19,6 +19,29 @@ To add or update a deadline:
 - Optionally add `hindex` (refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
 - Send a pull request
 
+
+To add/update a challenge: Fork the repository, Update README.md and Send a pull request.
+
+> ###### [Computer Vision](#computer-vision) | [Language](#language) | [Machine Learning](#machine-learning) | [Speaker](#speaker) | [Speech](#speech) | [Robotics](#robotics)
+---
+## Speaker
+###### Recognition, Identification, Diarization, ...
+
+| <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
+| :--- | :--- | :--- | :--- | :--- |
+| <sub>**Jan. 30, 2019**</sub> | <sub>**Jul. 1, 2019**</sub> | <sub>The Second DIHARD Speech Diarization Challenge</sub> | <sub>[dihard19](https://coml.lscp.ens.fr/dihard/index.html)</sub> |  |
+| <sub>**Mar., 2019**</sub> | <sub>**Dec., 2019**</sub> | <sub>NIST 2019 Speaker Recognition Evaluation (SRE19)</sub> | <sub>[sre19](https://www.nist.gov/itl/iad/mig/nist-2019-speaker-recognition-evaluation)</sub> |  |
+| <sub>Jan. 30, 2018</sub> | <sub>~~Mar. 23, 2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
+| <sub>May. 10, 2018</sub> | <sub>~~Sep. 17, 2018~~</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
+| <sub>Apr., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
+| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Speaker Diarization Challenge (SDC)</sub> | <sub>[sdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Diar)</sub> | |
+| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Multimodal Diarization Challenge (MDC)</sub> | <sub>[mdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Multi)</sub> | |
+| <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
+
+
+
+
+
 ## Forks & other useful listings
 
 - [geodeadlin.es][3] by @LukasMosser
@@ -47,6 +70,11 @@ To add or update a deadline:
 - [Grand Challenge][28]
 - [MICCAI Challenge][29]
 - [Upcoming Events][30]
+
+
+
+
+
 
 ## License
 
