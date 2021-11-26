@@ -149,6 +149,20 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
 
+
+- title: ICIP
+  hindex: 46
+  year: 2022
+  id: icip2022
+  link: http://2022.ieeeicip.org
+  deadline: '2022-01-13 23:59:59'
+  timezone: UTC-12
+  date: Oct 1619, 2022
+  place: Bordeaux, France
+  sub: MIC
+  note: '<b>NOTE</b>: International Conference on Image Processing. More info <a href=''http://2022.ieeeicip.org''>here</a>.'
+  paperslink: http://2022.ieeeicip.org
+
 - title: ICPR
   hindex: 38
   year: 2020
