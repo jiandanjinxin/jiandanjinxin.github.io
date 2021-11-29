@@ -491,6 +491,20 @@
   sub: MIC
   note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.'
 
+- title: SPIE Medical Imaging
+  hindex: -1
+  year: 2023
+  id: spie-mi2023
+  link: https://spie.org/medical-imaging.xml
+  deadline: '2022-08-01 23:59:59'
+  timezone: UTC-12
+  date: TBD
+  place: TBD
+  sub: MIC
+  abstract_deadline: '2021-02-10 23:59:59'
+  note: '<b>NOTE</b>: Past SPIE-Medical Imaging. More info <a href=''https://www.showsbee.com/fairs/81168-SPIE-Medical-Imaging-2022.html''>here</a>.'
+  
+
 - title: MIDL
   hindex: -1
   year: 2021
