@@ -449,16 +449,29 @@
   place: Singapore
   sub: MIC
 
-- title: RSNA abstract (TBD)
-  year: 2020
-  id: rsna2020
+- title: RSNA abstract 
+  year: 2022
+  id: rsna2022
   link: https://www.rsna.org/annual-meeting/abstract-submission
-  deadline: "2020-04-10 18:00:00"
+  deadline: "2022-05-04 23:50:00"
   timezone: US/Pacific
-  date: Nov 29 - Dec 4, 2020
+  date: Nov. 27-Dec. 1, 2022
   place: McCormick Place, Chicago, Illinois
   sub: MIC
- 
+   note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
+   
+- title: RSNA abstract 
+  year: 2023
+  id: rsna2023
+  link: https://www.rsna.org/annual-meeting/abstract-submission
+  deadline: "2023-05-04 23:50:00"
+  timezone: US/Pacific
+  date: Nov 27-30, 2023
+  place: McCormick Place, Chicago, Illinois
+  sub: MIC
+   note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
+
+
 - title: ISBI-1-PAGE ABSTRACTS
   year: 2022
   id: isbi22
