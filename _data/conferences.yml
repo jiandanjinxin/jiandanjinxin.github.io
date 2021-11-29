@@ -480,6 +480,16 @@
   sub: MIC
   note: '<b>NOTE</b>: Past ISBI. More info <a href=''https://biomedicalimaging.org/2022/past-isbis/''>here</a>.'
 
+- title: IPCAI
+  year: 2023
+  id: ipcai23
+  link: TBD
+  deadline: "2023-10-01 23:59:59"
+  timezone: UTC
+  date: TBD
+  place: TBD
+  sub: MIC
+  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/home''>here</a>.'
 
 - title: MIDL
   hindex: -1
