@@ -636,8 +636,6 @@
   sub: CV
   paperslink: https://2021.ieeeicme.org/conf_oral
 
-
-
 - title: KDD
   hindex: 30
   year: 2022
@@ -649,7 +647,6 @@
   place: Washington DC Convention Center 
   sub: DM
   paperslink: https://kdd.org/kdd2021/accepted-papers/toc
-
 
 - title: ECML-PKDD
   hindex: 30
@@ -665,112 +662,43 @@
   note: '<b>NOTE</b>: List of Past Conferences. More info <a href=''https://ecmlpkdd.org/Main/PastConference''>here</a>.'
   paperslink: https://2021.ecmlpkdd.org/?page_id=1811
 
-- title: FG
-  hindex: -1
-  year: 2021
-  id: fg2021
-  link: http://iab-rubric.org/fg2021/
-  deadline: '2021-04-15 23:59:00'
-  timezone: America/Los_Angeles
-  date: December 15-18, 2021
-  place: Jodhpur, India
-  sub: CV
-  note: '<b>NOTE</b>: the 2nd round submission deadline is July 15, 2021.'
-
-- title: MM
-  hindex: 58
-  year: 2021
-  id: mm21
-  link: https://2021.acmmm.org/
-  deadline: '2021-04-17 23:59:59'
-  timezone: UTC-12
-  date: October 20-24, 2021
-  place: Chengdu, China
-  sub: CV
-  paperslink: https://2021.acmmm.org/main-track-list
 
 - title: RecSys
   hindex: 45
-  year: 2021
-  id: recsys21
-  link: https://recsys.acm.org/recsys21/
-  deadline: '2021-05-04 23:59:59'
-  abstract_deadline: '2020-04-27 23:59:59'
+  year: 2022
+  id: recsys22
+  link: https://recsys.acm.org/recsys22/
+  deadline: '2022-05-04 23:59:59'
+  abstract_deadline: '2022-04-27 23:59:59'
   timezone: UTC-12
-  date: September 27 - October 1, 2021
-  place: Amsterdam, Netherlands
+  date: September 18th-23rd, 2022
+  place: Seattle, WA, USA
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on April 27, 2020. More info <a
-    href=''https://recsys.acm.org/recsys21/dates/''>here</a>.'
+  note: '<b>NOTE</b>:  More info <a href=''https://recsys.acm.org/recsys22/''>here</a>.'
   paperslink: https://recsys.acm.org/recsys21/accepted-contributions/#content-tab-1-0-tab
 
-- title: ICMI
-  hindex: -1
-  year: 2021
-  id: icmi2021
-  link: https://icmi.acm.org/2021/
-  deadline: '2021-05-26 23:59:00'
-  timezone: UTC-7
-  date: October 18-22, 2021
-  place: Montreal, Canada
-  sub: CV
-  paperslink: https://icmi.acm.org/2021/index.php?id=accepted
-
-- title: CIKM
-  hindex: 48
-  year: 2021
-  id: cikm21
-  link: https://cikm2021.org/
-  deadline: '2021-05-26 23:59:59'
-  abstract_deadline: '2021-05-19 23:59:59'
-  timezone: UTC-12
-  date: November 1-5, 2021
-  place: Gold Coast, Queensland, Australia
-  sub: DM
 
 - title: ICDM
   hindex: -1
-  year: 2021
-  id: icdm21
-  link: https://icdm2021.auckland.ac.nz
-  deadline: '2021-06-11 23:59:59'
+  year: 2023
+  id: icdm23
+  link: https://waset.org/data-mining-conference-in-july-2023-in-istanbul
+  deadline: '2022-07-01 23:59:59'
   timezone: America/Los_Angeles
-  date: December 7-10, 2021
-  place: Auckland, New Zealand
+  date: July 29-30, 2023 
+  place: Istanbul, Turkey
   sub: DM
 
 - title: ACML
   hindex: 17
-  year: 2021
-  id: acml21
+  year: 2022
+  id: acml22
   link: http://www.acml-conf.org/2021
-  deadline: '2021-06-25 23:59:00'
+  deadline: TBD
   timezone: UTC-7
-  date: November 17-19, 2021
+  date: TBD
   place: Online
   sub: ML
+  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
+  paperslink: https://2021.ecmlpkdd.org/?page_id=1811
 
-- title: WSDM
-  hindex: 54
-  year: 2022
-  id: wsdm22
-  link: https://www.wsdm-conference.org/2022/
-  deadline: '2021-08-09 23:59:59'
-  timezone: UTC-12
-  date: February 21-25, 2022
-  place: Phoenix, Arizona, USA
-  sub: DM
-
-
-
-- title: AISTATS
-  hindex: 57
-  year: 2022
-  id: aistats22
-  link: https://www.aistats.org/aistats2022/
-  deadline: '2021-10-15 11:59:00'
-  timezone: UTC
-  date: March 30 - April 1, 2022
-  place: Valencia, Spain
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2021. More info <a href=''http://www.aistats.org/aistats2022/cfp.html''>here</a>.'
