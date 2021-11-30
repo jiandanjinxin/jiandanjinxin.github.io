@@ -247,14 +247,17 @@
   sub: ML
 
 - title: AAAI
-  year: 2019
-  id: aaai19
-  link: https://aaai.org/Conferences/AAAI-19/
-  deadline: "2018-09-05 23:59:59"
-  timezone: Etc/GMT+10
-  date: January 27 - February 1, 2019
-  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-  sub: ML   
+  hindex: 95
+  year: 2022
+  id: aaai22
+  link: https://aaai.org/Conferences/AAAI-22/
+  deadline: '2021-09-08 23:59:59'
+  abstract_deadline: '2021-08-30 23:59:59'
+  timezone: UTC-12
+  date: February 22 - March 1, 2022
+  place: Vancouver, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021' 
 
 - title: NeurIPS abstract
   year: 2021
@@ -452,15 +455,15 @@
 - title: RSNA-abstract-2022
   year: 2022
   id: rsna2022
-  link: https://www.rsna.org/annual-meeting/abstract-submission
-  deadline: "2022-05-04 23:50:00"
-  timezone: US/Pacific
-  date: Nov. 27-Dec. 1, 2022
+  link:  https://www.rsna.org/annual-meeting/abstract-submission
+  deadline: "2022-5-04 23:59:59"
+  timezone: UTC
+  date: Nove 27- Dec 1, 2022
   place: McCormick Place, Chicago, Illinois
   sub: MIC
-   note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
-   
-- title: RSNA abstract 2023
+  note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
+
+- title: RSNA-abstract-2023
   year: 2023
   id: rsna2023
   link: https://www.rsna.org/annual-meeting/abstract-submission
@@ -469,7 +472,7 @@
   date: Nov 27-30, 2023
   place: McCormick Place, Chicago, Illinois
   sub: MIC
-   note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
+  note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
 
 
 - title: ISBI-1-PAGE ABSTRACTS
@@ -771,18 +774,7 @@
   place: Phoenix, Arizona, USA
   sub: DM
 
-- title: AAAI
-  hindex: 95
-  year: 2022
-  id: aaai22
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: '2021-09-08 23:59:59'
-  abstract_deadline: '2021-08-30 23:59:59'
-  timezone: UTC-12
-  date: February 22 - March 1, 2022
-  place: Vancouver, Canada
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
+
 
 - title: AISTATS
   hindex: 57
