@@ -70,6 +70,8 @@ To add or update a deadline:
 - [Grand Challenge][28]
 - [MICCAI Challenge][29]
 - [Upcoming Events][30]
+- [Upcoming Conferences][31]
+- [Calendar of Computer Image Analysis, Computer Vision Conferences][32]
 
 
 
@@ -109,3 +111,5 @@ To add or update a deadline:
 [28]: https://grand-challenge.org/
 [29]: http://www.miccai.org/special-interest-groups/challenges/
 [30]: http://www.miccai.org/events/endorsed-and-sponsored-events/
+[31]: http://www.conferencelist.info/upcoming.html
+[32]: http://conferences.visionbib.com/Iris-Conferences.html
