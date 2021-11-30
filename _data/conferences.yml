@@ -598,19 +598,6 @@
   sub: CV
   paperslink: http://3dv2020.dgcv.nii.ac.jp/conferenceprogram.html
 
-- title: AAMAS
-  hindex: 25
-  year: 2021
-  id: aamas21
-  link: https://aamas2021.soton.ac.uk/
-  deadline: '2020-10-09 23:59:59'
-  abstract_deadline: '2020-10-02 23:59:59'
-  timezone: UTC-12
-  date: May 3-7, 2021
-  place: London, UK
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 02, 2020. More info <a href=''https://aamas2021.soton.ac.uk/calls/papers/''>here</a>.'
-  paperslink: https://dl.acm.org/doi/proceedings/10.5555/3463952
 
 - title: SDM
   hindex: 33
@@ -653,13 +640,13 @@
 
 - title: KDD
   hindex: 30
-  year: 2021
-  id: kdd21
-  link: https://www.kdd.org/kdd2021/
-  deadline: '2021-02-08 23:59:59'
+  year: 2022
+  id: kdd22
+  link: https://kdd.org/kdd2022/index.html#
+  deadline: '2022-02-10 23:59:59'
   timezone: UTC-12
-  date: August 14-18, 2021
-  place: Singapore
+  date: August 14-18, 2022
+  place: Washington DC Convention Center 
   sub: DM
   paperslink: https://kdd.org/kdd2021/accepted-papers/toc
 
