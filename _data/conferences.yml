@@ -166,29 +166,30 @@
 
 
 - title: IJCAI abstract
-  year: 2021
-  id: ijcai21-abstract
-  link: https://ijcai-21.org/
-  deadline: "2021-01-13 11:59:00"
+  year: 2023
+  id: ijcai23-abstract
+  link: https://www.ijcai.org/
+  deadline: "2022-12-20 11:59:00"
   timezone: UTC
-  date: 21st -26th August, 2021
-  place: Montreal, Canada
+  date: TBD
+  place: Shanghai, P.R. China
   sub: ML
+  note: '<b>NOTE</b>: Future Conference https://www.ijcai.org/future_conferences' 
 
 - title: IJCAI
   description: International Joint Conference on Artificial Intelligence
   rank: A
   hindex: 105
-  year: 2022
-  id: ijcai22
+  year: 2023
+  id: ijcai23
   link: https://ijcai-22.org/
-  deadline: '2022-01-14 23:59:59'
-  abstract_deadline: '2022-01-07 23:59:59'
+  deadline: '2022-12-30 23:59:59'
+  abstract_deadline: '2022-12-20 23:59:59'
   timezone: UTC-12
-  date: July 23-29, 2022
-  date: April 7-8, 2022
-  place: Vienna, Austria
+  date: TBD
+  place: Shanghai, P.R. China
   sub: ML
+  note: '<b>NOTE</b>: Future Conference https://www.ijcai.org/future_conferences' 
 
 
 - title: ICML abstract
@@ -225,14 +226,15 @@
   sub: ML
 
 - title: AAAI abstract
-  year: 2022
-  id: aaai22-abstract
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: "2021-08-30 23:59:59"
+  year: 2023
+  id: aaai23-abstract
+  link: https://aaai.org/Conferences/AAAI-23/aaai23call/
+  deadline: "2022-08-15 23:59:59"
   timezone: Etc/GMT+12
-  date: February 22 - March 1, 2022
-  place: Vancouver, British Columbia, Canada
+  date: February 7 - 14, 2023
+  place: Washington，DC，USA
   sub: ML
+  note: '<b>NOTE</b>: Future Conference aaai.org/Conferences/AAAI/aaai.php' 
 
 - title: AAAI
   hindex: 95
@@ -247,73 +249,66 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021' 
 
-- title: NeurIPS abstract
-  year: 2021
-  id: neurips21-abs
-  link: https://neurips.cc/Conferences/2021/
-  deadline: "2021-05-19 20:00:00"
+- title: NeurIPS2023 abstract-TBD
+  year: 2023
+  id: neurips23-abs
+  link: https://neurips.cc/Conferences/2023/
+  deadline: "2023-05-10 20:00:00"
   timezone: UTC
-  date: December 5-14, 2021
-  place: Online
+  date: November 25 – December 10, 2023
+  place: TBD
   sub: ML
-  note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
+  note: '<b>NOTE</b>: Future Conference https://nips.cc/Conferences/FutureMeetings'
 
 
-- title: NeurIPS
-  year: 2019
-  id: neurips2019
-  link: https://nips.cc/Conferences/2019
-  deadline: "2019-05-23 18:00:00"
+- title: NeurIPS2024-TBD
+  year: 2024
+  id: neurips2024
+  link: https://nips.cc/Conferences/2024
+  deadline: "2024-05-23 18:00:00"
   timezone: US/Pacific
-  date: Dec 8-14, 2019
-  place: Vancouver Convention Center, Vancouver CANADA
+  date: November 30 - December 15, 2024
+  place: TBD
   sub: ML
-  note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
+   note: '<b>NOTE</b>: Future Conference https://nips.cc/Conferences/FutureMeetings'
 
 
-- title: NeurIPS review
-  year: 2020
-  id: neurips2020-review
-  link: https://nips.cc/
-  deadline: "2020-07-24 13:00:00"
+- title: NeurIPS2025-TBD
+  year: 2025
+  id: neurips2025
+  link: https://nips.cc/Conferences/2025
+  deadline: "2025-05-23 20:00:00"
   timezone: US/Pacific
-  date: Sun Dec 6th through Sat the 12th, 2020
-  place: Vancouver Convention Center, Vancouver CANADA
+  date: November 29 – December 6, 2025
+  place: TBD
   sub: ML
-  
-- title: NeurIPS rebuttal
-  year: 2020
-  id: neurips2020-rebuttal
-  link: https://nips.cc/
-  deadline: "2020-08-13 13:00:00"
-  timezone: US/Pacific
-  date: Sun Dec 6th through Sat the 12th, 2020
-  place: Vancouver Convention Center, Vancouver CANADA
-  sub: ML
+  note: '<b>NOTE</b>: Future Conference https://nips.cc/Conferences/FutureMeetings'
+ 
 
-- title: ICLR abstract
-  year: 2022
-  id: iclr22-abstract
-  link: https://iclr.cc/Conferences/2022
-  deadline: "2021-09-28 17:00:00"
+- title: ICLR abstract-2023
+  year: 2023
+  id: iclr23-abstract
+  link: https://iclr.cc/Conferences/2023
+  deadline: "2022-09-21 17:00:00"
   timezone: Etc/GMT+7
-  date: Apr 25-29, 2022
-  place: Virtual
+  date: August 30-31, 2023 
+  place: Sydney, Australia
   sub: ML
+  note: '<b>NOTE</b>: Future Conference https://iclr.cc/'
 
-- title: ICLR
+- title: ICLR2023
   hindex: 203
-  year: 2022
-  id: iclr22
-  link: https://iclr.cc/
-  deadline: '2021-10-05 17:00:00'
-  abstract_deadline: '2021-09-28 17:00:00'
+  year: 2023
+  id: iclr23
+  link: https://iclr.cc/Conferences/2023
+  deadline: "2022-09-28 17:00:00"
+  abstract_deadline: '2022-09-21 17:00:00'
   timezone: UTC-7
-  date: April 25-29, 2022
-  place: Online
+  date: August 30-31, 2023 
+  place: Sydney, Australia
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2021. More info
-    <a href=''https://iclr.cc/Conferences/2022/CallForPapers''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 21, 2022. More info
+    <a href=''https://iclr.cc/Conferences/2023/CallForPapers''>here</a>.'
 
 - title: ICASSP
   hindex: 80
