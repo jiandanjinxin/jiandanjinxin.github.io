@@ -1,18 +1,18 @@
 ---
 
-- title: CVPR
+- title: CVPR-TBD
   hindex: 299
-  year: 2022
-  id: cvpr22
-  link: http://cvpr2022.thecvf.com/
-  deadline: '2021-11-16 23:59:59'
+  year: 2023
+  id: cvpr23
+  link: http://cvpr2023.thecvf.com/
+  deadline: '2023-11-16 23:59:59'
   timezone: America/Los_Angeles
-  date: June 21-24, 2022
-  place: New Orleans, Louisiana, USA
+  date: TBD
+  place: TBD
   sub: CV
  
 
-- title: ICCV2023
+- title: ICCV
   hindex: 176
   year: 2023
   id: iccv2023
@@ -115,16 +115,16 @@
   place: Hawaii
   sub: CV
   
-- title: WWW
+- title: WWW-TBD
   hindex: 70
-  year: 2022
-  id: www22
-  link: https://www2022.thewebconf.org/
-  deadline: '2021-10-21 23:59:59'
+  year: 2023
+  id: www23
+  link: https://www2023.thewebconf.org/
+  deadline: '2023-10-21 23:59:59'
   abstract_deadline: '2021-10-14 23:59:59'
   timezone: UTC-12
-  date: April 25-29, 2022
-  place: Lyon, France
+  date: TBD
+  place: TBD
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
 
@@ -184,7 +184,7 @@
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
   paperslink: https://www.ijcai.org/future_conferences
 
-- title: ICML2023-TBD
+- title: ICML-TBD
   hindex: 204
   year: 2023
   id: icml23
@@ -197,7 +197,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2023. More info <a href=''https://icml.cc/Conferences/2023/''>here</a>.'
   
-- title: ICML2024-TBD
+- title: ICML-TBD
   hindex: 204
   year: 2024
   id: icml24
@@ -235,7 +235,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021' 
 
-- title: NeurIPS2023 abstract-TBD
+- title: NeurIPS-TBD
   year: 2023
   id: neurips23-abs
   link: https://neurips.cc/Conferences/2023/
@@ -247,7 +247,7 @@
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
   paperslink: https://nips.cc/Conferences/FutureMeetings
 
-- title: NeurIPS2024-TBD
+- title: NeurIPS-TBD
   year: 2024
   id: neurips2024
   link: https://nips.cc/Conferences/2024
@@ -260,7 +260,7 @@
   paperslink: https://nips.cc/Conferences/FutureMeetings
 
 
-- title: NeurIPS2025-TBD
+- title: NeurIPS-TBD
   year: 2025
   id: neurips2025
   link: https://nips.cc/Conferences/2025
@@ -273,7 +273,7 @@
   paperslink: https://nips.cc/Conferences/FutureMeetings
  
 
-- title: ICLR abstract-2023
+- title: ICLR abstract
   year: 2023
   id: iclr23-abstract
   link: https://iclr.cc/Conferences/2023
@@ -285,7 +285,7 @@
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://iclr.cc/''>here</a>.'
   paperslink: https://iclr.cc/
 
-- title: ICLR2023
+- title: ICLR
   hindex: 203
   year: 2023
   id: iclr23
@@ -703,12 +703,12 @@
   place: Istanbul, Turkey
   sub: DM
 
-- title: ACML
+- title: ACML-TBD
   hindex: 17
-  year: 2022
-  id: acml22
-  link: http://www.acml-conf.org/2021
-  deadline: TBD
+  year: 2023
+  id: acml23
+  link: http://www.acml-conf.org/2023
+  deadline: '2023-06-23 23:59:59'
   timezone: UTC-7
   date: TBD
   place: Online
