@@ -450,7 +450,19 @@
   note: '<b>NOTE</b>: Computer Assisted Radiology and Surgery. More info <a href=''https://www.cars-int.org/cars-2023/welcome-to-cars-2023/''>here</a>.'
   paperslink: https://www.cars-int.org/cars-2023/welcome-to-cars-2023/
 
-
+- title: MIUA-TBD
+  hindex: -1
+  year: 2023
+  id: miua2023
+  link: https://www.miua2022.com/
+  deadline: '2023-04-05 23:59:59'
+  timezone: UTC-12
+  date: TBD
+  place: TBD
+  sub: MIC
+  abstract_deadline: '2023-04-5 23:59:59'
+  note: '<b>NOTE</b>: Past Conferences. More info <a href=''https://www.miua2022.com/''>here</a>.'
+  paperslink: https://www.miua2022.com/
 
 - title: CHIL-TBD
   hindex: -1
