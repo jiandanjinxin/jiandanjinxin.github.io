@@ -374,73 +374,6 @@
   sub: MIC
   note: "<b>NOTE</b>: Abstract submission deadline: 2023-02-15 23:59:00."
 
-- title: MICCAI abstract
-  hindex: 46
-  year: 2022
-  id: miccai2022-abs
-  link: https://conferences.miccai.org/2022/en/
-  deadline: "2022-02-15 23:59:00"
-  timezone: UTC-12
-  date: Sept 18-22, 2022
-  place: Singapore
-  sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2022-02-15 23:59:00."
-  
-- title: MICCAI
-  hindex: 46
-  year: 2022
-  id: miccai2022
-  link: https://conferences.miccai.org/2022/en/
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: Sept 18-22, 2022
-  place: Singapore
-  sub: MIC
-  note: '<b>NOTE</b>: Intent to submit deadline on March 1, 2022. More info <a href=''https://conferences.miccai.org/2022/en/''>here</a>.'
-  paperslink: https://conferences.miccai.org/2022/en/default.asp
-
-- title: MICCAI Challenge rebuttal
-  year: 2022
-  id: miccai2022c-rebuttal
-  link: https://www.biomedical-challenges.org/miccai2020/
-  deadline: "2022-02-14 23:59:00"
-  timezone: UTC-12
-  date: Oct 4-8, 2020
-  place: San Miguel, Lima, Peru
-  sub: MIC
-
-- title: MICCAI review
-  year: 2022
-  id: miccai2022-review
-  link: https://conferences.miccai.org/2022/en
-  deadline: "2022-04-22 23:59:00"
-  timezone: UTC-12
-  date: Sept 18-22, 2022
-  place: Singapore
-  sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
-  
-- title: MICCAI rebuttal
-  year: 2022
-  id: miccai2022-reb
-  link: https://www.miccai2020.org/
-  deadline: "2022-05-26 23:59:00"
-  timezone: UTC-12
-  date: Oct 4-8, 2022
-  place: Singapore
-  sub: MIC
-
-- title: RSNA-abstract
-  year: 2022
-  id: rsna2022
-  link:  https://www.rsna.org/annual-meeting/abstract-submission
-  deadline: "2022-5-04 23:59:59"
-  timezone: UTC
-  date: Nove 27- Dec 1, 2022
-  place: McCormick Place, Chicago, Illinois
-  sub: MIC
-  note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
-
 - title: RSNA-abstract
   year: 2023
   id: rsna2023
@@ -451,17 +384,6 @@
   place: McCormick Place, Chicago, Illinois
   sub: MIC
   note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
-
-
-- title: ISBI-1-PAGE ABSTRACTS
-  year: 2022
-  id: isbi22
-  link: https://biomedicalimaging.org/2022/
-  deadline: "2022-1-03 23:59:59"
-  timezone: UTC
-  date: March 28-31, 2022
-  place: ITC Royal Bengal, Kolkata, India
-  sub: MIC 
  
 - title: ISBI
   year: 2023
