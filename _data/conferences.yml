@@ -354,13 +354,13 @@
 - title: IPMI
   year: 2023
   id: ipmi23
-  link:https://www.ipmi2023.org/en/
+  link: https://www.ipmi2023.org/en/
   deadline: "2022-11-18 23:59:00"
   timezone: US/Pacific
   date: June 19-23, 2023
   place: Singapore
   sub: MIC
-  note: '<b>NOTE</b>: Past IPMI. More info <a href=''https://www.ipmi2023.org/en/default.asp''>here</a>.'
+  note: '<b>NOTE</b>: Past IPMI. More info <a href=''https://www.ipmi2023.org/en/PAST-IPMIs.html''>here</a>.'
   
 - title: MICCAI abstract
   hindex: 46
