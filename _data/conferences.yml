@@ -1,6 +1,6 @@
 ---
 
-- title: 第六届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine
+- title: 第六届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine-TBD
   hindex: 299
   year: 2022
   id: ISICDM2022
@@ -11,6 +11,18 @@
   place: TBD
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.imagecomputing.org/index_cn.html/''>here</a>.'
+  
+- title: VALSE-Vision And Learning SEminar-TBD
+  hindex: 299
+  year: 2023
+  id: VALSE2023
+  link: http://valser.org/portal.php
+  deadline: '2023-08-1 23:59:59'
+  timezone: UTC-12
+  date: Aug 10-12, 2023
+  place: TBD
+  sub: DC
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://valser.org/portal.php/''>here</a>.'
   
 - title: CVPR-TBD
   hindex: 299
