@@ -1,5 +1,17 @@
 ---
 
+- title: 第六届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine
+  hindex: 299
+  year: 2022
+  id: ISICDM2022
+  link: http://www.imagecomputing.org/index_cn.html
+  deadline: '2022-09-10 23:59:59'
+  timezone: UTC-12
+  date: Dem 10-12, 2022
+  place: TBD
+  sub: DC
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.imagecomputing.org/index_cn.html/''>here</a>.'
+  
 - title: CVPR-TBD
   hindex: 299
   year: 2023
@@ -9,8 +21,7 @@
   timezone: America/Los_Angeles
   date: TBD
   place: TBD
-  sub: CV
- 
+  sub: CV 
 
 - title: ICCV
   hindex: 176
