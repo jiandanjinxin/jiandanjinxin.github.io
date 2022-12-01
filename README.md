@@ -49,6 +49,17 @@ To add or update a deadline:
 | <sub>**18**</sub> | <sub>**[PR](http://dblp.uni-trier.de/db/conf/par/)**</sub> | <sub>[Pattern Recognition](http://dblp.uni-trier.de/db/conf/par/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
 | <sub>**19**</sub> | <sub>**[AIM](http://dblp.uni-trier.de/db/journals/artmed/)**</sub> | <sub>[Artificial Intelligence in Medicine](http://dblp.uni-trier.de/db/journals/artmed/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
 | <sub>**20**</sub> | <sub>**[PRL](http://dblp.uni-trier.de/db/journals/prl/)**</sub> | <sub>[Pattern Recognition Letters](http://dblp.uni-trier.de/db/journals/prl/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**21**</sub> | <sub></sub> | <sub>[IET Signal Processing](http://digital-library.theiet.org/content/journals/iet-spr)</sub> | <sub>IET</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**22**</sub> | <sub>**[IET-CVI](http://digital-library.theiet.org/content/journals/iet-cvi)**</sub> | <sub>[IET Computer Vision](http://digital-library.theiet.org/content/journals/iet-cvi)</sub> | <sub>IET</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**23**</sub> | <sub></sub> | <sub>[Soft Computing](http://dblp.uni-trier.de/db/journals/soco/)</sub> | <sub>Springer</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**24**</sub> | <sub>**[PRL](http://dblp.uni-trier.de/db/journals/prl/)**</sub> | <sub>[Pattern Recognition Letters](http://dblp.uni-trier.de/db/journals/prl/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**25**</sub> | <sub>**[TMI](http://dblp.uni-trier.de/db/journals/tmi/)**</sub> | <sub>[IEEE Transactions on Medical Imaging](http://dblp.uni-trier.de/db/journals/tmi/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>B</sub> | | |
+| <sub>**26**</sub> | <sub>**[JBHI](http://dblp.uni-trier.de/db/journals/titb/)**</sub> | <sub>[IEEE Journal of Biomedical and Health
+Informatics](http://dblp.uni-trier.de/db/journals/titb/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
+| <sub>**20**</sub> | <sub>**[PRL](http://dblp.uni-trier.de/db/journals/prl/)**</sub> | <sub>[Pattern Recognition Letters](http://dblp.uni-trier.de/db/journals/prl/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
+
+
+
 | <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
 
 ###### 会议列表, ...
@@ -60,9 +71,23 @@ To add or update a deadline:
 | <sub>**3**</sub> | <sub>**[MICCAI](https://dblp.org/db/conf/miccai/index.html)**</sub> | <sub>[International Conference on Medical Image Computing and Computer-Assisted Intervention](https://dblp.org/db/conf/miccai/index.html)</sub> | <sub>Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>B</sub> | | |
 | <sub>**4**</sub> | <sub>**[ICIP](http://dblp.uni-trier.de/db/conf/icip/)**</sub> | <sub>[International Conference on Image Processing](http://dblp.uni-trier.de/db/conf/icip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
 | <sub>**5**</sub> | <sub>**[ PRCV](https://dblp.org/db/conf/prcv/index.html)**</sub> | <sub>[Chinese Conference on Pattern Recognition and Computer Vision(中国模式识别与计算机视觉大会)](https://dblp.org/db/conf/prcv/index.html)</sub> | <sub>Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
-| <sub>**6**</sub> | <sub>**[SIIMS](http://dblp.uni-trier.de/db/journals/siamis/)**</sub> | <sub>[SIAM Journal on Imaging Sciences](http://dblp.uni-trier.de/db/journals/siamis/)</sub> | <sub>SIAM</sub> | <sub>计算机图形学与多媒体</sub> | <sub>B</sub> | | |
-| <sub>**7**</sub> | <sub>** **</sub> | <sub>[Signal Processing](http://dblp.uni-trier.de/db/journals/sigpro/)</sub> | <sub>Elsevier</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
-| <sub>**8**</sub> | <sub>**[CVMJ](https://dblp.org/db/journals/cvm/index.html)**</sub> | <sub>[Computational Visual Media](https://dblp.org/db/journals/cvm/index.html)</sub> | <sub>Tsinghua University; Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
+| <sub>**6**</sub> | <sub>**[AAAI](http://dblp.uni-trier.de/db/conf/aaai/)**</sub> | <sub>[AAAI Conference on Artificial
+Intelligence](http://dblp.uni-trier.de/db/conf/aaai/)</sub> | <sub>AAAI</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
+| <sub>**7**</sub> | <sub>**[NeurIPS](http://dblp.uni-trier.de/db/conf/nips/) **</sub> | <sub>[Annual Conference on Neural Information Processing Systems](http://dblp.uni-trier.de/db/conf/nips/)</sub> | <sub>MIT Press</sub> | <sub>人工智能</sub> | <sub>a</sub> | | |
+| <sub>**8**</sub> | <sub>**[CVPR](http://dblp.uni-trier.de/db/conf/cvpr/)**</sub> | <sub>[IEEE Conference on Computer Vision and Pattern Recognition](http://dblp.uni-trier.de/db/conf/cvpr/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
+| <sub>**9**</sub> | <sub>**[ICCV](http://dblp.uni-trier.de/db/conf/iccv/)**</sub> | <sub>[International Conference on Computer Vision](http://dblp.unitrier.de/db/conf/iccv/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
+| <sub>**10**</sub> | <sub>**[ICML](http://dblp.uni-trier.de/db/conf/icml/)**</sub> | <sub>[International Conference on Machine Learning](http://dblp.unitrier.de/db/conf/icml/)</sub> | <sub>ACM</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
+| <sub>**11**</sub> | <sub>**[IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/)**</sub> | <sub>[International Joint Conference on
+Artificial Intelligence](http://dblp.uni-trier.de/db/conf/ijcai/)</sub> | <sub>Morgan Kaufmann</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
+| <sub>**12**</sub> | <sub>**[ECAI](http://dblp.uni-trier.de/db/conf/ecai/)**</sub> | <sub>[European Conference on Artificial Intelligence](http://dblp.uni-trier.de/db/conf/ecai/)</sub> | <sub>IOS Press</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
+| <sub>**13**</sub> | <sub>**[ECCV](http://dblp.uni-trier.de/db/conf/eccv/)**</sub> | <sub>[European Conference on Computer Vision](http://dblp.unitrier.de/db/conf/eccv/)</sub> | <sub>Springer</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
+| <sub>**14**</sub> | <sub>**[UAI](http://dblp.uni-trier.de/db/conf/uai/)**</sub> | <sub>[International Conference on Uncertainty in Artificial Intelligence](http://dblp.uni-trier.de/db/conf/uai/)</sub> | <sub>AUAI</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
+| <sub>**15**</sub> | <sub>**[ACCV](http://dblp.uni-trier.de/db/conf/accv/)**</sub> | <sub>[Asian Conference on Computer Vision](http://dblp.unitrier.de/db/conf/accv/)</sub> | <sub>Springer</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**16**</sub> | <sub>**[ACML](http://dblp.uni-trier.de/db/conf/acml/)**</sub> | <sub>[Asian Conference on Machine Learning](http://dblp.unitrier.de/db/conf/acml/)</sub> | <sub>JMLR</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**17**</sub> | <sub>**[BMVC](http://dblp.uni-trier.de/db/conf/bmvc/)**</sub> | <sub>[British Machine Vision Conference](http://dblp.uni-trier.de/db/conf/bmvc/)</sub> | <sub>British Machine Vision Association</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**18**</sub> | <sub>**[ICPR](http://dblp.uni-trier.de/db/conf/icpr/)**</sub> | <sub>[International Conference on Pattern Recognition](http://dblp.uni-trier.de/db/conf/icpr/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**19**</sub> | <sub>**[ACCV](http://dblp.uni-trier.de/db/conf/accv/)**</sub> | <sub>[Asian Conference on Computer Vision](http://dblp.unitrier.de/db/conf/accv/)</sub> | <sub>Springer</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+
 | <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
 
 
