@@ -27,15 +27,27 @@ To add or update a deadline:
 ## 期刊-会议-列表
 ###### 期刊列表, ...
 
-| <sub>序号</sub> | <sub>期刊名缩写</sub> | <sub>期刊全称</sub> | <sub>出版社</sub> | <sub>领域</sub> | <sub>级别</sub> |
+| <sub>序号</sub> | <sub>期刊名缩写</sub> | <sub>期刊全称</sub> | <sub>出版社</sub> | <sub>领域</sub> | <sub>级别</sub> | <sub>状态</sub> |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | |
-| <sub>**Mar., 2019**</sub> | <sub>**Dec., 2019**</sub> | <sub>NIST 2019 Speaker Recognition Evaluation (SRE19)</sub> | <sub>[sre19](https://www.nist.gov/itl/iad/mig/nist-2019-speaker-recognition-evaluation)</sub> |  |
-| <sub>Jan. 30, 2018</sub> | <sub>~~Mar. 23, 2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
-| <sub>May. 10, 2018</sub> | <sub>~~Sep. 17, 2018~~</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
-| <sub>Apr., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
-| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Speaker Diarization Challenge (SDC)</sub> | <sub>[sdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Diar)</sub> | |
-| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Multimodal Diarization Challenge (MDC)</sub> | <sub>[mdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Multi)</sub> | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**2**</sub> | <sub>**[TVCG](http://dblp.uni-trier.de/db/journals/tvcg/)**</sub> | <sub>[IEEE Transactions on Visualization and Computer Graphics](http://dblp.uni-trier.de/db/journals/tvcg/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**3**</sub> | <sub>**[SPL](http://dblp.uni-trier.de/db/journals/spl/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Signal Processing Letters](http://dblp.uni-trier.de/db/journals/spl/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
 | <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
 
 ###### 会议列表, ...
