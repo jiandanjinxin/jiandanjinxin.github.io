@@ -33,10 +33,10 @@ To add or update a deadline:
 | <sub>**2**</sub> | <sub>**[TVCG](http://dblp.uni-trier.de/db/journals/tvcg/)**</sub> | <sub>[IEEE Transactions on Visualization and Computer Graphics](http://dblp.uni-trier.de/db/journals/tvcg/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
 | <sub>**3**</sub> | <sub>**[SPL](http://dblp.uni-trier.de/db/journals/spl/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
 | <sub>**4**</sub> | <sub>**[IET-IPR](http://dblp.uni-trier.de/db/journals/iet-ipr/)**</sub> | <sub>[IET Image Processing](http://dblp.uni-trier.de/db/journals/iet-ipr/)</sub> | <sub>IET</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
-| <sub>**5**</sub> | <sub>** **</sub> | <sub>[Signal Processing](http://dblp.uni-trier.de/db/journals/sigpro/)</sub> | <sub>Elsevier</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
-| <sub>**6**</sub> | <sub>**[CVMJ](https://dblp.org/db/journals/cvm/index.html)**</sub> | <sub>[Computational Visual Media](https://dblp.org/db/journals/cvm/index.html)</sub> | <sub>Tsinghua University; Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
-| <sub>**7**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
-| <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**5**</sub> | <sub>**[TMM](http://dblp.uni-trier.de/db/journals/tmm/)**</sub> | <sub>[IEEE Transactions on Multimedia](http://dblp.uni-trier.de/db/journals/tmm/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>B</sub> | | |
+| <sub>**6**</sub> | <sub>**[SIIMS](http://dblp.uni-trier.de/db/journals/siamis/)**</sub> | <sub>[SIAM Journal on Imaging Sciences](http://dblp.uni-trier.de/db/journals/siamis/)</sub> | <sub>SIAM</sub> | <sub>计算机图形学与多媒体</sub> | <sub>B</sub> | | |
+| <sub>**7**</sub> | <sub>** **</sub> | <sub>[Signal Processing](http://dblp.uni-trier.de/db/journals/sigpro/)</sub> | <sub>Elsevier</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
+| <sub>**8**</sub> | <sub>**[CVMJ](https://dblp.org/db/journals/cvm/index.html)**</sub> | <sub>[Computational Visual Media](https://dblp.org/db/journals/cvm/index.html)</sub> | <sub>Tsinghua University; Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
 | <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
 | <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
 | <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
@@ -52,15 +52,16 @@ To add or update a deadline:
 
 ###### 会议列表, ...
 
-| <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
-| :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jan. 30, 2019**</sub> | <sub>**Jul. 1, 2019**</sub> | <sub>The Second DIHARD Speech Diarization Challenge</sub> | <sub>[dihard19](https://coml.lscp.ens.fr/dihard/index.html)</sub> |  |
-| <sub>**Mar., 2019**</sub> | <sub>**Dec., 2019**</sub> | <sub>NIST 2019 Speaker Recognition Evaluation (SRE19)</sub> | <sub>[sre19](https://www.nist.gov/itl/iad/mig/nist-2019-speaker-recognition-evaluation)</sub> |  |
-| <sub>Jan. 30, 2018</sub> | <sub>~~Mar. 23, 2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
-| <sub>May. 10, 2018</sub> | <sub>~~Sep. 17, 2018~~</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
-| <sub>Apr., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
-| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Speaker Diarization Challenge (SDC)</sub> | <sub>[sdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Diar)</sub> | |
-| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Multimodal Diarization Challenge (MDC)</sub> | <sub>[mdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Multi)</sub> | |
+| <sub>序号</sub> | <sub>会议名缩写</sub> | <sub>会议全称</sub> | <sub>出版社</sub> | <sub>领域</sub> | <sub>级别</sub> | <sub>状态</sub> |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <sub>**1**</sub> | <sub>**[ACM MM](http://dblp.uni-trier.de/db/conf/mm/)**</sub> | <sub>[ACM International Conference on Multimedia](http://dblp.uni-trier.de/db/conf/mm/)</sub> | <sub>ACM</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
+| <sub>**2**</sub> | <sub>**[ICASSP](http://dblp.uni-trier.de/db/conf/icassp/)**</sub> | <sub>[IEEE International Conference on Acoustics, Speech and SP](http://dblp.uni-trier.de/db/conf/icassp/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>B</sub> | | |
+| <sub>**3**</sub> | <sub>**[MICCAI](https://dblp.org/db/conf/miccai/index.html)**</sub> | <sub>[International Conference on Medical Image Computing and Computer-Assisted Intervention](https://dblp.org/db/conf/miccai/index.html)</sub> | <sub>Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>B</sub> | | |
+| <sub>**4**</sub> | <sub>**[ICIP](http://dblp.uni-trier.de/db/conf/icip/)**</sub> | <sub>[International Conference on Image Processing](http://dblp.uni-trier.de/db/conf/icip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
+| <sub>**5**</sub> | <sub>**[ PRCV](https://dblp.org/db/conf/prcv/index.html)**</sub> | <sub>[Chinese Conference on Pattern Recognition and Computer Vision(中国模式识别与计算机视觉大会)](https://dblp.org/db/conf/prcv/index.html)</sub> | <sub>Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
+| <sub>**6**</sub> | <sub>**[SIIMS](http://dblp.uni-trier.de/db/journals/siamis/)**</sub> | <sub>[SIAM Journal on Imaging Sciences](http://dblp.uni-trier.de/db/journals/siamis/)</sub> | <sub>SIAM</sub> | <sub>计算机图形学与多媒体</sub> | <sub>B</sub> | | |
+| <sub>**7**</sub> | <sub>** **</sub> | <sub>[Signal Processing](http://dblp.uni-trier.de/db/journals/sigpro/)</sub> | <sub>Elsevier</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
+| <sub>**8**</sub> | <sub>**[CVMJ](https://dblp.org/db/journals/cvm/index.html)**</sub> | <sub>[Computational Visual Media](https://dblp.org/db/journals/cvm/index.html)</sub> | <sub>Tsinghua University; Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
 | <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
 
 
