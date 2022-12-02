@@ -64,7 +64,7 @@ To add or update a deadline:
 | <sub>**33**</sub> | <sub>**[NM](https://www.nature.com/nm/)**</sub> | <sub>[Nature Medicine](https://www.nature.com/nm/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
 | <sub>**34**</sub> | <sub>**[NMETH](https://www.nature.com/nmeth/)**</sub> | <sub>[Nature Methods](https://www.nature.com/nmeth/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
 | <sub>**35**</sub> | <sub>**[PNAS](https://www.pnas.org/)**</sub> | <sub>[Proceedings of the National Academy of Sciences of the United States of America](https://www.pnas.org/)</sub> | <sub></sub> | <sub>综合系列</sub> | <sub>A</sub> | | |
-
+| <sub>**36**</sub> | <sub></sub> | <sub>[Nature Machine Intelligence](https://www.nature.com/natmachintell/)</sub> | <sub></sub> | <sub>综合系列</sub> | <sub>A</sub> | | |
 
 ###### 会议列表, ...
 
