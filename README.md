@@ -55,7 +55,10 @@ To add or update a deadline:
 | <sub>**24**</sub> | <sub>**[PRL](http://dblp.uni-trier.de/db/journals/prl/)**</sub> | <sub>[Pattern Recognition Letters](http://dblp.uni-trier.de/db/journals/prl/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
 | <sub>**25**</sub> | <sub>**[TMI](http://dblp.uni-trier.de/db/journals/tmi/)**</sub> | <sub>[IEEE Transactions on Medical Imaging](http://dblp.uni-trier.de/db/journals/tmi/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>B</sub> | | |
 | <sub>**26**</sub> | <sub>**[JBHI](http://dblp.uni-trier.de/db/journals/titb/)**</sub> | <sub>[IEEE Journal of Biomedical and Health Informatics](http://dblp.uni-trier.de/db/journals/titb/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
-| <sub>**20**</sub> | <sub>**[PRL](http://dblp.uni-trier.de/db/journals/prl/)**</sub> | <sub>[Pattern Recognition Letters](http://dblp.uni-trier.de/db/journals/prl/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
+| <sub>**27**</sub> | <sub>**[TBD](https://dblp.uni-trier.de/db/journals/tbd/)**</sub> | <sub>[IEEE Transactions on Big Data](https://dblp.uni-trier.de/db/journals/tbd/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
+| <sub>**28**</sub> | <sub>**[JBI](https://dblp.uni-trier.de/db/journals/jbi/)**</sub> | <sub>[Journal of Biomedical Informatics](https://dblp.uni-trier.de/db/journals/jbi/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
+| <sub>**29**</sub> | <sub></sub> | <sub>[Medical Image Analysis](http://dblp.uni-trier.de/db/journals/mia/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
+| <sub>**30**</sub> | <sub>**[TII](https://dblp.org/db/journals/tii/index.html)**</sub> | <sub>[IEEE Transactions on Industrial Informatics](https://dblp.org/db/journals/tii/index.html)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 | <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
 
 ###### 会议列表, ...
@@ -81,9 +84,8 @@ To add or update a deadline:
 | <sub>**17**</sub> | <sub>**[BMVC](http://dblp.uni-trier.de/db/conf/bmvc/)**</sub> | <sub>[British Machine Vision Conference](http://dblp.uni-trier.de/db/conf/bmvc/)</sub> | <sub>British Machine Vision Association</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
 | <sub>**18**</sub> | <sub>**[ICPR](http://dblp.uni-trier.de/db/conf/icpr/)**</sub> | <sub>[International Conference on Pattern Recognition](http://dblp.uni-trier.de/db/conf/icpr/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
 | <sub>**19**</sub> | <sub>**[ACCV](http://dblp.uni-trier.de/db/conf/accv/)**</sub> | <sub>[Asian Conference on Computer Vision](http://dblp.unitrier.de/db/conf/accv/)</sub> | <sub>Springer</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
-
-| <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
-
+| <sub>**20**</sub> | <sub>**[WWW](http://dblp.uni-trier.de/db/conf/www/)**</sub> | <sub>[International World Wide Web Conferences](http://dblp.uni-trier.de/db/conf/www/)</sub> | <sub>ACM</sub> | <sub>交叉/综合/新兴</sub> | <sub>A</sub> | | |
+| <sub>**21**</sub> | <sub></sub> | <sub>[IEEE International Conference on Big Data](https://dblp.uni-trier.de/db/conf/bigdataconf/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 
 
 ## Forks & other useful listings
