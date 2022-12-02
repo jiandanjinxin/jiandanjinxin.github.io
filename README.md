@@ -59,7 +59,15 @@ To add or update a deadline:
 | <sub>**28**</sub> | <sub>**[JBI](https://dblp.uni-trier.de/db/journals/jbi/)**</sub> | <sub>[Journal of Biomedical Informatics](https://dblp.uni-trier.de/db/journals/jbi/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 | <sub>**29**</sub> | <sub></sub> | <sub>[Medical Image Analysis](http://dblp.uni-trier.de/db/journals/mia/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 | <sub>**30**</sub> | <sub>**[TII](https://dblp.org/db/journals/tii/index.html)**</sub> | <sub>[IEEE Transactions on Industrial Informatics](https://dblp.org/db/journals/tii/index.html)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
+| <sub>**31**</sub> | <sub>**[NC](https://www.nature.com/ncomms/)**</sub> | <sub>[Nature Communications](https://www.nature.com/ncomms/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
+| <sub>**32**</sub> | <sub>**[SR](https://www.nature.com/srep/)**</sub> | <sub>[Scientific Reports](https://www.nature.com/srep/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
+| <sub>**33**</sub> | <sub>**[NM](https://www.nature.com/nm/)**</sub> | <sub>[Nature Medicine](https://www.nature.com/nm/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
+| <sub>**34**</sub> | <sub>**[NMETH](https://www.nature.com/nmeth/)**</sub> | <sub>[Nature Methods](https://www.nature.com/nmeth/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
 
+
+| <sub>**32**</sub> | <sub>**[PNAS](https://www.pnas.org/)**</sub> | <sub>[Proceedings of the National Academy of Sciences of the United States of America](https://www.pnas.org/)</sub> | <sub></sub> | <sub>综合系列</sub> | <sub>A</sub> | | |
+
+| <sub>**30**</sub> | <sub>**[TII](https://dblp.org/db/journals/tii/index.html)**</sub> | <sub>[IEEE Transactions on Industrial Informatics](https://dblp.org/db/journals/tii/index.html)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 
 ###### 会议列表, ...
 
