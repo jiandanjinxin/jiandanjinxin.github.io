@@ -59,7 +59,7 @@ To add or update a deadline:
 | <sub>**28**</sub> | <sub>**[JBI](https://dblp.uni-trier.de/db/journals/jbi/)**</sub> | <sub>[Journal of Biomedical Informatics](https://dblp.uni-trier.de/db/journals/jbi/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 | <sub>**29**</sub> | <sub></sub> | <sub>[Medical Image Analysis](http://dblp.uni-trier.de/db/journals/mia/)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 | <sub>**30**</sub> | <sub>**[TII](https://dblp.org/db/journals/tii/index.html)**</sub> | <sub>[IEEE Transactions on Industrial Informatics](https://dblp.org/db/journals/tii/index.html)</sub> | <sub>Elsevier</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
-| <sub>Dez. 19, 2018</sub> | <sub>~~Fev. 22, 2018~~</sub> | <sub>ASVspoof 2019: Future horizons in spoofed/fake audio detection</sub> | <sub>[ASVspoof2019](http://www.asvspoof.org/)</sub> | <a href="http://www.asvspoof.org/asvspoof2019/ASVspoof_2019_baseline_CM_v1.zip">:scroll:</a> |
+
 
 ###### 会议列表, ...
 
@@ -71,7 +71,7 @@ To add or update a deadline:
 | <sub>**4**</sub> | <sub>**[ICIP](http://dblp.uni-trier.de/db/conf/icip/)**</sub> | <sub>[International Conference on Image Processing](http://dblp.uni-trier.de/db/conf/icip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
 | <sub>**5**</sub> | <sub>**[ PRCV](https://dblp.org/db/conf/prcv/index.html)**</sub> | <sub>[Chinese Conference on Pattern Recognition and Computer Vision(中国模式识别与计算机视觉大会)](https://dblp.org/db/conf/prcv/index.html)</sub> | <sub>Springer</sub> | <sub>计算机图形学与多媒体</sub> | <sub>C</sub> | | |
 | <sub>**6**</sub> | <sub>**[AAAI](http://dblp.uni-trier.de/db/conf/aaai/)**</sub> | <sub>[AAAI Conference on Artificial Intelligence](http://dblp.uni-trier.de/db/conf/aaai/)</sub> | <sub>AAAI</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
-| <sub>**7**</sub> | <sub>**[NeurIPS](http://dblp.uni-trier.de/db/conf/nips/)**</sub> | <sub>[Annual Conference on Neural Information Processing Systems](http://dblp.uni-trier.de/db/conf/nips/)</sub> | <sub>MIT Press</sub> | <sub>人工智能</sub> | <sub>a</sub> | | |
+| <sub>**7**</sub> | <sub>**[NeurIPS](http://dblp.uni-trier.de/db/conf/nips/)**</sub> | <sub>[Annual Conference on Neural Information Processing Systems](http://dblp.uni-trier.de/db/conf/nips/)</sub> | <sub>MIT Press</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
 | <sub>**8**</sub> | <sub>**[CVPR](http://dblp.uni-trier.de/db/conf/cvpr/)**</sub> | <sub>[IEEE Conference on Computer Vision and Pattern Recognition](http://dblp.uni-trier.de/db/conf/cvpr/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
 | <sub>**9**</sub> | <sub>**[ICCV](http://dblp.uni-trier.de/db/conf/iccv/)**</sub> | <sub>[International Conference on Computer Vision](http://dblp.unitrier.de/db/conf/iccv/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
 | <sub>**10**</sub> | <sub>**[ICML](http://dblp.uni-trier.de/db/conf/icml/)**</sub> | <sub>[International Conference on Machine Learning](http://dblp.unitrier.de/db/conf/icml/)</sub> | <sub>ACM</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
