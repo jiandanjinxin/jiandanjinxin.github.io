@@ -65,7 +65,7 @@ To add or update a deadline:
 | <sub>**34**</sub> | <sub>**[NMETH](https://www.nature.com/nmeth/)**</sub> | <sub>[Nature Methods](https://www.nature.com/nmeth/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
 | <sub>**35**</sub> | <sub>**[PNAS](https://www.pnas.org/)**</sub> | <sub>[Proceedings of the National Academy of Sciences of the United States of America](https://www.pnas.org/)</sub> | <sub></sub> | <sub>综合系列</sub> | <sub>A</sub> | | |
 | <sub>**36**</sub> | <sub></sub> | <sub>[Nature Machine Intelligence](https://www.nature.com/natmachintell/)</sub> | <sub>Nature</sub> | <sub>Nature系列</sub> | <sub>A</sub> | | |
-| <sub>**37**</sub> | <sub>[JCO](https://ascopubs.org/journal/jco/)</sub> | <sub>[Journal of Clinical Oncology](https://ascopubs.org/journal/jco/)</sub> | <sub>ASCO</sub> | <sub>临床肿瘤系列</sub> | <sub>A</sub> | | |
+| <sub>**37**</sub> | <sub>**[JCO](https://ascopubs.org/journal/jco/)**</sub> | <sub>[Journal of Clinical Oncology](https://ascopubs.org/journal/jco/)</sub> | <sub>ASCO</sub> | <sub>临床肿瘤系列</sub> | <sub>A</sub> | | |
 
 
 
