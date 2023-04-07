@@ -23,20 +23,8 @@
   place: TBD
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://aim-nuist.github.io/mics2022.html/''>here</a>.' 
-  
-- title: VALSE-Vision And Learning SEminar-TBD
-  hindex: 299
-  year: 2023
-  id: VALSE2023
-  link: http://valser.org/portal.php
-  deadline: '2023-08-1 23:59:59'
-  timezone: UTC-12
-  date: Aug 10-12, 2023
-  place: TBD
-  sub: DC
-  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://valser.org/portal.php/''>here</a>.'
-
-- title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)
+ 
+ - title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)
   hindex: 299
   year: 2023
   id: CCIG2023
@@ -48,16 +36,17 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.csig.org.cn/''>here</a>.' 
  
- - title: ICIG（International Conference on Image and Graphics）
+- title: VALSE-Vision And Learning SEminar-TBD
+  hindex: 299
   year: 2023
-  id: CCIG2023
-  link: http://ccig.csig.org.cn/
-  deadline: '2023-04-14 23:59:59'
+  id: VALSE2023
+  link: http://valser.org/portal.php
+  deadline: '2023-08-1 23:59:59'
   timezone: UTC-12
-  date: Sep 22-24, 2023
-  place: Nanjing
+  date: Aug 10-12, 2023
+  place: TBD
   sub: DC
-  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.csig.org.cn/''>here</a>.' 
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://valser.org/portal.php/''>here</a>.'
  
 - title: CVPR-TBD
   hindex: 299
