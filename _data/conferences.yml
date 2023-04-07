@@ -685,4 +685,15 @@
   sub: ML
   note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
   paperslink: https://2021.ecmlpkdd.org/?page_id=1811
+  
+- title: ECAI
+  year: 2023
+  id: ecai23
+  link: https://ecai2023.eu/
+  deadline: '2023-05-08 23:59:59'
+  timezone: UTC-7
+  date: Sep 30 - Oct 5, 2023
+  place: Kraków, Poland
+  sub: ML
+  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''https://ecai2023.eu/''>here</a>.'
 
