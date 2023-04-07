@@ -36,28 +36,6 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://valser.org/portal.php/''>here</a>.'
   
-- title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)
-  hindex: 299
-  year: 2023
-  id: CCIG2023
-  link: http://ccig.csig.org.cn/
-  deadline: '2023-04-20 23:59:59'
-  timezone: UTC-12
-  date: May 11-14, 2023
-  place: 苏州
-  sub: DC
-  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.csig.org.cn/''>here</a>.' 
- 
- - title: ICIG（International Conference on Image and Graphics）
-  year: 2023
-  id: CCIG2023
-  link: http://ccig.csig.org.cn/
-  deadline: '2023-04-14 23:59:59'
-  timezone: UTC-12
-  date: Sep 22-24, 2023
-  place: 南京
-  sub: DC
-  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.csig.org.cn/''>here</a>.' 
  
 - title: CVPR-TBD
   hindex: 299
