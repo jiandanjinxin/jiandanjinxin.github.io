@@ -666,11 +666,11 @@
   hindex: -1
   year: 2023
   id: icdm23
-  link: https://waset.org/data-mining-conference-in-july-2023-in-istanbul
-  deadline: '2022-07-01 23:59:59'
+  link: http://www.cloud-conf.net/icdm2023/index.html
+  deadline: '2023-07-01 23:59:59'
   timezone: America/Los_Angeles
-  date: July 29-30, 2023 
-  place: Istanbul, Turkey
+  date: December 1-4, 2023 
+  place: Shanghai, China
   sub: DM
 
 - title: ACML
