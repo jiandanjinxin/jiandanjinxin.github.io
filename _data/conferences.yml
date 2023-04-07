@@ -24,7 +24,6 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://aim-nuist.github.io/mics2022.html/''>here</a>.' 
   
- 
 - title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)
   hindex: 299
   year: 2023
@@ -36,17 +35,17 @@
   place: 苏州
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.csig.org.cn/''>here</a>.' 
-  
+
 - title: ICIG（International Conference on Image and Graphics）
   year: 2023
-  id:ICIG2023
+  id: ICIG2023
   link: http://icig2023.csig.org.cn/
   deadline: '2023-04-14 23:59:59'
   timezone: UTC-12
   date: Sep 22-24, 2023
   place: 南京
   sub: DC
-  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://icig2023.csig.org.cn/''>here</a>.'   
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://icig2023.csig.org.cn/''>here</a>.'  
   
 - title: VALSE-Vision And Learning SEminar-TBD
   hindex: 299
