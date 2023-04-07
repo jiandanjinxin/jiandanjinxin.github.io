@@ -33,7 +33,7 @@
   deadline: '2023-04-20 23:59:59'
   timezone: UTC-12
   date: May 11-14, 2023
-  place: Suzhou
+  place: 苏州
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.csig.org.cn/''>here</a>.' 
   
@@ -44,7 +44,7 @@
   deadline: '2023-04-14 23:59:59'
   timezone: UTC-12
   date: Sep 22-24, 2023
-  place: Nanjing
+  place: 南京
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://icig2023.csig.org.cn/''>here</a>.'   
   
