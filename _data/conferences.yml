@@ -156,16 +156,16 @@
   
 - title: WWW-TBD
   hindex: 70
-  year: 2023
-  id: www23
+  year: 2024
+  id: www24
   link: https://www2023.thewebconf.org/
-  deadline: '2023-10-21 23:59:59'
-  abstract_deadline: '2021-10-14 23:59:59'
+  deadline: '2023-10-10 23:59:59'
+  abstract_deadline: '2023-10-5 23:59:59'
   timezone: UTC-12
   date: TBD
   place: TBD
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on October 5, 2023'
 
 
 - title: ICIP-TBD
