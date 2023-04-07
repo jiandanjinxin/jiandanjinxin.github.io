@@ -120,15 +120,15 @@
   sub: ML
   paperslink: http://computationalcreativity.net/iccc20/papers/ICCC20_Proceedings.pdf
 
-- title: ACCV-TBD
+- title: ACCV
   hindex: 38
-  year: 2023
-  id: accv23
-  link: TBD
+  year: 2024
+  id: accv24
+  link: https://accv2024.org/home
   deadline: '2023-07-08 23:59:00'
   timezone: UTC
-  date: TBD
-  place: Online
+  date: December 8 -12, 2024
+  place: Hanoi, Vietnam
   sub: CV
   paperslink: 
 
