@@ -143,9 +143,6 @@
   place: TBD
   sub: CV
 
-
-
-
 - title: WACV-TBD
   year: 2024
   id: wacv24
@@ -277,14 +274,14 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021' 
 
-- title: NeurIPS-TBD
+- title: NeurIPS
   year: 2023
   id: neurips23-abs
   link: https://neurips.cc/Conferences/2023/
-  deadline: "2023-05-10 20:00:00"
+  deadline: "2023-05-11 20:00:00"
   timezone: UTC
-  date: November 25 – December 10, 2023
-  place: TBD
+  date: Dec 10 – 16, 2023
+  place: New Orleans Ernest N. Morial Convention Center
   sub: ML
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
   paperslink: https://nips.cc/Conferences/FutureMeetings
