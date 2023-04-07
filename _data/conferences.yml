@@ -440,16 +440,16 @@
   sub: MIC
   note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
  
-- title: ISBI
-  year: 2023
-  id: isbi23
+- title: ISBI-TBD
+  year: 2024
+  id: isbi24
   link: https://2023.biomedicalimaging.org/en/default.asp
-  deadline: "2022-10-26 23:59:59"
+  deadline: "2023-10-2 23:59:59"
   timezone: UTC
-  date: April 18-21, 2023
-  place: Cartagena, Colombia
+  date: 27-30 May 2024
+  place: Athens, Greece
   sub: MIC
-  note: '<b>NOTE</b>: Past ISBI. More info <a href=''https://biomedicalimaging.org/2022/past-isbis/''>here</a>.'
+  note: '<b>NOTE</b>: Past ISBI. More info <a href=''http://2023.biomedicalimaging.org/en/PAST-ISBIs.html''>here</a>.'
 
 - title: IPCAI
   year: 2023
