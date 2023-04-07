@@ -133,11 +133,11 @@
   paperslink: 
 
 
-- title: BMVC-TBD
+- title: BMVC
   year: 2023
   id: bmvc2023
   link: http://bmvc2023.org/
-  deadline: "2023-07-25 23:59:59"
+  deadline: "2023-05-12 23:59:59"
   timezone: America/Los_Angeles
   date: November 20-24, 2023
   place: Aberdeen, UK
