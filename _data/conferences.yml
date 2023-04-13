@@ -356,7 +356,30 @@
   place: Suzhou, China
   sub: CV
   note: '<b>NOTE</b>: Visual Communications and Image Processing. More info <a href=''http://vcip2022.org/index.html''>here</a>.'
+  
+- title: ACM MM-Abstract
+  year: 2023
+  id: acmmm2023
+  link: https://www.acmmm2023.org/
+  deadline: '2023-04-23 23:59:00'
+  timezone: America/Los_Angeles
+  date: October 28, 2023 – November 3, 2023
+  place:  Ottawa, Canada
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More
+    info <a href=''https://www.acmmm2023.org/''>here</a>.'
 
+- title: ACM MM
+  year: 2023
+  id: acmmm2023
+  link: https://www.acmmm2023.org/
+  deadline: '2023-04-30 23:59:00'
+  timezone: America/Los_Angeles
+  date: October 28, 2023 – November 3, 2023
+  place:  Ottawa, Canada
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More
+    info <a href=''https://www.acmmm2023.org/''>here</a>.'
 
 - title: T-PAMI Call for RGB-D
   year: 2019
