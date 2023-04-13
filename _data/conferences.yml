@@ -1,5 +1,17 @@
 ---
 
+- title: 第六届中国模式识别与计算机视觉大会（The 6th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2023）
+  year: 2023
+  id: PRCV2023
+  link: https://prcv2023.xmu.edu.cn/index.htm
+  deadline: '2023-06-20 23:59:59'
+  timezone: UTC-12
+  date: Oct 13-15, 2023
+  place: 厦门国际会议中心酒店
+  sub: DC
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://prcv2023.xmu.edu.cn/index.htm''>here</a>.'
+
+
 - title: 第六届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine-TBD
   hindex: 299
   year: 2022
