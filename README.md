@@ -110,6 +110,7 @@ To add or update a deadline:
 - [MICCAI Past conferences][19]
 - [ISBI Past conferences][24]
 - [IPMI Past conferences][25]
+- [Call4Papers][34]
 - [Special Issues][27]
 - [Grand Challenge][28]
 - [MICCAI Challenge][29]
@@ -128,6 +129,7 @@ To add or update a deadline:
 - [ai-challenge-deadlines][15] by @dieg0as
 - [在github上建立自己的网站][16] by @夏冬青
 - [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南][17] by @chaosinmotion
+- [Call4Papers][34]
 
 
 
@@ -171,3 +173,4 @@ To add or update a deadline:
 [31]: http://www.conferencelist.info/upcoming.html
 [32]: http://conferences.visionbib.com/Iris-Conferences.html
 [33]: https://narenakash.github.io/Computer-Vision-and-Medical-Imaging-Conferences-and-Journals-2021/
+[34]: http://123.57.137.208/ccf/ccf-1.jsp
