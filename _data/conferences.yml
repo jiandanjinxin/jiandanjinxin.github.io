@@ -200,8 +200,8 @@
   link: https://www.ijcai.org/
   deadline: "2023-12-20 11:59:00"
   timezone: UTC
-  date: TBD
-  place: TBD
+  date: August 03-09, 2024
+  place: Jeju Island, South Korea
   sub: ML
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
   paperslink: https://www.ijcai.org/future_conferences
@@ -216,8 +216,64 @@
   deadline: '2023-12-30 23:59:59'
   abstract_deadline: '2023-12-20 23:59:59'
   timezone: UTC-12
+  date: August 03-09, 2024
+  place: Jeju Island, South Korea
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
+  paperslink: https://www.ijcai.org/future_conferences
+
+- title: IJCAI abstract
+  year: 2025
+  id: ijcai25-abstract
+  link: https://www.ijcai.org/
+  deadline: "2023-12-20 11:59:00"
+  timezone: UTC
   date: TBD
-  place: TBD
+  place: Montreal, Canada 
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
+  paperslink: https://www.ijcai.org/future_conferences
+  
+- title: IJCAI-TBD
+  description: International Joint Conference on Artificial Intelligence
+  rank: A
+  hindex: 105
+  year: 2025
+  id: ijcai25
+  link: https://ijcai-24.org/
+  deadline: '2023-12-30 23:59:59'
+  abstract_deadline: '2023-12-20 23:59:59'
+  timezone: UTC-12
+  date: TBD
+  place: Montreal, Canada 
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
+  paperslink: https://www.ijcai.org/future_conferences
+
+- title: IJCAI abstract
+  year: 2026
+  id: ijcai26-abstract
+  link: https://www.ijcai.org/
+  deadline: "2023-12-20 11:59:00"
+  timezone: UTC
+  date: TBD
+  place: Bremen, Germany 
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
+  paperslink: https://www.ijcai.org/future_conferences
+  
+- title: IJCAI-TBD
+  description: International Joint Conference on Artificial Intelligence
+  rank: A
+  hindex: 105
+  year: 2026
+  id: ijcai26
+  link: https://ijcai-24.org/
+  deadline: '2023-12-30 23:59:59'
+  abstract_deadline: '2023-12-20 23:59:59'
+  timezone: UTC-12
+  date: TBD
+  place: Bremen, Germany 
   sub: ML
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
   paperslink: https://www.ijcai.org/future_conferences
@@ -239,26 +295,39 @@
   year: 2024
   id: aaai24-abstract
   link: https://aaai.org/Conferences/AAAI-24/aaai24call/
-  deadline: "2023-08-15 23:59:59"
+  deadline: "2023-08-8 23:59:59"
   timezone: Etc/GMT+12
-  date: TBD
-  place: TBD
+  date: February 20-27， 2024
+  place: Vancouver, British Columbia, Canada
   sub: ML
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://aaai.org/Conferences/AAAI/aaai.php''>here</a>.'
   paperslink: https://aaai.org/Conferences/AAAI/aaai.php
 
-- title: AAAI-TBD
+- title: AAAI
   hindex: 95
   year: 2024
   id: aaai24
-  link: https://aaai.org/Conferences/AAAI-24/
+  link: https://aaai.org/aaai-conference/
   deadline: '2024-09-08 23:59:59'
   abstract_deadline: '2023-08-30 23:59:59'
   timezone: UTC-12
-  date: TBD
-  place: TBD
+  date: February 20-27， 2024
+  place: Vancouver, British Columbia, Canada
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021' 
+  note: '<b>NOTE</b>: August 8, 2023 Abstracts due at 11:59 PM UTC-12' 
+
+- title: AAAI-TBD
+  hindex: 95
+  year: 2025
+  id: aaai25
+  link: https://aaai.org/aaai-conference/mockup_aaai-25_savethedate/
+  deadline: 'TBD'
+  abstract_deadline: '2023-08-30 23:59:59'
+  timezone: UTC-12
+  date: February xx-xx， 2025
+  place: PHILADELPHIA, PENNSYLVANIA, USA
+  sub: ML
+  note: '<b>NOTE</b>: August 8, 2023 Abstracts due at 11:59 PM UTC-12' 
 
 - title: NeurIPS
   year: 2023
@@ -279,7 +348,7 @@
   deadline: "2024-05-23 18:00:00"
   timezone: US/Pacific
   date: November 30 - December 15, 2024
-  place: TBD
+  place: Vancouver
   sub: ML
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
   paperslink: https://nips.cc/Conferences/FutureMeetings
@@ -292,7 +361,7 @@
   deadline: "2025-05-23 20:00:00"
   timezone: US/Pacific
   date: November 29 – December 6, 2025
-  place: TBD
+  place: San Diego
   sub: ML
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
   paperslink: https://nips.cc/Conferences/FutureMeetings
@@ -727,3 +796,15 @@
   place: 厦门
   sub: CV
   note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''https://ecai2023.eu/''>here</a>.'
+
+- title: ACL-TBD
+  year: 2024
+  id: ACL2024
+  link: https://2024.aclweb.org/
+  deadline: '2023-06-20 23:59:59'
+  timezone: UTC-7
+  date: August 12 – 17, 2024
+  place: Bangkok, Thailand
+  sub: NLP
+  
+
