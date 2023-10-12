@@ -46,7 +46,7 @@
   date: May 11-14, 2023
   place: 苏州
   sub: DC
-  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.csig.org.cn/''>here</a>.' 
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://.csig.org.cn/''>here</a>.' 
 
 - title: ICIG（International Conference on Image and Graphics）
   year: 2023
@@ -82,15 +82,27 @@
   place: TBD
   sub: CV 
 
+- title: ICCV
+  hindex: 176
+  year: 2024
+  id: iccv2024
+  link: https://waset.org/computational-vision-conference-in-february-2024-in-lisbon
+  deadline: '2023-10-17 23:59:00'
+  timezone: America/Los_Angeles
+  date: February 05-06, 2024
+  place:  Lisbon, Portugal
+  sub: CV
+  
+
 - title: ICCV-TBD
   hindex: 176
   year: 2025
   id: iccv2025
-  link: https://iccv2025.thecvf.com/
-  deadline: '2025-03-8 23:59:00'
+  link: https://iccv2025shenzhen.gitee.io/
+  deadline: '2024-xx-xx 23:59:00'
   timezone: America/Los_Angeles
-  date: TBD
-  place:  TBD
+  date: December 14-20, 2025
+  place:  Shenzhen
   sub: CV
   note: '<b>NOTE</b>: Mandatory paper registration deadline on Mar 10, 2025. More
     info <a href=''http://iccv2025.thecvf.com/home''>here</a>.'
@@ -152,17 +164,18 @@
   place: TBD
   sub: CV
   note: "<b>NOTE</b>: First round submission deadline."
+
   
-- title: WWW-TBD
+- title: WWW
   hindex: 70
   year: 2024
   id: www24
-  link: https://www2023.thewebconf.org/
+  link: https://www2024.thewebconf.org/
   deadline: '2023-10-10 23:59:59'
   abstract_deadline: '2023-10-5 23:59:59'
   timezone: UTC-12
-  date: TBD
-  place: TBD
+  date: MAY 13 - 17, 2024
+  place: Singapore
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 5, 2023'
 
@@ -286,7 +299,7 @@
   deadline: '2024-01-27 23:59:00'
   abstract_deadline: '2024-01-20 23:59:00'
   timezone: UTC-12
-  date: Fri July 19-27th,2024 
+  date: Fri July 21-27th,2024 
   place: Vienna, Austria 
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2024. More info <a href=''https://icml.cc/Conferences/2024/''>here</a>.'
@@ -709,15 +722,15 @@
   sub: CV
   paperslink: https://2021.ieeeicme.org/conf_oral
 
-- title: KDD-TBD
+- title: KDD
   hindex: 30
   year: 2023
   id: kdd23
-  link: https://kdd.org/kdd2022/index.html#
+  link: https://kdd.org/conferences
   deadline: '2023-02-10 23:59:59'
   timezone: UTC-12
-  date: TBD 
-  place: TBD
+  date: August 6-10, 2023 
+  place: Long Beach, California - USA
   sub: DM
   paperslink: https://kdd.org/kdd2021/accepted-papers/toc
 
