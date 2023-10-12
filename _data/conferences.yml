@@ -71,12 +71,23 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://valser.org/portal.php/''>here</a>.'
  
-- title: CVPR-TBD
+- title: CVPR
   hindex: 299
   year: 2024
   id: cvpr24
-  link: http://cvpr2024.thecvf.com/
+  link: https://cvpr.thecvf.com/
   deadline: '2023-11-10 23:59:59'
+  timezone: America/Los_Angeles
+  date: june 17-21, 2024
+  place: Seattle Convention Center
+  sub: CV 
+
+- title: CVPR-TBD
+  hindex: 299
+  year: 2025
+  id: cvpr25
+  link: https://cvpr.thecvf.com/
+  deadline: '2024-11-10 23:59:59'
   timezone: America/Los_Angeles
   date: TBD
   place: TBD
@@ -99,7 +110,7 @@
   year: 2025
   id: iccv2025
   link: https://iccv2025shenzhen.gitee.io/
-  deadline: '2024-xx-xx 23:59:00'
+  deadline: '2024-10-17 23:59:00'
   timezone: America/Los_Angeles
   date: December 14-20, 2025
   place:  Shenzhen
