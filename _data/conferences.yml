@@ -93,16 +93,6 @@
   place: TBD
   sub: CV 
 
-- title: ICCV
-  hindex: 176
-  year: 2024
-  id: iccv2024
-  link: https://waset.org/computational-vision-conference-in-february-2024-in-lisbon
-  deadline: '2023-10-17 23:59:00'
-  timezone: America/Los_Angeles
-  date: February 05-06, 2024
-  place:  Lisbon, Portugal
-  sub: CV
   
 
 - title: ICCV-TBD
