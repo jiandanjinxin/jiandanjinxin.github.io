@@ -120,24 +120,12 @@
   sub: CV
   paperslink: https://eccv2023.eu/about-eccv/#
 
-- title: ICCC-TBD
-  hindex: 22
-  year: 2024
-  id: iccc24
-  link: http://computationalcreativity.net/iccc24/
-  deadline: '2024-03-08 23:59:59'
-  timezone: UTC-12
-  date: TBD
-  place: TBD
-  sub: ML
-  paperslink: http://computationalcreativity.net/iccc24/papers/ICCC20_Proceedings.pdf
-
 - title: ACCV-TBD
   hindex: 38
   year: 2024
   id: accv24
   link: https://accv2024.org/home
-  deadline: '2023-07-08 23:59:00'
+  deadline: '2024-07-08 23:59:00'
   timezone: UTC
   date: December 8 -12, 2024
   place: Hanoi, Vietnam
@@ -145,21 +133,21 @@
   paperslink: 
 
 
-- title: BMVC
-  year: 2023
-  id: bmvc2023
-  link: http://bmvc2023.org/
-  deadline: "2023-05-12 23:59:59"
+- title: BMVC-TBD
+  year: 2024
+  id: bmvc2024
+  link: http://bmvc2024.org/
+  deadline: "2024-05-12 23:59:59"
   timezone: America/Los_Angeles
-  date: November 20-24, 2023
+  date: November 20-24, 2024
   place: Aberdeen, UK
   sub: CV
 
 - title: WACV-TBD
-  year: 2024
-  id: wacv24
-  link: http://wacv2024.wacv.net/
-  deadline: "2023-07-06 23:59:59"
+  year: 2025
+  id: wacv25
+  link: http://wacv2025.wacv.net/
+  deadline: "2024-07-06 23:59:59"
   timezone: America/Los_Angeles
   date: TBD
   place: TBD
@@ -172,8 +160,8 @@
   year: 2024
   id: www24
   link: https://www2024.thewebconf.org/
-  deadline: '2023-10-10 23:59:59'
-  abstract_deadline: '2023-10-5 23:59:59'
+  deadline: '2024-2-5 23:59:59'
+  abstract_deadline: '2023-2-5 23:59:59'
   timezone: UTC-12
   date: MAY 13 - 17, 2024
   place: Singapore
@@ -181,28 +169,28 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 5, 2023'
 
 
-- title: ICIP-TBD
+- title: ICIP
   hindex: 52
   year: 2024
-  id: icip2023
-  link: http://2023.ieeeicip.org/
-  deadline: '2024-01-13 23:59:59'
+  id: icip2024
+  link: http://2024.ieeeicip.org
+  deadline: '2024-2-1 23:59:59'
   timezone: UTC-12
-  date: TBD
-  place: TBD
+  date: Oct 27 - 30, 2024
+  place: Abu Dhabi, United Arab Emirates
   sub: MIC
   note: '<b>NOTE</b>: International Conference on Image Processing. More info <a href=''http://2024.ieeeicip.org''>here</a>.'
   paperslink: http://2024.ieeeicip.org
 
-- title: ICPR-TBD
+- title: ICPR
   hindex: 38
   year: 2024
   id: icpr24
-  link: https://www.icpr2024.com/
-  deadline: '2024-01-18 23:59:00'
+  link: https://icpr2024.org/index.html
+  deadline: '2024-03-31 23:59:00'
   timezone: UTC+1
-  date: TBD
-  place: TBD
+  date: 01-05 December 2024
+  place: Kolkata, India
   sub: ML
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.icpr2023.com/past-congresses/''>here</a>.'
   paperslink: https://www.icpr2023.com/
