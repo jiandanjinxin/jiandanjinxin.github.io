@@ -194,7 +194,7 @@
   year: 2024
   id: ijcai24-abstract
   link: https://www.ijcai.org/
-  deadline: "2023-12-20 11:59:00"
+  deadline: "2024-1-11 11:59:00"
   timezone: UTC
   date: August 03-09, 2024
   place: Jeju Island, South Korea
@@ -209,8 +209,8 @@
   year: 2024
   id: ijcai24
   link: https://ijcai-24.org/
-  deadline: '2023-12-30 23:59:59'
-  abstract_deadline: '2023-12-20 23:59:59'
+  deadline: '2024-1-18 23:59:59'
+  abstract_deadline: '2024-1-11 23:59:59'
   timezone: UTC-12
   date: August 03-09, 2024
   place: Jeju Island, South Korea
@@ -222,7 +222,7 @@
   year: 2025
   id: ijcai25-abstract
   link: https://www.ijcai.org/
-  deadline: "2023-12-20 11:59:00"
+  deadline: "2025-1-11 11:59:00"
   timezone: UTC
   date: TBD
   place: Montreal, Canada 
@@ -236,9 +236,9 @@
   hindex: 105
   year: 2025
   id: ijcai25
-  link: https://ijcai-24.org/
-  deadline: '2023-12-30 23:59:59'
-  abstract_deadline: '2023-12-20 23:59:59'
+  link: https://www.ijcai.org/
+  deadline: '2025-1-18 23:59:59'
+  abstract_deadline: '2025-1-11 23:59:59'
   timezone: UTC-12
   date: TBD
   place: Montreal, Canada 
@@ -250,7 +250,7 @@
   year: 2026
   id: ijcai26-abstract
   link: https://www.ijcai.org/
-  deadline: "2023-12-20 11:59:00"
+  deadline: "2026-1-11 11:59:00"
   timezone: UTC
   date: TBD
   place: Bremen, Germany 
@@ -264,9 +264,9 @@
   hindex: 105
   year: 2026
   id: ijcai26
-  link: https://ijcai-24.org/
-  deadline: '2023-12-30 23:59:59'
-  abstract_deadline: '2023-12-20 23:59:59'
+  link: https://www.ijcai.org/
+  deadline: '2026-1-18 23:59:59'
+  abstract_deadline: '2026-1-11 23:59:59'
   timezone: UTC-12
   date: TBD
   place: Bremen, Germany 
