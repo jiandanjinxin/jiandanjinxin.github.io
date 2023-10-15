@@ -338,5 +338,41 @@
   sub: ML
   note: '<b>NOTE</b>: August 8, 2026 Abstracts due at 11:59 PM UTC-12' 
 
+- title: NeurIPS-TBD
+  year: 2025
+  id: neurips2025
+  link: https://nips.cc/Conferences/2025
+  deadline: '2025-05-23 20:00:00'
+  timezone: US/Pacific
+  date: November 29 – December 6, 2025
+  place: San, Diego
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
+  paperslink: https://nips.cc/Conferences/FutureMeetings
+ 
+- title: ICLR
+  hindex: 203
+  year: 2025
+  id: iclr25
+  link: https://iclr.cc/Conferences/2025
+  deadline: '2025-9-28 08:00:00'
+  abstract_deadline: '2025-09-21 17:00:00'
+  timezone: CEST
+  date: MAY 7-11, 2026 
+  place: TBD
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 21, 2022. More info <a href=''https://iclr.cc/Conferences/2023/CallForPapers''>here</a>.'
+
+- title: ICASSP
+  hindex: 80
+  year: 2025
+  id: icassp25
+  link: https://2025.ieeeicassp.org/
+  deadline: '2024-9-6 23:59:59'
+  timezone: UTC-12
+  date: 6-11 April 2025
+  place: Hyderabad, India
+  sub: SP
+
 
 
