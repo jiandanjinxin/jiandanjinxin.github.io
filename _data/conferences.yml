@@ -1,75 +1,86 @@
 ---
 
-- title: 第六届中国模式识别与计算机视觉大会（The 6th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2023）
-  year: 2023
-  id: PRCV2023
-  link: https://prcv2023.xmu.edu.cn/index.htm
-  deadline: '2023-06-20 23:59:59'
+- title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2023）-TBD
+  year: 2024
+  id: PRCV2024
+  link: https://prcv2024.xmu.edu.cn/index.htm
+  deadline: '2024-06-20 23:59:59'
   timezone: UTC-12
-  date: Oct 13-15, 2023
-  place: 厦门国际会议中心酒店
+  date: Oct 13-15, 2024
+  place: TBD 
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://prcv2023.xmu.edu.cn/index.htm''>here</a>.'
 
-- title: 第六届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine-TBD
+- title: 第8届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine-TBD
   hindex: 299
-  year: 2022
-  id: ISICDM2022
+  year: 2024
+  id: ISICDM2024
   link: http://www.imagecomputing.org/index_cn.html
-  deadline: '2022-09-10 23:59:59'
+  deadline: '2024-09-10 23:59:59'
   timezone: UTC-12
-  date: Dem 10-12, 2022
+  date: Dem 10-12, 2024
   place: TBD
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.imagecomputing.org/index_cn.html/''>here</a>.'
   
 - title: 医学图像计算青年研讨会（Medical Imaging Computing Seminar,MICS）-TBD
   hindex: 299
-  year: 2023
-  id: MICS2023
+  year: 2024
+  id: MICS2024
   link: https://aim-nuist.github.io/mics2022.html
-  deadline: '2023-08-01 23:59:59'
+  deadline: '2024-08-01 23:59:59'
   timezone: UTC-12
-  date: Aug 10-12, 2023
+  date: Aug 10-12, 2024
   place: TBD
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://aim-nuist.github.io/mics2022.html/''>here</a>.' 
   
-- title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)
+- title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)-TBD
   hindex: 299
-  year: 2023
+  year: 2024
   id: CCIG2023
   link: http://ccig.csig.org.cn/
-  deadline: '2023-04-20 23:59:59'
+  deadline: '2024-04-20 23:59:59'
   timezone: UTC-12
-  date: May 11-14, 2023
+  date: May 11-14, 2024
   place: 苏州
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://.csig.org.cn/''>here</a>.' 
 
-- title: ICIG（International Conference on Image and Graphics）
-  year: 2023
-  id: ICIG2023
-  link: http://icig2023.csig.org.cn/
-  deadline: '2023-04-14 23:59:59'
+- title: ICIG（International Conference on Image and Graphics）-TBD
+  year: 2024
+  id: ICIG2024
+  link: http://icig2024.csig.org.cn/
+  deadline: '2024-04-14 23:59:59'
   timezone: UTC-12
-  date: Sep 22-24, 2023
+  date: Sep 22-24, 2024
   place: 南京
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://icig2023.csig.org.cn/''>here</a>.'  
   
 - title: VALSE-Vision And Learning SEminar-TBD
   hindex: 299
-  year: 2023
-  id: VALSE2023
+  year: 2024
+  id: VALSE2024
   link: http://valser.org/portal.php
-  deadline: '2023-08-1 23:59:59'
+  deadline: '2024-08-1 23:59:59'
   timezone: UTC-12
-  date: Aug 10-12, 2023
+  date: Aug 10-12, 2024
   place: TBD
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://valser.org/portal.php/''>here</a>.'
  
+- title: IPMI-TBD
+  year: 2025
+  id: ipmi25
+  link: https://www.ipmi2025.org/en/
+  deadline: "2024-11-18 23:59:00"
+  timezone: US/Pacific
+  date: June 19-23, 2025
+  place: San Carlos de Bariloche, Argentina, and Patagonia
+  sub: MIC
+  note: '<b>NOTE</b>: Past IPMI. More info <a href=''https://www.ipmi2023.org/en/PAST-IPMIs.html''>here</a>.'
+
 - title: CVPR-Abstract
   hindex: 299
   year: 2024
