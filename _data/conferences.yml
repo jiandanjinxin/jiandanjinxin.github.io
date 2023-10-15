@@ -304,7 +304,7 @@
   year: 2024
   id: aaai24-abstract
   link: https://aaai.org/Conferences/AAAI-24/aaai24call/
-  deadline: "2023-08-8 23:59:59"
+  deadline: "2024-08-8 23:59:59"
   timezone: Etc/GMT+12
   date: February 20-27， 2024
   place: Vancouver, British Columbia, Canada
@@ -342,7 +342,7 @@
   year: 2024
   id: neurips2024
   link: https://nips.cc/Conferences/2024
-  deadline: "2024-05-23 18:00:00"
+  deadline: '2024-05-23 18:00:00'
   timezone: US/Pacific
   date: November 30 - December 15, 2024
   place: Vancouver
@@ -350,12 +350,11 @@
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
   paperslink: https://nips.cc/Conferences/FutureMeetings
 
-
 - title: NeurIPS-TBD
   year: 2025
   id: neurips2025
   link: https://nips.cc/Conferences/2025
-  deadline: "2025-05-23 20:00:00"
+  deadline: '2025-05-23 20:00:00'
   timezone: US/Pacific
   date: November 29 – December 6, 2025
   place: San Diego
@@ -368,7 +367,7 @@
   year: 2025
   id: iclr25
   link: https://iclr.cc/Conferences/2025
-  deadline: "2025-9-28 08:00:00"
+  deadline: '2025-9-28 08:00:00'
   abstract_deadline: '2025-09-21 17:00:00'
   timezone: CEST
   date: MAY 7-11, 2026 
