@@ -330,10 +330,207 @@
   year: 2026
   id: aaai26
   link: https://aaai.org/aaai-conference/mockup_aaai-25_savethedate/
-  deadline: '2025-09-08 23:59:59'
+  deadline: '2026-09-08 23:59:59'
   abstract_deadline: '2026-08-30 23:59:59'
   timezone: UTC-12
   date: February xx-xx， 2026
   place: PHILADELPHIA, PENNSYLVANIA, USA
   sub: ML
   note: '<b>NOTE</b>: August 8, 2026 Abstracts due at 11:59 PM UTC-12' 
+
+- title: NeurIPS-TBD
+  year: 2024
+  id: neurips2024
+  link: https://nips.cc/Conferences/2024
+  deadline: "2024-05-23 18:00:00"
+  timezone: US/Pacific
+  date: November 30 - December 15, 2024
+  place: Vancouver
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
+  paperslink: https://nips.cc/Conferences/FutureMeetings
+
+
+- title: NeurIPS-TBD
+  year: 2025
+  id: neurips2025
+  link: https://nips.cc/Conferences/2025
+  deadline: "2025-05-23 20:00:00"
+  timezone: US/Pacific
+  date: November 29 – December 6, 2025
+  place: San Diego
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://nips.cc/Conferences/FutureMeetings''>here</a>.'
+  paperslink: https://nips.cc/Conferences/FutureMeetings
+ 
+- title: ICLR
+  hindex: 203
+  year: 2025
+  id: iclr25
+  link: https://iclr.cc/Conferences/2025
+  deadline: "2025-9-28 08:00:00"
+  abstract_deadline: '2025-09-21 17:00:00'
+  timezone: CEST
+  date: MAY 7-11, 2026 
+  place: TBD
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 21, 2022. More info <a href=''https://iclr.cc/Conferences/2023/CallForPapers''>here</a>.'
+
+- title: ICASSP
+  hindex: 80
+  year: 2025
+  id: icassp25
+  link: https://2025.ieeeicassp.org/
+  deadline: '2024-9-6 23:59:59'
+  timezone: UTC-12
+  date: 6-11 April 2025
+  place: Hyderabad, India
+  sub: SP
+
+- title: ACM MM-Abstract-TBD
+  year: 2024
+  id: acmmm2024
+  link: https://www.acmmm2024.org/
+  deadline: '2024-04-23 23:59:00'
+  timezone: America/Los_Angeles
+  date: October 28, 2024 – November 3, 2023
+  place:  TBD
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
+
+- title: ACM MM-TBD
+  year: 2024
+  id: acmmm2024
+  link: https://www.acmmm2024.org/
+  deadline: '2024-04-30 23:59:00'
+  timezone: America/Los_Anbggygeles
+  date: October 28, 2024 – November 3, 2024
+  place:  TBD
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
+
+  - title: ACM Multimedia Asia
+  year: 2024
+  id: acmmm2024
+  link: https://www.acmmm2024.org/
+  deadline: '2024-07-22 23:59:00'
+  timezone: America/Los_Anbggygeles
+  date: December 4–6, 2024
+  place:  Auckland, New Zealand
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
+
+title: MICCAI abstract-TBD
+  hindex: 46
+  year: 2024
+  id: miccai2024-abs
+  link: https://conferences.miccai.org/2022/en/
+  deadline: "2024-02-15 23:59:00"
+  timezone: UTC-12
+  date: Oct 6 - 10, 2024
+  place: MARRAKESH, MOROCCO
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2023-02-15 23:59:00."
+
+- title: RSNA-abstract-TBD
+  year: 2024
+  id: rsna2024
+  link: https://www.rsna.org/annual-meeting/abstract-submission
+  deadline: "2024-05-04 23:50:00"
+  timezone: US/Pacific
+  date: Dec. 1 to 5, 2024
+  place: McCormick Place, Chicago, Illinois
+  sub: MIC
+  note: '<b>NOTE</b>: RSNA Future and past meetings. More info <a href=''https://www.rsna.org/annual-meeting/future-and-past-meetings''>here</a>.'
+ 
+- title: ISBI
+  year: 2024
+  id: isbi24
+  link: https://biomedicalimaging.org/2024/
+  deadline: "2023-11-10 23:59:59"
+  timezone: UTC
+  date: 27-30 May 2024
+  place: Athens, Greece
+  sub: MIC
+  note: '<b>NOTE</b>: Past ISBI. More info <a href=''http://2023.biomedicalimaging.org/en/PAST-ISBIs.html''>here</a>.'
+
+- title: IPCAI Abstract and journal
+  year: 2024
+  id: ipcai24
+  link: https://sites.google.com/view/ipcai2024
+  deadline: "2023-10-20 23:59:59"
+  timezone: UTC
+  date: June 18-19 2024
+  place: Munich, Germany
+  sub: MIC
+  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.
+  Accepted submissions will be published as full journal papers in the IPCAI 2024 Special Issue of IJCARS(https://www.springer.com/journal/11548)'
+
+- title: IPCAI conferences and journal
+  year: 2024
+  id: ipcai24
+  link: https://sites.google.com/view/ipcai2024
+  deadline: "2023-10-27 23:59:59"
+  timezone: UTC
+  date: June 18-19 2024
+  place: Munich, Germany
+  sub: MIC
+  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.
+  Accepted submissions will be published as full journal papers in the IPCAI 2024 Special Issue of IJCARS(https://www.springer.com/journal/11548)'
+
+
+- title: SPIE Medical Imaging-ABSTRACT -TBD
+  hindex: -1
+  year: 2025
+  id: spie-mi2025
+  link: https://spie.org/medical-imaging.xml
+  deadline: '2024-08-09 23:59:59'
+  timezone: UTC-12
+  date: 18 - 22 February 2025
+  place: San Diego, California, United States
+  sub: MIC
+  abstract_deadline: '2024-08-9 23:59:59'
+  note: '<b>NOTE</b>: Past SPIE-Medical Imaging. More info <a href=''https://spie.org/conferences-and-exhibitions/medical-imaging''>here</a>.'
+  
+
+- title: MIDL-Abstract
+  hindex: -1
+  year: 2024
+  id: midl2024
+  link: https://2024.midl.io/
+  deadline: '2024-1-31 23:59:59'
+  timezone: UTC-12
+  date: 3—5 July 2024
+  place: Paris, France
+  sub: MIC
+  abstract_deadline: '2023-12-10 23:59:59'
+  note: '<b>NOTE</b>: Past Conferences. More info <a href=''https://www.midl.io/''>here</a>.'
+  paperslink: https://2024.midl.io/
+
+- title: MIDL
+  hindex: -1
+  year: 2024
+  id: midl2024
+  link: https://2024.midl.io/
+  deadline: '2024-2-7 23:59:59'
+  timezone: UTC-12
+  date: 3—5 July 2024
+  place: Paris, France
+  sub: MIC
+  abstract_deadline: '2023-12-10 23:59:59'
+  note: '<b>NOTE</b>: Past Conferences. More info <a href=''https://www.midl.io/''>here</a>.'
+  paperslink: https://2024.midl.io/
+
+- title: CARS
+  hindex: -1
+  year: 2024
+  id: CARS2024
+  link: https://www.cars-int.org/
+  deadline: '2024-01-10 23:59:59'
+  timezone: UTC-12
+  date: June 18 – 21, 2024
+  place: Barcelona, Spain
+  sub: MIC
+  abstract_deadline: '2024-01-10 23:59:59'
+  note: '<b>NOTE</b>: Computer Assisted Radiology and Surgery. More info <a href=''https://www.cars-int.org/''>here</a>.'
+  paperslink: https://www.cars-int.org/
