@@ -374,5 +374,40 @@
   place: Hyderabad, India
   sub: SP
 
+- title: ACM MM-Abstract-TBD
+  year: 2024
+  id: acmmm2024
+  link: https://www.acmmm2024.org/
+  deadline: '2024-04-23 23:59:00'
+  timezone: America/Los_Angeles
+  date: October 28, 2024 – November 3, 2023
+  place:  TBD
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
+
+- title: ACM MM-TBD
+  year: 2024
+  id: acmmm2024
+  link: https://www.acmmm2024.org/
+  deadline: '2024-04-30 23:59:00'
+  timezone: America/Los_Anbggygeles
+  date: October 28, 2024 – November 3, 2024
+  place:  TBD
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
+
+  - title: ACM Multimedia Asia
+  year: 2024
+  id: acmmm2024
+  link: https://www.acmmm2024.org/
+  deadline: '2024-07-22 23:59:00'
+  timezone: America/Los_Anbggygeles
+  date: December 4–6, 2024
+  place:  Auckland, New Zealand
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
+
+
+
 
 
