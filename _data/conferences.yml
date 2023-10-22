@@ -515,28 +515,28 @@
   note: '<b>NOTE</b>: Computer Assisted Radiology and Surgery. More info <a href=''https://www.cars-int.org/''>here</a>.'
   paperslink: https://www.cars-int.org/
 
-# - title: ICDM
-#   year: 2024
-#   id: icdm24
-#   link: http://www.data-mininig-forum.de
-#   deadline: '2024-01-15 23:59:59'
-#   timezone: America/Los_Angeles
-#   date: Jul 10, 2024 - Jul 14, 2024 
-#   place: Dresden, Germany
-#   sub: DM
+- title: ICDM
+  year: 2024
+  id: icdm24
+  link: http://www.data-mininig-forum.de
+  deadline: '2024-01-15 23:59:59'
+  timezone: America/Los_Angeles
+  date: Jul 10, 2024 - Jul 14, 2024 
+  place: Dresden, Germany
+  sub: DM
 
-# - title: ACML Conference and Journal-TBD
-#   hindex: 17
-#   year: 2024
-#   id: acml24
-#   link: http://www.acml-conf.org/2023
-#   deadline: '2024-06-23 23:59:59'
-#   timezone: UTC-7
-#   date: TBD
-#   place: TBD
-#   sub: ML
-#   note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
-#   paperslink: https://2021.ecmlpkdd.org/?page_id=1811
+- title: ACML Conference and Journal-TBD
+  hindex: 17
+  year: 2024
+  id: acml24
+  link: http://www.acml-conf.org/2023
+  deadline: '2024-06-23 23:59:59'
+  timezone: UTC-7
+  date: TBD
+  place: TBD
+  sub: ML
+  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
+  paperslink: https://2021.ecmlpkdd.org/?page_id=1811
   
 # - title: ECAI
 #   year: 2024
