@@ -472,8 +472,7 @@
   date: June 18-19 2024
   place: Munich, Germany
   sub: MIC
-  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.
-  Accepted submissions will be published as full journal papers in the IPCAI 2024 Special Issue of IJCARS(https://www.springer.com/journal/11548)'
+  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.'
 
 - title: IPCAI conferences and journal
   year: 2024
@@ -484,12 +483,10 @@
   date: June 18-19 2024
   place: Munich, Germany
   sub: MIC
-  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.
-  Accepted submissions will be published as full journal papers in the IPCAI 2024 Special Issue of IJCARS(https://www.springer.com/journal/11548)'
+  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI). More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>,Accepted submissions will be published as full journal papers in the IPCAI 2024 Special Issue of IJCARS(https://www.springer.com/journal/11548)'
 
 
 - title: SPIE Medical Imaging-ABSTRACT -TBD
-  hindex: -1
   year: 2025
   id: spie-mi2025
   link: https://spie.org/medical-imaging.xml
@@ -503,7 +500,6 @@
   
 
 - title: MIDL-Abstract
-  hindex: -1
   year: 2024
   id: midl2024
   link: https://2024.midl.io/
@@ -517,7 +513,6 @@
   paperslink: https://2024.midl.io/
 
 - title: MIDL
-  hindex: -1
   year: 2024
   id: midl2024
   link: https://2024.midl.io/
@@ -531,7 +526,6 @@
   paperslink: https://2024.midl.io/
 
 - title: CARS
-  hindex: -1
   year: 2024
   id: CARS2024
   link: https://www.cars-int.org/
@@ -545,7 +539,6 @@
   paperslink: https://www.cars-int.org/
 
 - title: ICDM
-  hindex: -1
   year: 2024
   id: icdm24
   link: http://www.data-mininig-forum.de
