@@ -463,27 +463,27 @@
   sub: MIC
   note: '<b>NOTE</b>: Past ISBI. More info <a href=''http://2023.biomedicalimaging.org/en/PAST-ISBIs.html''>here</a>.'
 
-# - title: IPCAI Abstract and journal
-#   year: 2024
-#   id: ipcai24
-#   link: https://sites.google.com/view/ipcai2024
-#   deadline: '2023-10-20 23:59:59'
-#   timezone: UTC
-#   date: June 18-19 2024
-#   place: Munich, Germany
-#   sub: MIC
-#   note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.'
+- title: IPCAI Abstract and journal
+  year: 2024
+  id: ipcai24
+  link: https://sites.google.com/view/ipcai2024
+  deadline: '2023-10-20 23:59:59'
+  timezone: UTC
+  date: June 18-19 2024
+  place: Munich, Germany
+  sub: MIC
+  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) . More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>.'
 
-# - title: IPCAI conferences and journal
-#   year: 2024
-#   id: ipcai24
-#   link: https://sites.google.com/view/ipcai2024
-#   deadline: '2023-10-27 23:59:59'
-#   timezone: UTC
-#   date: June 18-19 2024
-#   place: Munich, Germany
-#   sub: MIC
-#   note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI). More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>,Accepted submissions will be published as full journal papers in the IPCAI 2024 Special Issue of IJCARS(https://www.springer.com/journal/11548)'
+- title: IPCAI conferences and journal
+  year: 2024
+  id: ipcai24
+  link: https://sites.google.com/view/ipcai2024
+  deadline: '2023-10-27 23:59:59'
+  timezone: UTC
+  date: June 18-19 2024
+  place: Munich, Germany
+  sub: MIC
+  note: '<b>NOTE</b>: The International Conference on Information Processing in Computer-Assisted Interventions (IPCAI). More info <a href=''https://sites.google.com/view/ipcai2022/past-conferences''>here</a>,Accepted submissions will be published as full journal papers in the IPCAI 2024 Special Issue of IJCARS(https://www.springer.com/journal/11548)'
 
 
 # - title: SPIE Medical Imaging-ABSTRACT -TBD
