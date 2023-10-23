@@ -27,7 +27,7 @@ To add or update a deadline:
 ## 期刊-会议-列表
 ###### 期刊列表, ...
 
-| <sub>序号</sub> | <sub>期刊名缩写</sub> | <sub>期刊全称</sub> | <sub>出版社</sub> | <sub>领域</sub> | <sub>级别</sub> | <sub>出版社</sub> |
+| <sub>序号</sub> | <sub>期刊名缩写</sub> | <sub>期刊全称</sub> | <sub>出版社</sub> | <sub>领域</sub> | <sub>级别</sub> | <sub>高引</sub> |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <sub>**1**</sub> | <sub>**[TIP](http://dblp.uni-trier.de/db/journals/tip/)**</sub> | <sub>[IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
 | <sub>**2**</sub> | <sub>**[TVCG](http://dblp.uni-trier.de/db/journals/tvcg/)**</sub> | <sub>[IEEE Transactions on Visualization and Computer Graphics](http://dblp.uni-trier.de/db/journals/tvcg/)</sub> | <sub>IEEE</sub> | <sub>计算机图形学与多媒体</sub> | <sub>A</sub> | | |
