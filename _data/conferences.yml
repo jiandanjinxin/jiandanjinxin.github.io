@@ -589,3 +589,13 @@
   date: TBD, 2024
   place: TBD
   sub: MIC
+
+- title: WCCI-IJCNN
+  year: 2024
+  id: IJCNN2024
+  link: https://wcci2024.org/
+  deadline: '2024-01-15 23:59:59'
+  timezone: UTC-7
+  date: June 30th- July 5th, 2024
+  place: PACIFICO Yokohama, Japan
+  sub: MIC
