@@ -570,4 +570,13 @@
   place: Bangkok, Thailand
   sub: NLP
 
+- title: IEEE EMBS
+  year: 2024
+  id: EMBS2024
+  link: https://embc.embs.org/2024/
+  deadline: '2024-01-19 23:59:59'
+  timezone: UTC-7
+  date: July 15 – 19, 2024
+  place: Orlando, Florida, USA
+  sub: MIC
 
