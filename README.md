@@ -48,7 +48,7 @@ To add or update a deadline:
 | <sub>**17**</sub> | <sub></sub> | <sub>[Neural Networks](http://dblp.uni-trier.de/db/journals/nn/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
 | <sub>**18**</sub> | <sub>**[PR](http://dblp.uni-trier.de/db/conf/par/)**</sub> | <sub>[Pattern Recognition](http://dblp.uni-trier.de/db/conf/par/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
 | <sub>**19**</sub> | <sub>**[AIM](http://dblp.uni-trier.de/db/journals/artmed/)**</sub> | <sub>[Artificial Intelligence in Medicine](http://dblp.uni-trier.de/db/journals/artmed/)</sub> | <sub>Elsevier</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
-| <sub>**20**</sub> | <sub>**[TBME](https://www.embs.org/tbme/)**</sub> | <sub>[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
+| <sub>**20**</sub> | <sub>**[TBME](https://www.embs.org/tbme/)**</sub> | <sub>[IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/)</sub> | <sub>IEEE</sub> | <sub>人工智能</sub> | <sub>A</sub> | | |
 | <sub>**21**</sub> | <sub></sub> | <sub>[IET Signal Processing](http://digital-library.theiet.org/content/journals/iet-spr)</sub> | <sub>IET</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
 | <sub>**22**</sub> | <sub>**[IET-CVI](http://digital-library.theiet.org/content/journals/iet-cvi)**</sub> | <sub>[IET Computer Vision](http://digital-library.theiet.org/content/journals/iet-cvi)</sub> | <sub>IET</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
 | <sub>**23**</sub> | <sub></sub> | <sub>[Soft Computing](http://dblp.uni-trier.de/db/journals/soco/)</sub> | <sub>Springer</sub> | <sub>人工智能</sub> | <sub>C</sub> | | |
