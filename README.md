@@ -70,7 +70,6 @@ To add or update a deadline:
 | <sub>**39**</sub> | <sub>**[AO](https://www.annalsofoncology.org/)**</sub> | <sub>[Annals of  Oncology](https://www.annalsofoncology.org/)</sub> | <sub>EMSO</sub> | <sub>临床肿瘤系列</sub> | <sub>A</sub> | | |
 
 
-
 ###### 会议列表, ...
 
 | <sub>序号</sub> | <sub>会议名缩写</sub> | <sub>会议全称</sub> | <sub>出版社</sub> | <sub>领域</sub> | <sub>级别</sub> | <sub>状态</sub> |
@@ -97,6 +96,37 @@ To add or update a deadline:
 | <sub>**20**</sub> | <sub>**[WWW](http://dblp.uni-trier.de/db/conf/www/)**</sub> | <sub>[International World Wide Web Conferences](http://dblp.uni-trier.de/db/conf/www/)</sub> | <sub>ACM</sub> | <sub>交叉/综合/新兴</sub> | <sub>A</sub> | | |
 | <sub>**21**</sub> | <sub></sub> | <sub>[IEEE International Conference on Big Data](https://dblp.uni-trier.de/db/conf/bigdataconf/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 
+
+## 生物计算
+1.	BIOINFORMATICS （SCI一区）
+https://academic.oup.com/bioinformatics
+2.	BRIEFINGS IN BIOINFORMATICS（SCI一区）
+https://academic.oup.com/bib?login=true
+3.	PLOS Computational Biology （SCI二区）
+https://journals.plos.org/ploscompbiol/
+4.	IEEE/ACM Transactions on Computational Biology and Bioinformatics （SCI三区）
+https://www.computer.org/csdl/journal/tb
+5.	Neurocomputing
+https://www.sciencedirect.com/journal/neurocomputing
+6.	Knowledge-Based Systems
+https://www.sciencedirect.com/journal/knowledge-based-systems
+7.	Artificial Intelligence In Medicine
+https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine
+8.	IEEE Transactions on Biomedical Engineering https://www.embs.org/tbme/
+9.	Physics in Medicine and Biology
+https://iopscience.iop.org/journal/0031-9155
+10.	Computational Biology and Chemistry
+https://www.sciencedirect.com/journal/computational-biology-and-chemistry
+11.	Gene
+https://www.sciencedirect.com/journal/gene
+12.	BMC Bioinformatics （SCI三区）
+https://bmcbioinformatics.biomedcentral.com/?gclid=EAIaIQobChMIvp3z8ICVggMVKKlmAh0XkQcCEAAYASAAEgIr7_D_BwE
+13.	BMC Genomics （SCI二区）
+https://bmcgenomics.biomedcentral.com/
+14.	Current Bioinformatics
+https://benthamscience.com/journal/65/track/1
+15.	Asia Pacific Bioinformatics Conference
+    https://www.apbionet.org/
 
 ## Forks & other useful listings
 - [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
