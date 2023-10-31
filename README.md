@@ -162,7 +162,7 @@ https://benthamscience.com/journal/65/track/1
 - [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南][17] by @chaosinmotion
 - [Call4Papers][34]
 - [CCF Conference Deadlines][35]
-- [Best Computer Science Conferences](https://research.com/conference-rankings/computer-science)
+- [Best Computer Science Conferences][36]
 
 
 
@@ -208,3 +208,4 @@ https://benthamscience.com/journal/65/track/1
 [33]: https://narenakash.github.io/Computer-Vision-and-Medical-Imaging-Conferences-and-Journals-2021/
 [34]: http://123.57.137.208/ccf/ccf-1.jsp
 [35]:https://ccfddl.top/
+[36]:https://research.com/conference-rankings/computer-science
