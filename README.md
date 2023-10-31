@@ -24,7 +24,7 @@ To add or update a deadline:
 
 > ###### [Computer Vision](#computer-vision) | [Language](#language) | [Machine Learning](#machine-learning) | [Speaker](#speaker) | [Speech](#speech) | [Robotics](#robotics)
 ---
-[Best Computer Science Conferences](https://research.com/conference-rankings/computer-science)
+
 ## 期刊-会议-列表
 ###### 期刊列表, ...
 
@@ -162,6 +162,7 @@ https://benthamscience.com/journal/65/track/1
 - [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南][17] by @chaosinmotion
 - [Call4Papers][34]
 - [CCF Conference Deadlines][35]
+- [Best Computer Science Conferences](https://research.com/conference-rankings/computer-science)
 
 
 
