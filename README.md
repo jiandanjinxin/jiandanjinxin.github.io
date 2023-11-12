@@ -171,7 +171,6 @@ https://benthamscience.com/journal/65/track/1
 1. [学术规范与论文写作-程明明](https://mmcheng.net/writing/)
 
 
-
 ## License
 
 [MIT][1]
@@ -212,3 +211,15 @@ https://benthamscience.com/journal/65/track/1
 [35]:https://ccfddl.top/
 [36]:https://research.com/conference-rankings/computer-science
 [37]:https://csrankings.org/#/fromyear/2011/toyear/2023/index?all&us
+
+<details>
+    </summary>
+    <br>
+# 学术影响
+1. World’s Top 2% Scientists
+   美国斯坦福大学和爱思唯尔数据库（Elsevier Data Repository）发布《年度全球前2％顶尖科学家榜单》（World’s Top 2% Scientists），根据“生涯影响力”和“年度影响力”遴选出世界排名前2%的科学家。
+   依照以下六项标准进行综合评估打分：1）论文总引用量；2）Hirsch H-index；3）共同作者修正的Schreiber Hm-index；4）单独作者；5）单独或者第一作者；6）单独、第一或者最后作者的文章引用量。
+2. 
+<details>
+
+
