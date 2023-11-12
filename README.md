@@ -223,7 +223,30 @@ https://benthamscience.com/journal/65/track/1
    
    [World’s Top 2% Scientists-下载excel文件，自行查找](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)
    
-2. 
+2. [全球顶尖科学家排名](https://research.com/scientists-rankings/best-scientists)
+
+   [全球顶尖科学家排名-计算机](https://research.com/scientists-rankings/computer-science)
+
+3. [爱思唯尔 “中国高被引学者榜单”Highly Cited Chinese Researchers]()
+
+Scopus收录的科研成果发表署名机构为中国（大陆）机构的作者，且现职工作单位在中国，包括非中国籍和非华裔学者。
+
+仅统计上述学者作为第一作者或通讯作者发表的科研成果
+
+根据Scopus教育部一级学科分类体系进行上述学者的科研成果分类。每个学科上榜的学者数量与Scopus收录该学科中国机构署名的作者数量相关。
+
+在榜单统计的上述学者（第一作者或通讯作者文献）需要满足：
+
+被收录文献数一篇以上（不含）
+被收录文献的总被引次数达到本学科阈值条件
+至少有一篇全球前1%高被引文献，或学者作为第一作者或通讯作者发文整体FWCI高于1。
+
+关于FWCI：Field Weighted Citation Impact，简称FWCI，FWCI计算的是学者论文的被引用次数和相同学科、相同年份、相同类型论文平均被引次数的比值，FWCI=1代表论文质量等于世界平均水平，FWCI>1说明论文质量高于世界平均水平，FWCI<1则说明论文质量低于世界平均水平。学者可通过Scopus数据库（www.scopus.com）在文献信息指标页面里查看该篇文献的FWCI值——Scopus为每篇文献提供一个含详细的指标及被引用情况的详细页面；高被引学者的FWCI，统计的是学者的一作通作文献的所有FWCI的均值。
+[FWCI-查询](www.scopus.com)
+
+
+
+4. 
 <details>
 
 
