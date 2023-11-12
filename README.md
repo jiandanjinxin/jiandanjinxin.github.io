@@ -169,6 +169,7 @@ https://benthamscience.com/journal/65/track/1
 # 科研资源
 
 1. [学术规范与论文写作-程明明](https://mmcheng.net/writing/)
+2. [Nature｜如何成为一位优秀的跨学科研究者？](https://mp.weixin.qq.com/s/rJw2cpEIBxOt2ISYw5Lvlw)
 
 
 ## License
