@@ -275,7 +275,7 @@ ESI基本科学指标，ESI对全球所有高校及科研机构的SCIE、SSCI库
 
 高被引论文是，统计某一ESI学科近十年发表的论文。按照同一年同一个ESI学科发表论文的被引次数按照由高到低进行排序，排在前1％的论文。
 
-[Web of Science](https://webofscience.clarivate.cn/wos/woscc/basic-search)
+[Web of Science-查询](https://webofscience.clarivate.cn/wos/woscc/basic-search)
 
 <details>
 
