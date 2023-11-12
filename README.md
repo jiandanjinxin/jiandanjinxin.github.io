@@ -165,8 +165,9 @@ https://benthamscience.com/journal/65/track/1
 - [Best Computer Science Conferences][36]
 
 
+# 科研资源
 
-
+1. [学术规范与论文写作-程明明](https://mmcheng.net/writing/)
 
 
 
