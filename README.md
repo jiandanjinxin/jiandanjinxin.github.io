@@ -163,6 +163,7 @@ https://benthamscience.com/journal/65/track/1
 - [Call4Papers][34]
 - [CCF Conference Deadlines][35]
 - [Best Computer Science Conferences][36]
+- [CSRankings: Computer Science Rankings][37]
 
 
 # 科研资源
@@ -210,3 +211,4 @@ https://benthamscience.com/journal/65/track/1
 [34]: http://123.57.137.208/ccf/ccf-1.jsp
 [35]:https://ccfddl.top/
 [36]:https://research.com/conference-rankings/computer-science
+[37]:https://csrankings.org/#/fromyear/2011/toyear/2023/index?all&us
