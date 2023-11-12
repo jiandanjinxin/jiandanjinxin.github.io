@@ -245,9 +245,17 @@ Scopus收录的科研成果发表署名机构为中国（大陆）机构的作�
 
 [FWCI-查询](www.scopus.com)
 
+4. [科睿唯安“全球高被引科学家”（Highly Cited Researchers）](https://clarivate.com/highly-cited-researchers/)
 
+高被引科学家的遴选方法论由科睿唯安科学信息研究所 (ISI) 的文献计量学专家和数据科学家基于Web of Science™引文数据及其分析而制定。
 
-4. 
+入选“高被引科学家”名单的科学家的论文被引频次在 Web of Science™ 中位于同学科、同发表年份的前1%，名单也列出了入选者所在的研究机构和国家。相关分析基于入选科学家本人确认所属的研究机构。
+
+遴选方法是基于科睿唯安科学信息研究所文献计量专家所进行的数据分析，利用InCites™和ESI™，按照基于学术论文发表数量和 Web of Science™ 引文数据的科研绩效指标和趋势数据专门制定。Web of Science™是全球最大的出版商中立的引文索引数据库和研究信息平台
+
+5. 
+
+6. 
 <details>
 
 
