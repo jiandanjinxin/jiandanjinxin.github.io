@@ -130,6 +130,7 @@ https://benthamscience.com/journal/65/track/1
     https://www.apbionet.org/
 
 ## Forks & other useful listings
+- [Calendar of Computer Image Analysis, Computer Vision Conferences][38]
 - [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
 - [International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics][20]
 - [Calendar of Computer Image Analysis, Computer Vision Conferences][32]
@@ -212,6 +213,7 @@ https://benthamscience.com/journal/65/track/1
 [35]:https://ccfddl.top/
 [36]:https://research.com/conference-rankings/computer-science
 [37]:https://csrankings.org/#/fromyear/2011/toyear/2023/index?all&us
+[38]:http://conferences.visionbib.com/Iris-Conferences.html
 
 <details>
     </summary>
