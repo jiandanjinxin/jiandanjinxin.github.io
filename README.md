@@ -71,6 +71,7 @@ To add or update a deadline:
 | <sub>**37**</sub> | <sub>**[JCO](https://ascopubs.org/journal/jco/)**</sub> | <sub>[Journal of Clinical Oncology](https://ascopubs.org/journal/jco/)</sub> | <sub>ASCO</sub> | <sub>临床肿瘤系列</sub> | <sub>A</sub> | | |
 | <sub>**38**</sub> | <sub>**[CCR](https://aacrjournals.org/clincancerres)**</sub> | <sub>[Clinical Cancer Research](https://aacrjournals.org/clincancerres)</sub> | <sub>AACR</sub> | <sub>临床肿瘤系列</sub> | <sub>A</sub> | | |
 | <sub>**39**</sub> | <sub>**[AO](https://www.annalsofoncology.org/)**</sub> | <sub>[Annals of  Oncology](https://www.annalsofoncology.org/)</sub> | <sub>EMSO</sub> | <sub>临床肿瘤系列</sub> | <sub>A</sub> | | |
+| <sub>**40**</sub> | <sub>**[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)**</sub> | <sub>[IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)</sub> | <sub>IEEE</sub> | <sub>数据分析挖掘</sub> | <sub>A</sub> | | |
 
 
 ###### 会议列表, ...
