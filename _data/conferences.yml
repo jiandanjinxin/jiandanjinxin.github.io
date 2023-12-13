@@ -624,3 +624,14 @@
   place:  Valencia, Spain
   sub: CV
   note: '<b>NOTE</b>: Artificial Intelligence and Statistics. More info <a https://aistats.org/aistats2024/other.html/''>here</a>.'
+
+- title: IJCB
+  year: 2024
+  id: IJCB2024
+  link: https://ijcb2023.ieee-biometrics.org/
+  deadline: '2024-3-15 23:59:59'
+  timezone: UTC-7
+  date:  Sep 15-18, 2024
+  place:  Buffalo, NY, USA
+  sub: CV
+  note: '<b>NOTE</b>: The IEEE International Joint Conference on Biometrics. More info <a https://ijcb2023.ieee-biometrics.org/''>here</a>.'
