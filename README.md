@@ -107,6 +107,9 @@ To add or update a deadline:
 | <sub>**20**</sub> | <sub>**[WWW](http://dblp.uni-trier.de/db/conf/www/)**</sub> | <sub>[International World Wide Web Conferences](http://dblp.uni-trier.de/db/conf/www/)</sub> | <sub>ACM</sub> | <sub>交叉/综合/新兴</sub> | <sub>A</sub> | | |
 | <sub>**21**</sub> | <sub></sub> | <sub>[IEEE International Conference on Big Data](https://dblp.uni-trier.de/db/conf/bigdataconf/)</sub> | <sub>IEEE</sub> | <sub>交叉/综合/新兴</sub> | <sub>C</sub> | | |
 
+## 顶级会议接受Accept Rate
+[Deng-ping Fan-Accept Rate](https://dengpingfan.github.io/pages/Accept.html)
+
 ##医学影像
 1. [Biomedical Signal Processing and Control](https://www2.cloud.editorialmanager.com/bspc/default2.aspx)
 2. [EXPERT SYSTEMS WITH APPLICATIONS](https://www.sciencedirect.com/journal/expert-systems-with-applications)
