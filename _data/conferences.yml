@@ -619,7 +619,7 @@
   id: AISTATS2025
   link: https://aistats.org/aistats2024/index.html
   deadline: '2024-10-6 23:59:59'
-  timezone: Anywhere on Earth
+  timezone: UTC-7
   date:  May 2 - May 4, 2025
   place:  Valencia, Spain
   sub: AI
