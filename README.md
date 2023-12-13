@@ -74,7 +74,12 @@ To add or update a deadline:
 | <sub>**40**</sub> | <sub>**[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)**</sub> | <sub>[IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)</sub> | <sub>IEEE</sub> | <sub>数据分析挖掘</sub> | <sub>A</sub> | | |
 | <sub>**41**</sub> | <sub>**[CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)**</sub> | <sub>[Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)</sub> | <sub>ScienceDirect</sub> | <sub>计算机视觉</sub> | <sub>B</sub> | | |
 | <sub>**42**</sub> | <sub>**[EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence/articles-in-press)**</sub> | <sub>[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence/articles-in-press)</sub> | <sub>ScienceDirect</sub> | <sub>计算机视觉</sub> | <sub>B</sub> | | |
-| <sub>**43**</sub> | <sub>**[JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)**</sub> | <sub>[Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)</sub> | <sub>ScienceDirect</sub> | <sub>计算机视觉</sub> | <sub>B</sub> | | |
+| <sub>**43**</sub> | <sub>**[JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)**</sub> | <sub>[Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)</sub> | <sub>ScienceDirect</sub> | <sub>生物信息</sub> | <sub>B</sub> | | |
+| <sub>**44**</sub> | <sub>**[IMAVIS](https://www.sciencedirect.com/journal/image-and-vision-computing)**</sub> | <sub>[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)</sub> | <sub>ScienceDirect</sub> | <sub>计算机视觉</sub> | <sub>B</sub> | | |
+| <sub>**45**</sub> | <sub>**[APIN](https://link.springer.com/journal/10489)**</sub> | <sub>[Applied Intelligence (APIN) ](https://link.springer.com/journal/10489)</sub> | <sub>ScienceDirect</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
+
+
+
 
 ###### 会议列表, ...
 
