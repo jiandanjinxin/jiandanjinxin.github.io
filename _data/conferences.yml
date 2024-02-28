@@ -637,7 +637,7 @@
   sub: CV
   note: '<b>NOTE</b>: The IEEE International Joint Conference on Biometrics. More info <a https://ijcb2023.ieee-biometrics.org/''>here</a>.'
 
-  - title: ISBRA
+- title: ISBRA
   year: 2024
   id: ISBRA2024
   link: https://bio.csu.edu.cn/ISBRA2024/ISBRA2024_Home.html
