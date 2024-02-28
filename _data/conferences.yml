@@ -23,27 +23,27 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://www.imagecomputing.org/index_cn.html/''>here</a>.'
   
-- title: 医学图像计算青年研讨会（Medical Imaging Computing Seminar,MICS）-TBD
+- title: 医学图像计算青年研讨会（Medical Imaging Computing Seminar,MICS）
   hindex: 299
   year: 2024
   id: MICS2024
-  link: https://aim-nuist.github.io/mics2022.html
-  deadline: '2024-08-01 23:59:59'
+  link: https://mic2024.fr/
+  deadline: '2024-01-16 23:59:59'
   timezone: UTC-12
-  date: Aug 10-12, 2024
-  place: TBD
+  date: june 4-7, 2024
+  place: Lorient, France
   sub: DC
-  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://aim-nuist.github.io/mics2022.html/''>here</a>.' 
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://mic2024.fr/''>here</a>.' 
   
-- title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)-TBD
+- title: 中国图象图形学学会(Chinese Congress on Image and Graphics,CCIG)
   hindex: 299
   year: 2024
   id: CCIG2023
   link: http://ccig.csig.org.cn/
   deadline: '2024-04-20 23:59:59'
   timezone: UTC-12
-  date: May 11-14, 2024
-  place: 苏州
+  date: May 23-26, 2024
+  place: 西安
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''http://.csig.org.cn/''>here</a>.' 
 
@@ -570,7 +570,7 @@
   link: https://prcv2024.xmu.edu.cn/index.htm
   deadline: '2024-04-15 23:59:59'
   timezone: UTC-7
-  date: Sep, 2024
+  date: November 18, 2024
   place: 乌鲁木齐
   sub: CV
   note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''https://ecai2023.eu/''>here</a>.'
