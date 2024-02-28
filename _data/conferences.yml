@@ -139,25 +139,26 @@
   sub: CV
   paperslink: https://eccv2023.eu/about-eccv/#
 
-- title: ACCV-TBD
+- title: ACCV
   hindex: 38
   year: 2024
   id: accv24
   link: https://accv2024.org/home
-  deadline: '2024-07-08 23:59:00'
+  deadline: '2024-07-02 23:59:00'
   timezone: UTC
   date: December 8 -12, 2024
   place: Hanoi, Vietnam
   sub: CV
 
-- title: BMVC-TBD
+- title: BMVC
   year: 2024
   id: bmvc2024
   link: http://bmvc2024.org/
-  deadline: '2024-05-12 23:59:59'
+  deadline: '2024-05-3 23:59:59'
+  abstract_deadline: '2024-4-26 23:59:59'
   timezone: America/Los_Angeles
-  date: November 20-24, 2024
-  place: Aberdeen, UK
+  date: November 25-28, 2024
+  place: Glasgow,UK
   sub: CV
 
 - title: WACV-TBD
@@ -224,15 +225,15 @@
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
   paperslink: https://www.ijcai.org/future_conferences
   
-- title: IJCAI-TBD
+- title: IJCAI
   description: International Joint Conference on Artificial Intelligence
   rank: A
   hindex: 105
   year: 2024
   id: ijcai24
   link: https://ijcai-24.org/
-  deadline: '2024-1-18 23:59:59'
-  abstract_deadline: '2024-1-11 23:59:59'
+  deadline: '2024-1-17 23:59:59'
+  abstract_deadline: '2024-1-10 23:59:59'
   timezone: UTC-12
   date: August 03-09, 2024
   place: Jeju Island, South Korea
@@ -296,12 +297,12 @@
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.ijcai.org/future_conferences/''>here</a>.'
   paperslink: https://www.ijcai.org/future_conferences
 
-- title: ICML-TBD
+- title: ICML
   hindex: 204
   year: 2024
   id: icml24
   link: https://icml.cc/Conferences/2024
-  deadline: '2024-01-27 23:59:00'
+  deadline: '2024-02-1 23:59:00'
   abstract_deadline: '2024-01-20 23:59:00'
   timezone: UTC-12
   date: Fri July 21-27th,2024 
@@ -407,14 +408,14 @@
   sub: CV
   note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
 
-- title: ACM MM-TBD
+- title: ACM MM
   year: 2024
   id: acmmm2024
   link: https://www.acmmm2024.org/
-  deadline: '2024-04-30 23:59:00'
+  deadline: '2024-04-12 23:59:00'
   timezone: America/Los_Anbggygeles
-  date: October 28, 2024 – November 3, 2024
-  place:  TBD
+  date: October 28, 2024 – November 1, 2024
+  place:  Melbourne, Australia
   sub: CV
   note: '<b>NOTE</b>: Mandatory paper registration deadline on April 23, 2023. More info <a href=''https://www.acmmm2023.org/''>here</a>.'
 
