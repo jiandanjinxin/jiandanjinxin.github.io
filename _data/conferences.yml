@@ -517,6 +517,7 @@
   note: '<b>NOTE</b>: Past Conferences. More info <a href=''https://www.midl.io/''>here</a>.'
   paperslink: https://2024.midl.io/
 
+
 - title: CARS
   year: 2024
   id: CARS2024
@@ -524,12 +525,10 @@
   deadline: '2024-01-10 23:59:59'
   timezone: UTC-12
   date: June 18 – 21, 2024
-  place: Barcelona, Spain
+  place: Barcelona, Spain 
   sub: MIC
-  abstract_deadline: '2024-01-10 23:59:59'
-  note: '<b>NOTE</b>: Computer Assisted Radiology and Surgery. More info <a href=''https://www.cars-int.org/''>here</a>.'
-  paperslink: https://www.cars-int.org/
-
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.cars-int.org/''>here</a>.'
+  
 - title: ICDM
   year: 2024
   id: icdm24
