@@ -14,7 +14,7 @@
 - title: BIBM
   year: 2024
   id: BIBM2024
-  link: https://ieeebibm.org/BIBM2024/home.htm
+  link: https://ieee.org/2024/home.htm
   deadline: '2024-08-15 23:59:59'
   timezone: UTC-12
   date: December 3-6，2024
@@ -605,15 +605,6 @@
   place: Orlando, Florida, USA
   sub: MIC
 
-- title: BIBM
-  year: 2024
-  id: BIBM2024
-  link: https://ieeebibm.org/BIBM2024/home.htm
-  deadline: '2024-08-15 23:59:59'
-  timezone: UTC-7
-  date: December3-6, 2024
-  place: Lisbon, Portugal
-  sub: MIC
 
 - title: WCCI-IJCNN
   year: 2024
