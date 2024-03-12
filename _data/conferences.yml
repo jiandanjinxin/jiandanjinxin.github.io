@@ -11,6 +11,17 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://prcv2023.xmu.edu.cn/index.htm''>here</a>.'
 
+- title: BIBM
+  year: 2024
+  id: BIBM2024
+  link: https://ieeebibm.org/BIBM2024/home.htm
+  deadline: '2024-08-15 23:59:59'
+  timezone: UTC-12
+  date: December 3-6，2024
+  place: Lisbon, Portugal 
+  sub: DC
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://ieeebibm.org/''>here</a>.'
+
 - title: 第六届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine
   hindex: 299
   year: 2023
