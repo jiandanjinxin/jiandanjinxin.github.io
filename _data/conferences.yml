@@ -566,14 +566,14 @@
 
 - title: PRCV
   year: 2024
-  id: prcv24
+  id: PRCV2024
   link: https://prcv2024.xmu.edu.cn/index.htm
   deadline: '2024-04-15 23:59:59'
-  timezone: UTC-7
-  date: November 18, 2024
-  place: 乌鲁木齐
-  sub: CV
-  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''https://ecai2023.eu/''>here</a>.'
+  timezone: UTC-12
+  date: November 18-20，2024
+  place: 乌鲁木齐 
+  sub: DC
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://prcv2023.xmu.edu.cn/index.htm''>here</a>.'
 
 - title: ACL
   year: 2024
@@ -595,14 +595,14 @@
   place: Orlando, Florida, USA
   sub: MIC
 
-- title: BIBM-TBD
+- title: BIBM
   year: 2024
   id: BIBM2024
   link: https://ieeebibm.org/
-  deadline: '2024-08-19 23:59:59'
+  deadline: '2024-08-15 23:59:59'
   timezone: UTC-7
-  date: TBD, 2024
-  place: TBD
+  date: December3-6, 2024
+  place: Lisbon, Portugal
   sub: MIC
 
 - title: WCCI-IJCNN
