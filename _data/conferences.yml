@@ -550,12 +550,12 @@
   place: Dresden, Germany
   sub: DM
 
-- title: ACML Conference and Journal-TBD
+- title: ACML Conference and Journal
   hindex: 17
   year: 2024
   id: acml24
-  link: http://www.acml-conf.org/2023
-  deadline: '2024-06-23 23:59:59'
+  link: https://www.acml-conf.org/2024/calls/papers/
+  deadline: '2024-05-29 23:59:59'
   timezone: UTC-7
   date: TBD
   place: TBD
