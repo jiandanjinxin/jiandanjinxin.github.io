@@ -22,6 +22,17 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://ieeebibm.org/''>here</a>.'
 
+- title: ISBRA
+  year: 2024
+  id: ISBRA2024
+  link: https://bio.csu.edu.cn/ISBRA2024/ISBRA2024_Home.html
+  deadline: '2024-03-25 23:59:59'
+  timezone: UTC-7
+  date: july 19-21, 2024
+  place: Kunming,China 
+  sub: Biomedical
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://bio.csu.edu.cn/ISBRA2024/ISBRA2024_Home.html''>here</a>.'
+
 - title: ACML Journal
   year: 2024
   id: ACMLJ2024
@@ -583,16 +594,6 @@
   place: Dresden, Germany
   sub: DM
   
-- title: ECAI
-  year: 2024
-  id: ecai24
-  link: https://ecai2024.eu/
-  deadline: '2024-04-19 23:59:59'
-  timezone: UTC-7
-  date: October 19-24, 2024
-  place: SANTIAGO DE COMPOSTELA
-  sub: ML
-  note: '<b>NOTE</b>:  More info <a href=''https://ecai2024.eu/''>here</a>.'
 
 - title: PRCV
   year: 2024
@@ -658,13 +659,3 @@
   sub: CV
   note: '<b>NOTE</b>: The IEEE International Joint Conference on Biometrics. More info <a https://ijcb2023.ieee-biometrics.org/''>here</a>.'
 
-- title: ISBRA
-  year: 2024
-  id: ISBRA2024
-  link: https://bio.csu.edu.cn/ISBRA2024/ISBRA2024_Home.html
-  deadline: '2024-3-25 23:59:59'
-  timezone: UTC-7
-  date:  july 19-21, 2024
-  place:  Kunming,China
-  sub: Biomedical
-  note: '<b>NOTE</b>: The IEEE International Joint Conference on Biometrics. More info <a https://bio.csu.edu.cn/ISBRA2024/ISBRA2024_Home.html''>here</a>.'
