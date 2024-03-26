@@ -580,12 +580,12 @@
   year: 2024
   id: ecai24
   link: https://ecai2024.eu/
-  deadline: '2024-04-019 23:59:59'
+  deadline: '2024-04-19 23:59:59'
   timezone: UTC-7
   date: October 19-24, 2024
   place: SANTIAGO DE COMPOSTELA
   sub: ML
-  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''https://ecai2023.eu/''>here</a>.'
+  note: '<b>NOTE</b>:  More info <a href=''https://ecai2024.eu/''>here</a>.'
 
 - title: PRCV
   year: 2024
