@@ -550,7 +550,20 @@
   place: Dresden, Germany
   sub: DM
 
-- title: ACML Conference and Journal
+- title: ACML Conference 
+  hindex: 17
+  year: 2024
+  id: acml24
+  link: https://www.acml-conf.org/2024/calls/papers/
+  deadline: '2024-06-26 23:59:59'
+  timezone: UTC-7
+  date: TBD
+  place: TBD
+  sub: ML
+  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
+  paperslink: https://2021.ecmlpkdd.org/?page_id=1811
+
+  - title: ACML Journal
   hindex: 17
   year: 2024
   id: acml24
@@ -567,7 +580,7 @@
   year: 2024
   id: ecai24
   link: https://ecai2024.eu/
-  deadline: '2024-04-01 23:59:59'
+  deadline: '2024-04-019 23:59:59'
   timezone: UTC-7
   date: October 19-24, 2024
   place: SANTIAGO DE COMPOSTELA
