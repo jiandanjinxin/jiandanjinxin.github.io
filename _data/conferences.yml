@@ -563,7 +563,7 @@
   note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
   paperslink: https://2021.ecmlpkdd.org/?page_id=1811
 
-  - title: ACML Journal
+- title: ACML Journal
   hindex: 17
   year: 2024
   id: acml24
