@@ -33,6 +33,28 @@
   sub: DC
   note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.acml-conf.org/2024/''>here</a>.'
 
+- title: ACML Conference
+  year: 2024
+  id: ACMLC2024
+  link: hhttps://www.acml-conf.org/2024/calls/papers/
+  deadline: '2024-06-26 23:59:59'
+  timezone: UTC-12
+  date: December 5-7，2024
+  place: Hanoi, Vietnam
+  sub: DC
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://www.acml-conf.org/2024/''>here</a>.'
+
+- title: ECAI
+  year: 2024
+  id: ecai2024
+  link: https://ecai2024.eu/
+  deadline: '2024-04-19 23:59:59'
+  timezone: UTC-7
+  date: October 19-24, 2024
+  place: SANTIAGO DE COMPOSTELA
+  sub: ML
+  note:'<b>NOTE</b>: Past Congresses. More info <a href=''https://ecai2024.eu/''>here</a>.'
+
 - title: 第六届图像计算与数字医学国际研讨会-International Symposium on Image Computing and Digital Medicine
   hindex: 299
   year: 2023
@@ -560,33 +582,6 @@
   date: Dec 9, 2024 - Dec 12, 2024 
   place: Dresden, Germany
   sub: DM
-
-- title: ACML Conference 
-  hindex: 17
-  year: 2024
-  id: acmlc24
-  link: https://www.acml-conf.org/2024/calls/papers/
-  deadline: '2024-06-26 23:59:59'
-  timezone: UTC-7
-  date: December 5-7，2024
-  place: Hanoi, Vietnam
-  sub: ML
-  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
-  paperslink: https://2021.ecmlpkdd.org/?page_id=1811
-
-- title: ACML Journal
-  hindex: 17
-  year: 2024
-  id: acmlj24
-  link: https://www.acml-conf.org/2024/calls/papers/
-  deadline: '2024-05-29 23:59:59'
-  timezone: UTC-7
-  date: December 5-7，2024
-  place: Hanoi, Vietnam
-  sub: ML
-  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.wikicfp.com/cfp/program?id=40&f=Asian%20Conference%20on%20Machine%20Learning''>here</a>.'
-  paperslink: https://2021.ecmlpkdd.org/?page_id=1811
-  
   
 - title: ECAI
   year: 2024
