@@ -93,15 +93,22 @@ To add or update a deadline:
 | <sub>**59**</sub> | <sub>**[TAI](https://dblp.uni-trier.de/db/journals/tai/index.html)**</sub> | <sub>[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)</sub> | <sub>IEEE</sub> | <sub></sub> | <sub></sub> | | |
 | <sub>**60**</sub> | <sub>**[Patterns](https://dblp.uni-trier.de/db/journals/patterns/index.html)**</sub> | <sub>[Patterns](https://www.cell.com/patterns/home)</sub> | <sub>CELL PRESS</sub> | <sub>计算机科学</sub> | <sub></sub> | | |
 | <sub>**61**</sub> | <sub>**[DENTOMAXILLOFAC RAD](	https://www.editorialmanager.com/DMFR)**</sub> | <sub>[DENTOMAXILLOFACIAL RADIOLOGY](http://www.birpublications.org/loi/dmfr)</sub> | <sub>British Institute of Radiology</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
-| <sub>**62**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**63**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**64**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**65**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**66**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**67**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**68**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**69**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**7**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**62**</sub> | <sub>**[ARTIF INTELL MED](https://dblp.uni-trier.de/db/journals/artmed/index.html)**</sub> | <sub>[Artificial Intelligence in Medicine](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/)</sub> | <sub>Elsevier</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**63**</sub> | <sub>**[NEUROIMAGE](https://dblp.uni-trier.de/db/journals/neuroimage/index.html)**</sub> | <sub>[NEUROIMAGE](	https://www.journals.elsevier.com/neuroimage)</sub> | <sub>Academic Press Inc.</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**64**</sub> | <sub>**[NEUROIMAGE-CLIN](	https://www.editorialmanager.com/YNICL)**</sub> | <sub>[NeuroImage-Clinical](	http://www.journals.elsevier.com/neuroimage-clinical)</sub> | <sub>Elsevier BV</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**65**</sub> | <sub>**[EUR RADIOL](https://www.editorialmanager.com/eura/)**</sub> | <sub>[EUROPEAN RADIOLOGY](https://www.springer.com/330)</sub> | <sub>Springer Berlin Heidelberg</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**66**</sub> | <sub>**[MACH INTELL RES](https://dblp.uni-trier.de/db/journals/ijautcomp/index.html)**</sub> | <sub>[Machine Intelligence Research]()</sub> | <sub>SPRINGER LINK</sub> | <sub>计算机科学</sub> | <sub>SCI4区</sub> | | |
+| <sub>**67**</sub> | <sub>**[](https://dblp.uni-trier.de/db/journals/tetci/index.html)**</sub> | <sub>[IEEE Transactions on Emerging Topics in Computational Intelligence](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=27116)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub>SCI3区</sub> | | |
+| <sub>**68**</sub> | <sub>**[IEEE SIGNAL PROC MAG](https://dblp.uni-trier.de/db/journals/spm/index.html)**</sub> | <sub>[IEEE SIGNAL PROCESSING MAGAZINE](https://www.letpub.com.cn/index.php?journalid=3354&page=journalapp&view=detail)</sub> | <sub>	Institute of Electrical and Electronics Engineers Inc.</sub> | <sub>工程技术</sub> | <sub>SCI1区</sub> | | |
+| <sub>**69**</sub> | <sub>**[MED ENG PHYS](https://letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5787)**</sub> | <sub>[MEDICAL ENGINEERING & PHYSICS](https://letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5787)</sub> | <sub>Elsevier BV</sub> | <sub>医学</sub> | <sub>SCI4区</sub> | | |
+| <sub>**70**</sub> | <sub>**[IEEE T IND ELECTRON](https://dblp.uni-trier.de/db/journals/tie/index.html)**</sub> | <sub>[IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS]()</sub> | <sub>IEEE</sub> | <sub>工程技术</sub> | <sub>SCI1区</sub> | | |
+| <sub>**71**</sub> | <sub>**[SIGNAL PROCESS](https://dblp.uni-trier.de/db/journals/sigpro/index.html)**</sub> | <sub>[SIGNAL PROCESSING](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=7505)</sub> | <sub>Elsevier</sub> | <sub>工程技术</sub> | <sub>SCI2区</sub> | | |
+| <sub>**72**</sub> | <sub>**[](https://dblp.uni-trier.de/db/journals/npl/index.html)**</sub> | <sub>[JAMA Network Open](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10896)</sub> | <sub>American Medical Association</sub> | <sub>医学</sub> | <sub>SCI1区</sub> | | |
+| <sub>**73**</sub> | <sub>**[NEURAL PROCESS LETT](https://dblp.uni-trier.de/db/journals/npl/index.html)**</sub> | <sub>[NEURAL PROCESSING LETTERS](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6128&xuanxiangk_id=2)</sub> | <sub>Springer US</sub> | <sub>计算机科学</sub> | <sub>SCI4区</sub> | | |
+| <sub>**74**</sub> | <sub>**[MACH INTELL RES](https://dblp.uni-trier.de/db/journals/ijautcomp/)**</sub> | <sub>[Machine Intelligence Research](https://letpub.com.cn/index.php?journalid=39973&page=journalapp&view=detail)</sub> | <sub>SpringerLink</sub> | <sub>计算机科学</sub> | <sub>SCI4区</sub> | | |
+| <sub>**75**</sub> | <sub>**[MED BIOL ENG COMPUT](https://dblp.uni-trier.de/db/journals/mbec/)**</sub> | <sub>[MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5779)</sub> | <sub>	Springer Berlin Heidelberg</sub> | <sub>医学</sub> | <sub>SCI4区</sub> | | |
+
+
 
 ###### 会议列表, ...
 
