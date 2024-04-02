@@ -80,9 +80,9 @@ To add or update a deadline:
 | <sub>**46**</sub> | <sub>**[TITS](https://dblp.uni-trier.de/db/journals/tits/index.html)**</sub> | <sub>[Transactions on Intelligent Transportation Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)</sub> | <sub>IEEE</sub> | <sub>工程技术</sub> | <sub>B</sub> | | |
 | <sub>**47**</sub> | <sub>**[EXPERT SYST APPL](https://dblp.uni-trier.de/db/journals/eswa/index.html)**</sub> | <sub>[EXPERT SYSTEMS WITH APPLICATIONS](https://www.journals.elsevier.com/expert-systems-with-applications/)</sub> | <sub>Elsevier Ltd</sub> | <sub>工程技术</sub> | <sub>C</sub> | | |
 | <sub>**48**</sub> | <sub>**[INFORM FUSION](https://dblp.uni-trier.de/db/journals/inffus/index.html)**</sub> | <sub>[Information Fusion](http://www.journals.elsevier.com/information-fusion/)</sub> | <sub>Elsevier</sub> | <sub>计算机科学</sub> | <sub></sub> | | |
-| <sub>**49**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**50**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**51**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**49**</sub> | <sub>**[T NEUR NET LEAR](https://dblp.uni-trier.de/db/journals/tnn/index.html)**</sub> | <sub>[Transactions on Neural Networks and Learning Systems](http://cis.ieee.org/ieee-transactions-on-neural-networks-and-learning-systems.html)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub>B</sub> | | |
+| <sub>**50**</sub> | <sub>**[T COMPUT IMAG]()**</sub> | <sub>[Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub></sub> | | |
+| <sub>**51**</sub> | <sub>**[MED PHYS.]()**</sub> | <sub>[MEDICAL PHYSICS](http://online.medphys.org/)</sub> | <sub>John Wiley and Sons Ltd</sub> | <sub>医学</sub> | <sub></sub> | | |
 | <sub>**52**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
 | <sub>**53**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
 | <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
