@@ -77,7 +77,7 @@ To add or update a deadline:
 | <sub>**43**</sub> | <sub>**[JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)**</sub> | <sub>[Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)</sub> | <sub>ScienceDirect</sub> | <sub>生物信息</sub> | <sub>B</sub> | | |
 | <sub>**44**</sub> | <sub>**[IMAVIS](https://www.sciencedirect.com/journal/image-and-vision-computing)**</sub> | <sub>[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)</sub> | <sub>ScienceDirect</sub> | <sub>计算机视觉</sub> | <sub>B</sub> | | |
 | <sub>**45**</sub> | <sub>**[APIN](https://link.springer.com/journal/10489)**</sub> | <sub>[Applied Intelligence (APIN) ](https://link.springer.com/journal/10489)</sub> | <sub>ScienceDirect</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
-| <sub>**46**</sub> | <sub>**[TITS]([https://link.springer.com/journal/10489](https://dblp.uni-trier.de/db/journals/tits/index.html))**</sub> | <sub>[IEEE Transactions on Intelligent Transportation Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)</sub> | <sub>ScienceDirect</sub> | <sub>工程技术</sub> | <sub>B</sub> | | |
+| <sub>**46**</sub> | <sub>**[TITS](https://dblp.uni-trier.de/db/journals/tits/index.html)**</sub> | <sub>[IEEE Transactions on Intelligent Transportation Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)</sub> | <sub>ScienceDirect</sub> | <sub>工程技术</sub> | <sub>B</sub> | | |
 
 
 
