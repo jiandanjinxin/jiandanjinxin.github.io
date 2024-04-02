@@ -81,16 +81,27 @@ To add or update a deadline:
 | <sub>**47**</sub> | <sub>**[EXPERT SYST APPL](https://dblp.uni-trier.de/db/journals/eswa/index.html)**</sub> | <sub>[EXPERT SYSTEMS WITH APPLICATIONS](https://www.journals.elsevier.com/expert-systems-with-applications/)</sub> | <sub>Elsevier Ltd</sub> | <sub>工程技术</sub> | <sub>C</sub> | | |
 | <sub>**48**</sub> | <sub>**[INFORM FUSION](https://dblp.uni-trier.de/db/journals/inffus/index.html)**</sub> | <sub>[Information Fusion](http://www.journals.elsevier.com/information-fusion/)</sub> | <sub>Elsevier</sub> | <sub>计算机科学</sub> | <sub></sub> | | |
 | <sub>**49**</sub> | <sub>**[T NEUR NET LEAR](https://dblp.uni-trier.de/db/journals/tnn/index.html)**</sub> | <sub>[Transactions on Neural Networks and Learning Systems](http://cis.ieee.org/ieee-transactions-on-neural-networks-and-learning-systems.html)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub>B</sub> | | |
-| <sub>**50**</sub> | <sub>**[T COMPUT IMAG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)**</sub> | <sub>[Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub>SCI 2区</sub> | | |
-| <sub>**51**</sub> | <sub>**[MED PHYS.](http://online.medphys.org/)**</sub> | <sub>[MEDICAL PHYSICS](http://online.medphys.org/)</sub> | <sub>John Wiley and Sons Ltd</sub> | <sub>医学</sub> | <sub>SCI 2区</sub> | | |
+| <sub>**50**</sub> | <sub>**[T COMPUT IMAG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)**</sub> | <sub>[Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**51**</sub> | <sub>**[MED PHYS.](http://online.medphys.org/)**</sub> | <sub>[MEDICAL PHYSICS](http://online.medphys.org/)</sub> | <sub>John Wiley and Sons Ltd</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
 | <sub>**52**</sub> | <sub>**[PHYS MED BIOL](http://iopscience.iop.org/0031-9155/)**</sub> | <sub>[Physics in Medicine & Biology](http://iopscience.iop.org/0031-9155/)</sub> | <sub>IOP Publishing Ltd.</sub> | <sub>医学</sub> | <sub>SCI3区</sub> | | |
-| <sub>**53**</sub> | <sub>**[RADIOLOGY](http://pubs.rsna.org/journal/radiology)**</sub> | <sub>[RADIOLOGY](http://pubs.rsna.org/journal/radiology)</sub> | <sub>Radiological Society of North America Inc.</sub> | <sub>医学</sub> | <sub>SCI 1区</sub> | | |
-| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**53**</sub> | <sub>**[RADIOLOGY](http://pubs.rsna.org/journal/radiology)**</sub> | <sub>[RADIOLOGY](http://pubs.rsna.org/journal/radiology)</sub> | <sub>Radiological Society of North America Inc.</sub> | <sub>医学</sub> | <sub>SCI1区</sub> | | |
+| <sub>**54**</sub> | <sub>**[COMPUT METH PROG BIO](https://dblp.uni-trier.de/db/journals/cmpb/index.html)**</sub> | <sub>[Computer Methods and Programs in Biomedicine](http://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine/)</sub> | <sub>Elsevier Ireland Ltd</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**55**</sub> | <sub>**[COMPUT BIOL MED](https://dblp.uni-trier.de/db/journals/cbm/index.html)**</sub> | <sub>[COMPUTERS IN BIOLOGY AND MEDICINE](http://www.elsevier.com/wps/find/journaldescription.cws_home/351/description)</sub> | <sub>Elsevier Ltd</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**56**</sub> | <sub>**[BMC MED IMAGING](https://dblp.uni-trier.de/db/journals/bmcmi/index.html)**</sub> | <sub>[BMC MEDICAL IMAGING](https://www.springer.com/journal/12880)</sub> | <sub>BioMed Central</sub> | <sub>医学</sub> | <sub>SCI3区</sub> | | |
+| <sub>**57**</sub> | <sub>**[APPL SOFT COMPUT](https://dblp.uni-trier.de/db/journals/asc/index.html)**</sub> | <sub>[APPLIED SOFT COMPUTING](http://www.elsevier.com/wps/find/journaldescription.cws_home/621920/description#description)</sub> | <sub>Elsevier BV</sub> | <sub>计算机科学</sub> | <sub>SCI1区</sub> | | |
+| <sub>**58**</sub> | <sub>**[IEEE T CIRC SYST VID](https://dblp.uni-trier.de/db/journals/tcsv/index.html)**</sub> | <sub>[IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY](	https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)</sub> | <sub>Institute of Electrical and Electronics Engineers Inc.</sub> | <sub>工程技术</sub> | <sub>SCI1区</sub> | | |
+| <sub>**59**</sub> | <sub>**[TAI](https://dblp.uni-trier.de/db/journals/tai/index.html)**</sub> | <sub>[IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)</sub> | <sub>IEEE</sub> | <sub></sub> | <sub></sub> | | |
+| <sub>**60**</sub> | <sub>**[Patterns](https://dblp.uni-trier.de/db/journals/patterns/index.html)**</sub> | <sub>[Patterns](https://www.cell.com/patterns/home)</sub> | <sub>CELL PRESS</sub> | <sub>计算机科学</sub> | <sub></sub> | | |
+| <sub>**61**</sub> | <sub>**[DENTOMAXILLOFAC RAD](	https://www.editorialmanager.com/DMFR)**</sub> | <sub>[DENTOMAXILLOFACIAL RADIOLOGY](http://www.birpublications.org/loi/dmfr)</sub> | <sub>British Institute of Radiology</sub> | <sub>医学</sub> | <sub>SCI2区</sub> | | |
+| <sub>**62**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**63**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**64**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**65**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**66**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**67**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**68**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**69**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**7**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
 
 ###### 会议列表, ...
 
