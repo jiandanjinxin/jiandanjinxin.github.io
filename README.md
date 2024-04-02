@@ -83,8 +83,13 @@ To add or update a deadline:
 | <sub>**49**</sub> | <sub>**[T NEUR NET LEAR](https://dblp.uni-trier.de/db/journals/tnn/index.html)**</sub> | <sub>[Transactions on Neural Networks and Learning Systems](http://cis.ieee.org/ieee-transactions-on-neural-networks-and-learning-systems.html)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub>B</sub> | | |
 | <sub>**50**</sub> | <sub>**[T COMPUT IMAG]()**</sub> | <sub>[Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)</sub> | <sub>IEEE</sub> | <sub>计算机科学</sub> | <sub></sub> | | |
 | <sub>**51**</sub> | <sub>**[MED PHYS.]()**</sub> | <sub>[MEDICAL PHYSICS](http://online.medphys.org/)</sub> | <sub>John Wiley and Sons Ltd</sub> | <sub>医学</sub> | <sub></sub> | | |
-| <sub>**52**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
-| <sub>**53**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**52**</sub> | <sub>**[PHYS MED BIOL]()**</sub> | <sub>[Physics in Medicine & Biology](http://iopscience.iop.org/0031-9155/)</sub> | <sub>IOP Publishing Ltd.</sub> | <sub>医学</sub> | <sub></sub> | | |
+| <sub>**53**</sub> | <sub>**[RADIOLOGY](http://pubs.rsna.org/journal/radiology)**</sub> | <sub>[RADIOLOGY](http://pubs.rsna.org/journal/radiology)</sub> | <sub>Radiological Society of North America Inc.</sub> | <sub>医学</sub> | <sub>SCI1区</sub> | | |
+| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
 | <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
 
 ###### 会议列表, ...
