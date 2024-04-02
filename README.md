@@ -77,11 +77,15 @@ To add or update a deadline:
 | <sub>**43**</sub> | <sub>**[JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)**</sub> | <sub>[Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)</sub> | <sub>ScienceDirect</sub> | <sub>生物信息</sub> | <sub>B</sub> | | |
 | <sub>**44**</sub> | <sub>**[IMAVIS](https://www.sciencedirect.com/journal/image-and-vision-computing)**</sub> | <sub>[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)</sub> | <sub>ScienceDirect</sub> | <sub>计算机视觉</sub> | <sub>B</sub> | | |
 | <sub>**45**</sub> | <sub>**[APIN](https://link.springer.com/journal/10489)**</sub> | <sub>[Applied Intelligence (APIN) ](https://link.springer.com/journal/10489)</sub> | <sub>ScienceDirect</sub> | <sub>人工智能</sub> | <sub>B</sub> | | |
-| <sub>**46**</sub> | <sub>**[TITS](https://dblp.uni-trier.de/db/journals/tits/index.html)**</sub> | <sub>[IEEE Transactions on Intelligent Transportation Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)</sub> | <sub>ScienceDirect</sub> | <sub>工程技术</sub> | <sub>B</sub> | | |
-
-
-
-
+| <sub>**46**</sub> | <sub>**[TITS](https://dblp.uni-trier.de/db/journals/tits/index.html)**</sub> | <sub>[Transactions on Intelligent Transportation Systems ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)</sub> | <sub>IEEE</sub> | <sub>工程技术</sub> | <sub>B</sub> | | |
+| <sub>**47**</sub> | <sub>**[EXPERT SYST APPL](https://dblp.uni-trier.de/db/journals/eswa/index.html)**</sub> | <sub>[EXPERT SYSTEMS WITH APPLICATIONS](https://www.journals.elsevier.com/expert-systems-with-applications/)</sub> | <sub>Elsevier Ltd</sub> | <sub>工程技术</sub> | <sub>C</sub> | | |
+| <sub>**48**</sub> | <sub>**[INFORM FUSION](https://dblp.uni-trier.de/db/journals/inffus/index.html)**</sub> | <sub>[Information Fusion](http://www.journals.elsevier.com/information-fusion/)</sub> | <sub>Elsevier</sub> | <sub>计算机科学</sub> | <sub></sub> | | |
+| <sub>**49**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**50**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**51**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**52**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**53**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
+| <sub>**5**</sub> | <sub>**[]()**</sub> | <sub>[]()</sub> | <sub></sub> | <sub></sub> | <sub>B</sub> | | |
 
 ###### 会议列表, ...
 
