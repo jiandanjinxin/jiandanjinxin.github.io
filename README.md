@@ -220,6 +220,10 @@ https://benthamscience.com/journal/65/track/1
 2. [Nature｜如何成为一位优秀的跨学科研究者？](https://mp.weixin.qq.com/s/rJw2cpEIBxOt2ISYw5Lvlw)
 
 
+# 顶会论文集
+  [ISBI 2024](https://drive.google.com/drive/folders/1izwhsRFdCwT5zARjnuTviBaNQ-5msebP?usp=drive_link)
+
+
 ## License
 
 [MIT][1]
@@ -295,11 +299,7 @@ Scopus收录的科研成果发表署名机构为中国（大陆）机构的作�
 
 [FWCI-查询](www.scopus.com)
 
-4. ## 顶会论文集
-  [ISBI 2024](https://drive.google.com/drive/folders/1izwhsRFdCwT5zARjnuTviBaNQ-5msebP?usp=drive_link)
-
-
-5. [科睿唯安“全球高被引科学家”（Highly Cited Researchers）](https://clarivate.com/highly-cited-researchers/)
+4. [科睿唯安“全球高被引科学家”（Highly Cited Researchers）](https://clarivate.com/highly-cited-researchers/)
 
 高被引科学家的遴选方法论由科睿唯安科学信息研究所 (ISI) 的文献计量学专家和数据科学家基于Web of Science™引文数据及其分析而制定。
 
