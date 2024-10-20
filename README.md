@@ -182,7 +182,7 @@ https://benthamscience.com/journal/65/track/1
 | <sub>序号</sub> | <sub>作者名</sub> | <sub>作者主页</sub> | <sub>谷歌学术</sub> | <sub>领域</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**1**</sub> | <sub>**[陈浩-香港科技大学](https://cse.hkust.edu.hk/~jhc/)**</sub> | <sub>[陈浩主页](https://cse.hkust.edu.hk/~jhc/)</sub> | <sub>[陈浩谷歌主页](https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ&hl=zh-CN)</sub> | <sub>大模型，病理</sub> | 
-
+| <sub>**2**</sub> | <sub>**[许铮铧-合肥工业大学](https://zhenghuaxu.info/)**</sub> | <sub>[许铮铧主页](https://zhenghuaxu.info/)</sub> | <sub>[许铮铧谷歌主页](https://scholar.google.com/citations?hl=zh-CN&user=w3WnF-0AAAAJ&view_op=list_works&sortby=pubdate)</sub> | <sub>医疗影像</sub> | 
 
 
 
