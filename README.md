@@ -176,6 +176,19 @@ https://benthamscience.com/journal/65/track/1
 15.	Asia Pacific Bioinformatics Conference
     https://www.apbionet.org/
 
+## 领域方向
+###### 作者列表, ...
+
+| <sub>序号</sub> | <sub>作者名</sub> | <sub>作者主页</sub> | <sub>谷歌学术</sub> | <sub>领域</sub> |
+| :--- | :--- | :--- | :--- | :--- |
+| <sub>**1**</sub> | <sub>**[陈浩-香港科技大学](https://cse.hkust.edu.hk/~jhc/)**</sub> | <sub>[陈浩主页](https://cse.hkust.edu.hk/~jhc/)</sub> | <sub>[陈浩谷歌主页](https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ&hl=zh-CN)</sub> | <sub>大模型，病理</sub> | 
+
+
+
+
+
+
+
 ## Forks & other useful listings
 - [Calendar of Computer Image Analysis, Computer Vision Conferences][38]
 - [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
