@@ -183,7 +183,8 @@ https://benthamscience.com/journal/65/track/1
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**1**</sub> | <sub>**[陈浩-香港科技大学](https://cse.hkust.edu.hk/~jhc/)**</sub> | <sub>[陈浩主页](https://cse.hkust.edu.hk/~jhc/)</sub> | <sub>[陈浩谷歌主页](https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ&hl=zh-CN)</sub> | <sub>大模型，病理</sub> | 
 | <sub>**2**</sub> | <sub>**[许铮铧-合肥工业大学](https://zhenghuaxu.info/)**</sub> | <sub>[许铮铧主页](https://zhenghuaxu.info/)</sub> | <sub>[许铮铧谷歌主页](https://scholar.google.com/citations?hl=zh-CN&user=w3WnF-0AAAAJ&view_op=list_works&sortby=pubdate)</sub> | <sub>医疗影像</sub> | 
-
+| <sub>**3**</sub> | <sub>**[Yixuan Yuan-CUHK](https://www.ee.cuhk.edu.hk/~yxyuan/)**</sub> | <sub>[Yixuan Yuan主页](https://www.ee.cuhk.edu.hk/~yxyuan/)</sub> | <sub>[Yixuan Yuan谷歌主页](https://scholar.google.com/citations?hl=zh-CN&user=Aho5Jv8AAAAJ&view_op=list_works&sortby=pubdate)</sub> | <sub>医疗影像</sub> |
+| <sub>**4**</sub> | <sub>**[Xinyu Liu-CUHK](https://xinyuliu-jeffrey.github.io/)**</sub> | <sub>[Xinyu Liu主页](https://xinyuliu-jeffrey.github.io/)</sub> | <sub>[Xinyu Liu谷歌主页](https://scholar.google.com/citations?hl=en&user=_J8-X7QAAAAJ&view_op=list_works&sortby=pubdate)</sub> | <sub>医疗影像</sub> |
 
 
 
