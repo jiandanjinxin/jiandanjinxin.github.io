@@ -138,6 +138,7 @@ To add or update a deadline:
 
 ## 顶级会议接受Accept Rate
 [Deng-ping Fan-Accept Rate](https://dengpingfan.github.io/pages/Accept.html)
+[CVPR Trends and  Paper List](https://public.tableau.com/views/CVPR2024/CVPRtrends?%3AshowVizHome=no)
 
 ##医学影像
 1. [Biomedical Signal Processing and Control](https://www2.cloud.editorialmanager.com/bspc/default2.aspx)
