@@ -648,3 +648,13 @@
   sub: CV
   note: '<b>NOTE</b>: The IEEE International Joint Conference on Biometrics. More info <a https://ijcb2023.ieee-biometrics.org/''>here</a>.'
 
+- title: ICASSP
+  year: 2026
+  id: icassp26
+  link: https://2026.ieeeicassp.org/
+  deadline: '2025-09-18 14:59:59'
+  timezone: GMT+0800
+  date: May 3-8, 2026
+  place: Barrcelona, Spain. 
+  sub: SP
+  note: '<b>NOTE</b>:THE IEEE International Conference on Acoustics, Speech, and Signal Processing. More info <a https://2026.ieeeicassp.org/''>here</a>.'
