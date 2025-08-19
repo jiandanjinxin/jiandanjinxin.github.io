@@ -32,15 +32,26 @@
   sub: ML
   Note: Mandatory abstract deadline on September 19, 2025.
   
-- title: CVPR
+- title: CVPR-TBD
   year: 2026
   id: cvpr26
   link: https://cvpr.thecvf.com/Conferences/2026
-  deadline: '2025-11-18 14:59:59'
-  timezone: GMT+0800
+  deadline: '2025-11-14 11:59:59'
+  timezone: UTC-0
   date: June 17-21, 2026
   place: Denver, Colorado, United States 
   sub: CV  
+  
+- title: ECCV
+  year: 2026
+  id: eccv26
+  link: https://eccv.ecva.net/Conferences/2026
+  deadline: '2026-03-06 11:59:59'
+  timezone: CET
+  date: Sep 8-13 , 2026.
+  place: Malmö, Sweden
+  sub: CV
+  
   
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
