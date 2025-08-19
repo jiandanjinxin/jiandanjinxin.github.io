@@ -20,7 +20,18 @@
   place:  Tucson, Arizona  
   sub: CV
   Note: This is the second round of submissions. Paper deadline on Sept 19, 2025.
-
+  
+- title: ICLR
+  year: 2026 
+  id: iclr2026
+  link: https://iclr.cc/Conferences/2026
+  deadline: '2025-9-24 23:59:59 '
+  timezone:  UTC-12
+  date:  Apr 23-27, 2026
+  place:  Rio de Janeiro, Brazil
+  sub: ML
+  Note: Mandatory abstract deadline on September 19, 2025.
+  
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
   id: PRCV2024
