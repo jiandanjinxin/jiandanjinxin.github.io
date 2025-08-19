@@ -52,7 +52,16 @@
   place: Malmö, Sweden
   sub: CV
   
-  
+- title: ICDE-2
+  year: 2026
+  id: icde2026
+  link: https://icde2026.github.io/
+  deadline: '2025-10-27 16:59:59'
+  timezone: PT
+  date: May 4-8, 2026.
+  place: Montreal, Canada.
+  sub: DM 
+
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
   id: PRCV2024
