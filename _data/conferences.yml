@@ -661,9 +661,9 @@
 - title: WACV
   year: 2026
   id: wacv2026 
-  link: https://wacv2026.thecvf.com/ 
-  deadline: '2025-09-20 14:59:59 '
-  timezone: GMT+0800
+  link: https://wacv.thecvf.com/ 
+  deadline: '2025-09-19 23:59:59'
+  timezone: AoE
   date:  Mar 6–10, 2026
   place:  Tucson, Arizona  
   sub: CV
