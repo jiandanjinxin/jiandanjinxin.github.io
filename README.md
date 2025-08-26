@@ -188,7 +188,9 @@ https://benthamscience.com/journal/65/track/1
 | <sub>**3**</sub> | <sub>**[Yixuan Yuan-CUHK](https://www.ee.cuhk.edu.hk/~yxyuan/)**</sub> | <sub>[Yixuan Yuan主页](https://www.ee.cuhk.edu.hk/~yxyuan/)</sub> | <sub>[Yixuan Yuan谷歌主页](https://scholar.google.com/citations?hl=zh-CN&user=Aho5Jv8AAAAJ&view_op=list_works&sortby=pubdate)</sub> | <sub>医疗影像</sub> |
 | <sub>**4**</sub> | <sub>**[Xinyu Liu-CUHK](https://xinyuliu-jeffrey.github.io/)**</sub> | <sub>[Xinyu Liu主页](https://xinyuliu-jeffrey.github.io/)</sub> | <sub>[Xinyu Liu谷歌主页](https://scholar.google.com/citations?hl=en&user=_J8-X7QAAAAJ&view_op=list_works&sortby=pubdate)</sub> | <sub>医疗影像</sub> |
 
+书籍推荐
 
+强力推荐有志于做科研的同学阅读Philip Guo（UC San Diego副教授）总结其博士生涯的“The Ph.D. Grind”。该书不仅可以提高你的英语阅读能力，更能让你了解从事科研工作可能会遇到的挑战，以及如何解决困难的经验。
 
 
 
