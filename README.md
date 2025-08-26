@@ -230,6 +230,7 @@ https://benthamscience.com/journal/65/track/1
 - [CCF Conference Deadlines][35]
 - [Best Computer Science Conferences][36]
 - [CSRankings: Computer Science Rankings][37]
+- [Conference & Lecture & Debriefing 2024( in fields such as forestry, ecology, and remote sensing.)][39]
 
 
 # 科研资源
@@ -283,6 +284,7 @@ https://benthamscience.com/journal/65/track/1
 [36]:https://research.com/conference-rankings/computer-science
 [37]:https://csrankings.org/#/fromyear/2011/toyear/2023/index?all&us
 [38]:http://conferences.visionbib.com/Iris-Conferences.html
+[39]:https://stu.log.dhliubj.com/meeting.html
 
 <details>
     </summary>
