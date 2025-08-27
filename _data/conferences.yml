@@ -76,7 +76,7 @@
   year: 2026
   id: emnlp26
   link: TBA
-  deadline: '2026-05-20 23:59:59'
+  deadline: '2026-5-20 23:59:59'
   timezone: UTC 
   date: Nov xx-xx, 2026.
   place: TBA
@@ -86,7 +86,7 @@
   year: 2026
   id: acl26
   link: https://2026.aclweb.org/
-  deadline: '2026-02-16 19:59:00'
+  deadline: '2026-2-16 19:59:00'
   timezone: GMT+0800
   date: TBA
   place: America(TBU)
