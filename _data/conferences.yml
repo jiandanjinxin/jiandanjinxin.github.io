@@ -82,6 +82,16 @@
   place: London, UK
   sub: MIC
   
+- title: ACL-TBD
+  year: 2026
+  id: acl2026
+  link: https://2026.aclweb.org/
+  deadline: '2026-2-16 19:59:59'
+  timezone: UTC-12
+  date: Jul 2-7,2026
+  place: San Diego, CA
+  sub: NLP
+  
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
   id: PRCV2024
