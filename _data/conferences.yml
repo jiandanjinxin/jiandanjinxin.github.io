@@ -61,6 +61,16 @@
   date: May 4-8, 2026
   place: Montreal, Canada.
   sub: DM 
+
+- title:  ICME
+  year: 2026
+  id: icme2026
+  link: https://attend.ieee.org/icme-2026
+  deadline: '2025-12-15 23:59:59'
+  timezone: UTC
+  date: Jul 5-9,2026
+  place: Bangkok,Thailand
+  sub: ML
   
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
