@@ -113,6 +113,16 @@
   place:  TBA
   sub:  NLP
   
+- title: WWW  
+  year:  2026
+  id: WWW2026
+  link: https://www2026.thewebconf.org/
+  deadline: '2025-10-7 23:59:59'
+  timezone: AOE
+  date: April 13-17, 2026
+  place: Dubai, United Arab Emirates
+  sub: DM
+  
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
   id: PRCV2024
