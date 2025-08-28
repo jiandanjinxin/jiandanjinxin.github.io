@@ -92,6 +92,16 @@
   place: San Diego, CA
   sub: NLP
   
+- title: KDD-2
+  year: 2026
+  id: kdd2026
+  link: https://kdd2026.kdd.org/
+  deadline: '2026-2-8 23:59:59'
+  timezone: AOE
+  date: Aug 9-13,2026
+  place: Jeju, Korea
+  sub: DM
+  
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
   id: PRCV2024
