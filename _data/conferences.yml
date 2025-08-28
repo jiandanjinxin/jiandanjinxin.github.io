@@ -102,6 +102,16 @@
   place: Jeju, Korea
   sub: DM
   Note: '<b>NOTE</b>:Mandatory abstract deadline on Feb 1, 2026.More info <a href=''https://kdd2026.kdd.org/applied-data-science-ads-track-call-for-papers/''>here</a>.'
+
+- title: EMNLP-TBD
+  year:  2026
+  id:  emnlp26
+  link:  TBA
+  deadline:  '2026-5-20 23:59:59'
+  timezone:  UTC-12
+  date:  Nov xx-xx, 2026.
+  place:  TBA
+  sub:  NLP
   
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
