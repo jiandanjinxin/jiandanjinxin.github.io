@@ -122,6 +122,17 @@
   date: April 13-17, 2026
   place: Dubai, United Arab Emirates
   sub: DM
+  Note: '<b>NOTE</b>:Mandatory abstract deadline on Sep 30, 2025.More info <a href=''https://www2026.thewebconf.org/calls/research-tracks.html''>here</a>.'
+  
+- title: ICCV
+  year: 2026
+  id: iccv2026
+  link: https://waset.org/computer-vision-conference-in-january-2026-in-istanbul?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing
+  deadline: '2025-9-1 23:59:59'
+  timezone: HST
+  date:Jan 26-27, 2026
+  place: Istanbul, Türkiye
+  sub: CV
   
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
