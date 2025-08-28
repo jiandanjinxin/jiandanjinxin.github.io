@@ -61,57 +61,7 @@
   date: May 4-8, 2026.
   place: Montreal, Canada.
   sub: DM 
-  
-- title: InterSpeech
-  year: 2026
-  id: interspeech26
-  link: https://interspeech2026.org/en-AU
-  deadline: '2026-02-24 23:59:59'
-  timezone: UTC+8
-  date: Sept 27 - Oct 01, 2026.
-  place: Rotterdam, Netherlands.
-  sub: SS
-  
-- title: EMNLP-TBD
-  year: 2026
-  id: emnlp26
-  link: TBA
-  deadline: '2026-5-20 23:59:59'
-  timezone: UTC-0
-  date: Nov xx-xx, 2026.
-  place: TBA
-  sub: NLP
-
-- title: ACL-TBD
-  year: 2026
-  id: acl26
-  link: https://2026.aclweb.org/
-  deadline: '2026-2-16 19:59:00'
-  timezone: UTC-0
-  date: TBA
-  place: America(TBU)
-  sub: NLP
-
-- title: ICME
-  year: 2026
-  id: ICME2026
-  link: https://attend.ieee.org/icme-2026
-  deadline: '2025-12-15 23:59:59'
-  timezone: UTC-0
-  date: Jul 5-9,2026
-  place: Bangkok,Thailand
-  sub: ML
-
-- title: CSIAM第七届大数据与人工智能科学大会- TBD
-  year: 2026
-  id: CSIAM-BDAI 2026 
-  link: http://bdai2025.icrp.xjtu.edu.cn/123227712/index?pageId=123227769 
-  deadline:July 7,2025
-  timezone: UTC-0
-  date: July 18-20,2025 
-  place: 桂林  
-  sub: DC 
-  
+    
 - title: 第六届中国模式识别与计算机视觉大会（The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024）
   year: 2024
   id: PRCV2024
