@@ -29,6 +29,16 @@
   date: Jun 1–5, 2026
   place: Vienna, Austria
   sub: ML
+
+- title: NIPS 2026t-TBD
+  year: 2026
+  link: https://neurips.cc/
+  deadline: '2026-5-20 19:59:59'
+  timezone: UTC
+  date: Dec 2-7, 2026
+  place: TBA
+  sub: ML
+  
     
 - title: ICASSP
   year: 2026
