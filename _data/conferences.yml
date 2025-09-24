@@ -19,7 +19,17 @@
   timezone: GMT+0800
   date: Jul 18-20,2026
   sub: DC
-  
+
+- title: ICRA
+  year: 2026
+  id: icra26
+  link: https://2026.ieee-icra.org/
+  deadline: '2026-3-6 23:59:00'
+  timezone: EST
+  date: Jun 1–5, 2026
+  place: Vienna, Austria
+  sub: ML
+    
 - title: ICASSP
   year: 2026
   id: icassp26
