@@ -30,8 +30,9 @@
   place: Vienna, Austria
   sub: ML
 
-- title: NIPS 2026t-TBD
+- title: NIPS 2026-TBD
   year: 2026
+  id: nips26
   link: https://neurips.cc/
   deadline: '2026-5-20 19:59:59'
   timezone: UTC
@@ -39,7 +40,6 @@
   place: TBA
   sub: ML
   
-    
 - title: ICASSP
   year: 2026
   id: icassp26
