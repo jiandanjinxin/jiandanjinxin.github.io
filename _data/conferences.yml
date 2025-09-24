@@ -1,5 +1,16 @@
 ---
-  
+
+- title: Information ProcessingIn Medical lmaging
+  year: 2027
+  id: ipmi27
+  link: https://2027.ipmi-conf.org/
+  deadline: '2026-12-1 23:59:59'
+  timezone: AOE
+  date: June 27–July 02, 2027
+  place: QC, Canada
+  sub: MIC
+  Note: The official tentative submission time is December 2026, and the specific date has not yet been determined. 
+
 - title: ICASSP
   year: 2026
   id: icassp26
