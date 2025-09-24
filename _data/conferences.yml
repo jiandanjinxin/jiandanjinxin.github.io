@@ -1,6 +1,6 @@
 ---
 
-- title: Information ProcessingIn Medical lmaging
+- title: Information Processing Medical lmaging
   year: 2027
   id: ipmi27
   link: https://2027.ipmi-conf.org/
@@ -10,7 +10,16 @@
   place: QC, Canada
   sub: MIC
   Note: The official tentative submission time is December 2026, and the specific date has not yet been determined. 
-
+  
+- title: CSIAM-BDAI-TBD
+  year: 2026
+  id: CSIAM-BDAI26
+  link: http://bdai2025.icrp.xjtu.edu.cn/123227712/index?pageId=123227769
+  deadline: '2026-7-7 23:59:59'
+  timezone: GMT+0800
+  date: Jul 18-20,2026
+  sub: DM
+  
 - title: ICASSP
   year: 2026
   id: icassp26
