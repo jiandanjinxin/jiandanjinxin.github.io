@@ -1,5 +1,17 @@
 ---
 
+- title: MICCAI
+  hindex: 46
+  year: 2026
+  id: miccai2026
+  link: https://conferences.miccai.org/2026/en/
+  deadline: TBD
+  timezone: TBD
+  date: Oct 4-8, 2026
+  place: Abu Dhabi, United Arab Emirates
+  sub: MIC
+  Note: Main conference dates have been announced (Oct 4–8, 2026, Abu Dhabi). Paper abstract registration and submission are planned for February 2026, but the exact deadlines and time zone are still to be announced.
+
 - title: IJCAI abstract
   year: 2026
   id: ijcai26-abstract
