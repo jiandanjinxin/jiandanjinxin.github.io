@@ -1,6 +1,18 @@
 ---
 
-- title: MICCAI TBD
+- title: ECCV
+  hindex: 135
+  year: 2026
+  id: eccv26
+  link: https://eccv.ecva.net/Conferences/2026
+  deadline: '2026-03-06 12:00:00'
+  timezone: CET
+  date: September 8-13, 2026
+  place: Malmö, Sweden
+  sub: CV
+  note: '<b>NOTE</b>: Paper submission deadline on March 6, 2026 (12:00 PM CET). More info <a href=''https://eccv.ecva.net/Conferences/2026''>here</a>.'
+
+- title: MICCAI-TBD
   hindex: 46
   year: 2026
   id: miccai2026
