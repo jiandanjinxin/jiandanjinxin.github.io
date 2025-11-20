@@ -1,5 +1,31 @@
 ---
 
+- title: IJCAI abstract
+  year: 2026
+  id: ijcai26-abstract
+  link: https://2026.ijcai.org/important-dates/
+  deadline: '2026-01-12 23:59:59'
+  timezone: UTC-12
+  date: August 15-21, 2026
+  place: Bremen, Germany 
+  sub: ML
+  note: Abstract submission deadline for the main track. All times are 23:59 Anywhere on Earth (UTC−12). More info <a href=''https://2026.ijcai.org/important-dates/''>here</a>.
+
+- title: IJCAI
+  description: International Joint Conference on Artificial Intelligence
+  rank: A
+  hindex: 105
+  year: 2026
+  id: ijcai26
+  link: https://2026.ijcai.org/
+  deadline: '2026-01-19 23:59:59'
+  abstract_deadline: '2026-01-12 23:59:59'
+  timezone: UTC-12
+  date: August 15-21, 2026
+  place: Bremen, Germany 
+  sub: ML
+  note: Main track full paper deadline on January 19, 2026 (23:59 Anywhere on Earth, UTC−12). Phase I notification: March 4, 2026; Author response: April 7–10, 2026; Final notification: April 29, 2026; Camera-ready: May 15, 2026. Workshops & tutorials: August 15–17; Main conference: August 18–21. More info <a href=''https://2026.ijcai.org/important-dates/''>here</a>.
+
 - title: Information Processing Medical lmaging
   year: 2027
   id: ipmi27
