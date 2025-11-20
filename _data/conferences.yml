@@ -48,6 +48,16 @@
   place: Bremen, Germany
   sub: ML
 
+- title: PRCV-TBD
+  year: 2026
+  id: prcv2026
+  link: https://www.prcv.cn/
+  deadline: '2026-06-30 23:59:59'
+  timezone: UTC+8
+  date: October, 2026
+  place: TBD (China)
+  sub: CV
+
 - title: Information Processing Medical lmaging
   year: 2027
   id: ipmi27
